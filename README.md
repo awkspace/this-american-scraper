@@ -16,4 +16,4 @@ repository via [github][4] or [gitcdn][5].
 [2]: https://itunes.apple.com/us/app/this-american-life/id348530331
 [3]: https://play.google.com/store/apps/details?id=org.prx.talbot
 [4]: https://raw.githubusercontent.com/awkspace/this-american-scraper/master/feed.xml
-[5]: https://gitcdn.xyz/repo/awkspace/tal-scraper/master/feed.xml
+[5]: https://gitcdn.xyz/repo/awkspace/this-american-scraper/master/feed.xml
