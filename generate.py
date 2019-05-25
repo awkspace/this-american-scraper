@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 request = requests.get('http://feed.thisamericanlife.org/talpodcast')
 feed = BeautifulSoup(request.content, 'xml')
 
+feed.find('title').string = 'This American Life Archive'
+
 for item in feed.select('channel > item'):
     item.extract()
 
