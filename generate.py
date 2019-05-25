@@ -4,22 +4,8 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-FEED_URL = ('https://raw.githubusercontent.com/awkspace'
-    '/this-american-scraper/master/feed.xml')
-
-request = requests.get('http://feed.thisamericanlife.org/talpodcast')
-feed = BeautifulSoup(request.content, 'xml')
-
-feed.find('title').string = 'This American Life Archive'
-
-feed.find('rss')['xml:base'] = FEED_URL
-
-for link in feed.find_all('atom10:link'):
-    if link['rel'] == 'self':
-        link['href'] = FEED_URL
-
-for item in feed.select('channel > item'):
-    item.extract()
+with open('base.xml', 'r') as base:
+    feed = BeautifulSoup(base.read(), 'xml')
 
 channel = feed.find('channel')
 
