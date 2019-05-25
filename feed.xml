@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?>
 <?xml-stylesheet type="text/css" media="screen" href="http://feed.thisamericanlife.org/~d/styles/itemcontent.css"?>
-<rss version="2.0" xml:base="https://www.thisamericanlife.org" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xml:base="https://raw.githubusercontent.com/awkspace/this-american-scraper/master/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
  <channel>
   <title>
    This American Life Archive
@@ -30,7 +30,7 @@
    </itunes:email>
   </itunes:owner>
   <itunes:image href="http://www.thisamericanlife.org/sites/all/themes/thislife/images/logo-square-1400.jpg"/>
-  <atom10:link href="http://feed.thisamericanlife.org/talpodcast" rel="self" type="application/rss+xml" xmlns:atom10="http://www.w3.org/2005/Atom"/>
+  <atom10:link href="https://raw.githubusercontent.com/awkspace/this-american-scraper/master/feed.xml" rel="self" type="application/rss+xml" xmlns:atom10="http://www.w3.org/2005/Atom"/>
   <feedburner:info uri="talpodcast"/>
   <atom10:link href="http://pubsubhubbub.appspot.com/" rel="hub" xmlns:atom10="http://www.w3.org/2005/Atom"/>
   <media:copyright>
