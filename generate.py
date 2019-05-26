@@ -36,12 +36,9 @@ while True:
         pub_date = feed.new_tag('pubDate')
         pub_date.string = meta_pub_time['content']
 
-        summary = episode.select(
-            'main .field-type-text-with-summary p')
-
-        if summary:
-            description = feed.new_tag('description')
-            description.string = summary[0].get_text()
+        summary = episode.select('meta [name=\'description\']')
+        description = feed.new_tag('description')
+        description.string = summary[0]['content']
 
         enclosure = feed.new_tag('enclosure')
         enclosure['url'] = player_data['audio']
