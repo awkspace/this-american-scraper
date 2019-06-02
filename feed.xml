@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    676: Here’s Looking at You, Kid
+   </title>
+   <link>
+    https://www.thisamericanlife.org/676/heres-looking-at-you-kid
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/676.mp3"/>
+   <description>
+    Adults telling kids who they are, and kids wondering — are they right?
+   </description>
+   <pubDate>
+    2019-05-24T10:35:51-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     199: House on Loon Lake
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2019-04-26T14:52:51-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    172: 24 Hours at the Golden Apple
-   </title>
-   <link>
-    https://www.thisamericanlife.org/172/24-hours-at-the-golden-apple
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/172.mp3"/>
-   <description>
-    One day in a Chicago diner.
-   </description>
-   <pubDate>
-    2000-11-17T00:00:00-05:00
    </pubDate>
   </item>
   <item>
