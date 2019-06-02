@@ -24,6 +24,9 @@ while True:
         player_data = episode.select('script#playlist-data')[0]
         player_data = json.loads(player_data.get_text())
 
+        if '/promos/' in player_data['audio']:
+            player_data['title'] += ' (Promo)'
+
         title = feed.new_tag('title')
         title.string = player_data['title']
 
