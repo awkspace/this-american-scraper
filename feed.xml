@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    676: Here’s Looking at You, Kid (Promo)
+    676: Here’s Looking at You, Kid
    </title>
    <link>
     https://www.thisamericanlife.org/676/heres-looking-at-you-kid
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/676.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/676.mp3"/>
    <description>
     Adults telling kids who they are, and kids wondering — are they right?
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/199/house-on-loon-lake
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/199.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/199.mp3"/>
    <description>
     A young boy, an abandoned house, and the mysterious family who disappeared without a trace.
    </description>
@@ -7194,7 +7194,7 @@
    <link>
     https://www.thisamericanlife.org/199/house-on-loon-lake
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/199.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/199.mp3"/>
    <description>
     A young boy, an abandoned house, and the mysterious family who disappeared without a trace.
    </description>
@@ -7599,7 +7599,7 @@
    <link>
     https://www.thisamericanlife.org/172/24-hours-at-the-golden-apple
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/172.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/172/ZNmd6f21zv30_Pa5CnBrM8nsr4FW-OiaCEO-cdKOeoE/172.mp3"/>
    <description>
     One day in a Chicago diner.
    </description>
