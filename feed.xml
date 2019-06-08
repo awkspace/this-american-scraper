@@ -474,7 +474,7 @@
    <link>
     https://www.thisamericanlife.org/647/ladonna
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/647/ddEcz1iCjN5LVLxcUIhhSSwYn8a6NIwP9iD5ZvQmR_Q/647.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/647/8UegB_HtUSdzU9-J-f1DOr19k67xlAx9bCTGeUOFBBg/647.mp3"/>
    <description>
     A security guard at the airport notices something going wrong on the tarmac, and takes it upon herself to fix it.
    </description>
@@ -600,6 +600,21 @@
    </description>
    <pubDate>
     2018-02-22T10:58:16-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    638: Rom-Com
+   </title>
+   <link>
+    https://www.thisamericanlife.org/638/rom-com
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/638/DSxsJ_E3Zv503MVI5kX-FSoA0EgP8p3btf4s8edev7Q/638.mp3"/>
+   <description>
+    Stories about surviving the mishaps of love.
+   </description>
+   <pubDate>
+    2018-02-02T14:42:10-05:00
    </pubDate>
   </item>
   <item>
@@ -1650,6 +1665,21 @@
    </description>
    <pubDate>
     2015-10-09T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    568: Human Spectacle 2015
+   </title>
+   <link>
+    https://www.thisamericanlife.org/568/human-spectacle-2015
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/568/568.mp3"/>
+   <description>
+    A Japanese reality show contestant has to enter sweepstakes from magazines to win enough sustenance to survive.
+   </description>
+   <pubDate>
+    2015-10-02T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -4204,21 +4234,6 @@
   </item>
   <item>
    <title>
-    398: Long Shot
-   </title>
-   <link>
-    https://www.thisamericanlife.org/398/long-shot
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/398/398.mp3"/>
-   <description>
-    Stories of people betting on something with very bad odds.
-   </description>
-   <pubDate>
-    2010-01-08T00:00:00-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     397: 2010
    </title>
    <link>
@@ -4830,6 +4845,21 @@
    </description>
    <pubDate>
     2008-06-13T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    356: The Prosecutor
+   </title>
+   <link>
+    https://www.thisamericanlife.org/356/the-prosecutor
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/356/356.mp3"/>
+   <description>
+    Things go badly for the lead prosecutor in one of the first high-profile terrorist cases since 9/11.
+   </description>
+   <pubDate>
+    2008-05-30T00:00:00-04:00
    </pubDate>
   </item>
   <item>
