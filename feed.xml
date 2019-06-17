@@ -19,14 +19,14 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    677: Seeing Yourself In the Wild (Promo)
+    677: Seeing Yourself In the Wild
    </title>
    <link>
     https://www.thisamericanlife.org/677/seeing-yourself-in-the-wild
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/677.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/677.mp3"/>
    <description>
-    People coming face to face with unfiltered versions of themselves and what that tells them about who they are.
+    Stories of those unexpected moments when we see who we really are.
    </description>
    <pubDate>
     2019-06-07T16:46:34-04:00
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/647/ladonna
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/647.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/647.mp3"/>
    <description>
     A security guard at the airport notices something going wrong on the tarmac, and takes it upon herself to fix it.
    </description>
@@ -84,7 +84,7 @@
    <link>
     https://www.thisamericanlife.org/675/im-on-tv
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/675.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/675/uBMqAJMY3Vv_m6wAjj0BvkvjnyIFKzNcGsV_K_1l-rA/675.mp3"/>
    <description>
     What it's like to be momentarily big on the small screen.
    </description>
@@ -504,7 +504,7 @@
    <link>
     https://www.thisamericanlife.org/647/ladonna
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/647.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/647.mp3"/>
    <description>
     A security guard at the airport notices something going wrong on the tarmac, and takes it upon herself to fix it.
    </description>
