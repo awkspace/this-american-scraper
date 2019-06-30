@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    354: Mistakes Were Made (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/354/mistakes-were-made
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/354.mp3"/>
+   <description>
+    Freezing dead people so scientists can reanimate them in the future is a lot harder than it sounds.
+   </description>
+   <pubDate>
+    2008-04-18T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     644: Random Acts of History
    </title>
    <link>
@@ -600,21 +615,6 @@
    </description>
    <pubDate>
     2018-03-08T13:01:59-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    640: Five Women
-   </title>
-   <link>
-    https://www.thisamericanlife.org/640/five-women
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/640/jGfMt86tv5HshvBI7wGTHBpZqFYWRGu8PKWMZgDKSPw/640.mp3"/>
-   <description>
-    A different kind of #MeToo story, about several women who worked for the same man.
-   </description>
-   <pubDate>
-    2018-02-23T19:19:34-05:00
    </pubDate>
   </item>
   <item>
