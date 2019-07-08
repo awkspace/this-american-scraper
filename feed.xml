@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    678: The Wannabes (Promo)
+    678: The Wannabes
    </title>
    <link>
     https://www.thisamericanlife.org/678/the-wannabes
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/678.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/678.mp3"/>
    <description>
     This country is crawling in presidential candidates right now and they're bumping into each other in Des Moines and yelling over each other in Miami. We hang out with them, in this weird early period of the election when they're easy to walk right up to.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/354/mistakes-were-made
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/354.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/354.mp3"/>
    <description>
     Freezing dead people so scientists can reanimate them in the future is a lot harder than it sounds.
    </description>
@@ -519,7 +519,7 @@
    <link>
     https://www.thisamericanlife.org/647/ladonna
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/647.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/647/8UegB_HtUSdzU9-J-f1DOr19k67xlAx9bCTGeUOFBBg/647.mp3"/>
    <description>
     A security guard at the airport notices something going wrong on the tarmac, and takes it upon herself to fix it.
    </description>
@@ -4914,7 +4914,7 @@
    <link>
     https://www.thisamericanlife.org/354/mistakes-were-made
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/354.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/354.mp3"/>
    <description>
     Freezing dead people so scientists can reanimate them in the future is a lot harder than it sounds.
    </description>
