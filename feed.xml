@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    679: Save the Girl (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/679/save-the-girl
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/679.mp3"/>
+   <description>
+    People go on missions to save young girls from danger. But sometimes they get so caught up in the mission that it overshadows the girl herself.
+   </description>
+   <pubDate>
+    2019-07-05T16:30:51-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     678: The Wannabes
    </title>
    <link>
@@ -600,21 +615,6 @@
    </description>
    <pubDate>
     2018-03-23T19:37:37-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    641: The Walls
-   </title>
-   <link>
-    https://www.thisamericanlife.org/641/the-walls
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/641/ualLnAjb2PvRl0hE9ii8iFLAKXwMZ54IqGnfVM5ru-c/641.mp3"/>
-   <description>
-    Stories from border walls all over the world, and of the strange ecosystems that arise around them.
-   </description>
-   <pubDate>
-    2018-03-08T13:01:59-05:00
    </pubDate>
   </item>
   <item>
