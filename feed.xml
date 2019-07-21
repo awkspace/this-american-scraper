@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    165: Americans In Paris (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/165/americans-in-paris
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/165.mp3"/>
+   <description>
+    David Sedaris takes Ira on a tour of his favorite spots in Paris.
+   </description>
+   <pubDate>
+    2000-07-28T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     679: Save the Girl
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2008-04-18T00:00:00-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    644: Random Acts of History
-   </title>
-   <link>
-    https://www.thisamericanlife.org/644/random-acts-of-history
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/644.mp3"/>
-   <description>
-    Stories about people who accidentally bump into unsettling facts of history.
-   </description>
-   <pubDate>
-    2018-04-20T20:24:24-04:00
    </pubDate>
   </item>
   <item>
