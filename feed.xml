@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    165: Americans In Paris (Promo)
+    165: Americans In Paris
    </title>
    <link>
     https://www.thisamericanlife.org/165/americans-in-paris
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/165.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/165.mp3"/>
    <description>
     David Sedaris takes Ira on a tour of his favorite spots in Paris.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/679/save-the-girl
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/679.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/679.mp3"/>
    <description>
     People go on missions to save girls from danger. But they get so caught up that it overshadows the girl herself.
    </description>
@@ -579,7 +579,7 @@
    <link>
     https://www.thisamericanlife.org/644/random-acts-of-history
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/644.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/644/x6vgBSq8Gn_LaAck7nWyUPIlOmhokJ5z1Bv3vrOokcw/644.mp3"/>
    <description>
     Stories about people who accidentally bump into unsettling facts of history.
    </description>
@@ -7759,12 +7759,12 @@
   </item>
   <item>
    <title>
-    165: Americans In Paris (Promo)
+    165: Americans In Paris
    </title>
    <link>
     https://www.thisamericanlife.org/165/americans-in-paris
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/165.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/165.mp3"/>
    <description>
     David Sedaris takes Ira on a tour of his favorite spots in Paris.
    </description>
