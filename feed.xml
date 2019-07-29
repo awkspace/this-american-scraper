@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    680: The Weight Of Words (Promo)
+    680: The Weight Of Words
    </title>
    <link>
     https://www.thisamericanlife.org/680/the-weight-of-words
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/680.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/680.mp3"/>
    <description>
     Words mean things, but some words are especially meaningful — whether in a survival manual, a song lyric, or a slur.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/165/americans-in-paris
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/165.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/165.mp3"/>
    <description>
     David Sedaris takes Ira on a tour of his favorite spots in Paris.
    </description>
@@ -4929,7 +4929,7 @@
    <link>
     https://www.thisamericanlife.org/354/mistakes-were-made
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/354.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/354/YO4F76SyWiq1kS5OOCHl6fbcyUiR7wghRa9W8JFgawo/354.mp3"/>
    <description>
     Freezing dead people so scientists can reanimate them in the future is a lot harder than it sounds.
    </description>
@@ -7764,7 +7764,7 @@
    <link>
     https://www.thisamericanlife.org/165/americans-in-paris
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/165.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/165.mp3"/>
    <description>
     David Sedaris takes Ira on a tour of his favorite spots in Paris.
    </description>
