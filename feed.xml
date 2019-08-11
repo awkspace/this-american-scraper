@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    409: Held Hostage (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/409/held-hostage
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/409.mp3"/>
+   <description>
+    Stories of people held captive — by criminals, by paperwork, and in one man's case, his own body — and the ways they try to cope.
+   </description>
+   <pubDate>
+    2010-06-04T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     585: In Defense of Ignorance
    </title>
    <link>
@@ -630,21 +645,6 @@
    </description>
    <pubDate>
     2018-03-23T19:37:37-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    641: The Walls
-   </title>
-   <link>
-    https://www.thisamericanlife.org/641/the-walls
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/641/ualLnAjb2PvRl0hE9ii8iFLAKXwMZ54IqGnfVM5ru-c/641.mp3"/>
-   <description>
-    Stories from border walls all over the world, and of the strange ecosystems that arise around them.
-   </description>
-   <pubDate>
-    2018-03-08T13:01:59-05:00
    </pubDate>
   </item>
   <item>
