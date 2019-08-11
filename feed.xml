@@ -1219,6 +1219,21 @@
   </item>
   <item>
    <title>
+    603: Once More, With Feeling
+   </title>
+   <link>
+    https://www.thisamericanlife.org/603/once-more-with-feeling
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/603/603.mp3"/>
+   <description>
+    Stories of people who decide to rethink the way they’ve been doing things.
+   </description>
+   <pubDate>
+    2016-12-02T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     602: The Sun Comes Up
    </title>
    <link>
@@ -1665,21 +1680,6 @@
    </description>
    <pubDate>
     2015-11-27T00:00:00-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    572: Transformers
-   </title>
-   <link>
-    https://www.thisamericanlife.org/572/transformers
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/572/572.mp3"/>
-   <description>
-    A prisoner who hasn't talked to anyone in years comes up with a bold plan to re-introduce himself to the world.
-   </description>
-   <pubDate>
-    2015-11-06T00:00:00-05:00
    </pubDate>
   </item>
   <item>
@@ -4136,7 +4136,7 @@
    </link>
    <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/409.mp3"/>
    <description>
-    A kidnapping victim in Colombia spends his nights listening to a radio station that plays messages from the families of the kidnapped.
+    Stories of people held captive — by criminals, by paperwork, and in one man's case, his own body — and the ways they try to cope.
    </description>
    <pubDate>
     2010-06-04T00:00:00-04:00
