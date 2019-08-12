@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    409: Held Hostage (Promo)
+    409: Held Hostage
    </title>
    <link>
     https://www.thisamericanlife.org/409/held-hostage
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/409.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/409.mp3"/>
    <description>
     Stories of people held captive — by criminals, by paperwork, and in one man's case, his own body — and the ways they try to cope.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/585/in-defense-of-ignorance
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/585.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/585.mp3"/>
    <description>
     Three very different stories of people not admitting the truth.
    </description>
@@ -84,7 +84,7 @@
    <link>
     https://www.thisamericanlife.org/679/save-the-girl
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/679.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/679/BKoFPgdIFCerGnO29lBxsW7hx0Vegkj8oLXWWCr3QYE/679.mp3"/>
    <description>
     People go on missions to save girls from danger. But they get so caught up that it overshadows the girl herself.
    </description>
@@ -1494,7 +1494,7 @@
    <link>
     https://www.thisamericanlife.org/585/in-defense-of-ignorance
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/585.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/585.mp3"/>
    <description>
     Three very different stories of people not admitting the truth.
    </description>
@@ -4129,12 +4129,12 @@
   </item>
   <item>
    <title>
-    409: Held Hostage (Promo)
+    409: Held Hostage
    </title>
    <link>
     https://www.thisamericanlife.org/409/held-hostage
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/409.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/409.mp3"/>
    <description>
     Stories of people held captive — by criminals, by paperwork, and in one man's case, his own body — and the ways they try to cope.
    </description>
