@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    681: Escape From the Lab (Promo)
+    681: Escape From the Lab
    </title>
    <link>
     https://www.thisamericanlife.org/681/escape-from-the-lab
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/681.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/681.mp3"/>
    <description>
     What happens when our most ingenious creations actually make it out into the world.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/409/held-hostage
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/409.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/409.mp3"/>
    <description>
     Stories of people held captive — by criminals, by paperwork, and in one man's case, his own body — and the ways they try to cope.
    </description>
@@ -4134,7 +4134,7 @@
    <link>
     https://www.thisamericanlife.org/409/held-hostage
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/409.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/409.mp3"/>
    <description>
     Stories of people held captive — by criminals, by paperwork, and in one man's case, his own body — and the ways they try to cope.
    </description>
@@ -7794,7 +7794,7 @@
    <link>
     https://www.thisamericanlife.org/165/americans-in-paris
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/165.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/165/Y-jYeo5T0qnd1hbxfUuH6r9_X37DdyzC4KDZV63gVmE/165.mp3"/>
    <description>
     David Sedaris takes Ira on a tour of his favorite spots in Paris.
    </description>
