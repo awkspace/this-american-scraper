@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    682: Ten Sessions (Promo)
+    682: Ten Sessions
    </title>
    <link>
     https://www.thisamericanlife.org/682/ten-sessions
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/682.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/682.mp3"/>
    <description>
     What if someone told you about a type of therapy that could help you work through unhealed trauma in just ten sessions? Some people knock through it in two weeks. Jaime Lowe tried the therapy—and recorded it.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/681/escape-from-the-lab
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/681.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/681.mp3"/>
    <description>
     What happens when our most ingenious creations actually make it out into the world.
    </description>
@@ -84,7 +84,7 @@
    <link>
     https://www.thisamericanlife.org/680/the-weight-of-words
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/680.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/680/1cNOphA75MxVJie4JslvQWbAcZtO75gYzMyq3ENhDb0/680.mp3"/>
    <description>
     Words mean things, but some words are especially meaningful — whether in a survival manual, a song lyric, or a slur.
    </description>
