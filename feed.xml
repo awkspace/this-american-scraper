@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    388: Rest Stop (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/388/rest-stop
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/388.mp3"/>
+   <description>
+    Nine radio reporters. Two days. One rest stop on the New York State Thruway.
+   </description>
+   <pubDate>
+    2009-09-04T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     682: Ten Sessions
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2010-06-04T00:00:00-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    585: In Defense of Ignorance
-   </title>
-   <link>
-    https://www.thisamericanlife.org/585/in-defense-of-ignorance
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/585.mp3"/>
-   <description>
-    Three very different stories of people not admitting the truth.
-   </description>
-   <pubDate>
-    2016-04-22T00:00:00-04:00
    </pubDate>
   </item>
   <item>
