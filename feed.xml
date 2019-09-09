@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    205: Plan B (Promo)
+    205: Plan B
    </title>
    <link>
     https://www.thisamericanlife.org/205/plan-b
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/205.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/205.mp3"/>
    <description>
     There's the thing you plan to do, and then there's the thing you end up doing.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/388/rest-stop
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/388.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/388.mp3"/>
    <description>
     Nine radio reporters. Two days. One rest stop on the New York State Thruway.
    </description>
@@ -4149,7 +4149,7 @@
    <link>
     https://www.thisamericanlife.org/409/held-hostage
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/409.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/409/iR7XkM_HakEan5YvQdbz_8gYkHEJhZzMxSDuj6KEBgY/409.mp3"/>
    <description>
     Stories of people held captive — by criminals, by paperwork, and in one man's case, his own body — and the ways they try to cope.
    </description>
@@ -4464,7 +4464,7 @@
    <link>
     https://www.thisamericanlife.org/388/rest-stop
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/388.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/388.mp3"/>
    <description>
     Nine radio reporters. Two days. One rest stop on the New York State Thruway.
    </description>
@@ -7204,12 +7204,12 @@
   </item>
   <item>
    <title>
-    205: Plan B (Promo)
+    205: Plan B
    </title>
    <link>
     https://www.thisamericanlife.org/205/plan-b
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/205.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/205.mp3"/>
    <description>
     There's the thing you plan to do, and then there's the thing you end up doing.
    </description>
