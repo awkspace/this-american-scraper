@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    477: Getting Away With It (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/477/getting-away-with-it
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/477.mp3"/>
+   <description>
+    Stories of people breaking the rules fully, completely, and with no bad consequences.
+   </description>
+   <pubDate>
+    2012-10-19T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     205: Plan B
    </title>
    <link>
@@ -60,6 +75,21 @@
    </description>
    <pubDate>
     2019-08-16T17:58:19-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    683: Beer Summit (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/683/beer-summit
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/683.mp3"/>
+   <description>
+    Two people, sitting down over a beer, hashing out their differences and understanding where the other guy is coming from. Hard to imagine these days right? It's so rare right now that someone is curious enough to actually see the other person's point of view. This week on the show, beer summits. Including going behind the scenes of the most famous one ever.
+   </description>
+   <pubDate>
+    2019-09-06T16:41:50-04:00
    </pubDate>
   </item>
   <item>
@@ -630,36 +660,6 @@
    </description>
    <pubDate>
     2018-04-20T20:24:24-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    643: Damned If You Do…
-   </title>
-   <link>
-    https://www.thisamericanlife.org/643/damned-if-you-do
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/643/7-14VwvzK3gQOaBlAvGodKnjEdbJKR69uHuTFuFF9Q4/643.mp3"/>
-   <description>
-    People having to make a choice, when no good options exist.
-   </description>
-   <pubDate>
-    2018-04-06T14:56:36-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    642: The Impossible Dream
-   </title>
-   <link>
-    https://www.thisamericanlife.org/642/the-impossible-dream
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/642/Hez-Lkrb3Lo3qnx3439-dgofFCQ319YFSegEByNxb5c/642.mp3"/>
-   <description>
-    Before he leaves the Senate for good, Republican Jeff Flake is trying to get a bill passed.
-   </description>
-   <pubDate>
-    2018-03-23T19:37:37-04:00
    </pubDate>
   </item>
   <item>
