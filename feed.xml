@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    477: Getting Away With It (Promo)
+    477: Getting Away With It
    </title>
    <link>
     https://www.thisamericanlife.org/477/getting-away-with-it
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/477.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/477.mp3"/>
    <description>
     Stories of people breaking the rules fully, completely, and with no bad consequences.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/205/plan-b
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/205.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/205.mp3"/>
    <description>
     There's the thing you plan to do, and then there's the thing you end up doing.
    </description>
@@ -99,7 +99,7 @@
    <link>
     https://www.thisamericanlife.org/681/escape-from-the-lab
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/681.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/681/D0BT-ozK85AqPDhQ8VzxWY5HNZGr9ppw-LFtmiBlkZI/681.mp3"/>
    <description>
     What happens when our most ingenious creations actually make it out into the world.
    </description>
@@ -3154,12 +3154,12 @@
   </item>
   <item>
    <title>
-    477: Getting Away With It (Promo)
+    477: Getting Away With It
    </title>
    <link>
     https://www.thisamericanlife.org/477/getting-away-with-it
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/477.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/477.mp3"/>
    <description>
     Stories of people breaking the rules fully, completely, and with no bad consequences.
    </description>
@@ -7239,7 +7239,7 @@
    <link>
     https://www.thisamericanlife.org/205/plan-b
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/205.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/205.mp3"/>
    <description>
     There's the thing you plan to do, and then there's the thing you end up doing.
    </description>
