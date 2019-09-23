@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    683: Beer Summit (Promo)
+    683: Beer Summit
    </title>
    <link>
     https://www.thisamericanlife.org/683/beer-summit
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/683.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/683.mp3"/>
    <description>
     Two people, sitting down over a beer, hashing out their differences and understanding where the other guy is coming from. Hard to imagine these days, right? It's so rare right now that someone is curious enough to actually see the other person's point of view. This week on the show, beer summits. Including going behind the scenes of the most famous one ever.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/477/getting-away-with-it
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/477.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/477.mp3"/>
    <description>
     Stories of people breaking the rules fully, completely, and with no bad consequences.
    </description>
@@ -84,7 +84,7 @@
    <link>
     https://www.thisamericanlife.org/682/ten-sessions
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/682.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/682/r8SS8yGmruo3Qx07qpLkjtLy-ex13tx8TcwqH5oP5gU/682.mp3"/>
    <description>
     What if someone told you about a type of therapy that could help you work through unhealed trauma in just ten sessions? Jaime Lowe tried the therapy—and recorded it.
    </description>
@@ -3159,7 +3159,7 @@
    <link>
     https://www.thisamericanlife.org/477/getting-away-with-it
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/477.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/477.mp3"/>
    <description>
     Stories of people breaking the rules fully, completely, and with no bad consequences.
    </description>
