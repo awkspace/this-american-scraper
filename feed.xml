@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    581: Anatomy of Doubt
+   </title>
+   <link>
+    https://www.thisamericanlife.org/581/anatomy-of-doubt
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/581/jU37fQoqHJ5VCKr8PLEBJmrqUTjummHxDmau_FQoxLk/581.mp3"/>
+   <description>
+    The story of a rape investigation gone undeniably wrong.
+   </description>
+   <pubDate>
+    2016-02-26T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     684: Burn It Down
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2012-10-19T00:00:00-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    205: Plan B
-   </title>
-   <link>
-    https://www.thisamericanlife.org/205/plan-b
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/205.mp3"/>
-   <description>
-    There's the thing you plan to do, and then there's the thing you end up doing.
-   </description>
-   <pubDate>
-    2002-02-01T00:00:00-05:00
    </pubDate>
   </item>
   <item>
