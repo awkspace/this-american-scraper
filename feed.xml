@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    685: We Come From Small Places (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/685/we-come-from-small-places
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/685.mp3"/>
+   <description>
+    The staff goes to one of the biggest parties in New York City, the Labor Day Carnival and the West Indian American Day Parade in Brooklyn.
+   </description>
+   <pubDate>
+    2019-10-04T17:41:58-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     581: Anatomy of Doubt
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2019-09-06T16:41:50-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    477: Getting Away With It
-   </title>
-   <link>
-    https://www.thisamericanlife.org/477/getting-away-with-it
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/477.mp3"/>
-   <description>
-    Stories of people breaking the rules fully, completely, and with no bad consequences.
-   </description>
-   <pubDate>
-    2012-10-19T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -1200,6 +1200,21 @@
    </description>
    <pubDate>
     2017-01-20T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    607: Didn’t We Solve This One?
+   </title>
+   <link>
+    https://www.thisamericanlife.org/607/didnt-we-solve-this-one
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/607/607.mp3"/>
+   <description>
+    Why has it been so hard for us to get the tens of thousands of Iraqis and Afghans that have helped the U.S. to safety?
+   </description>
+   <pubDate>
+    2017-01-06T00:00:00-05:00
    </pubDate>
   </item>
   <item>
@@ -3390,21 +3405,6 @@
    </description>
    <pubDate>
     2012-03-30T00:00:00-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    460: Retraction
-   </title>
-   <link>
-    https://www.thisamericanlife.org/460/retraction
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/460/460.mp3"/>
-   <description>
-    We've discovered that one of our most popular episodes contained numerous fabrications. This week, we detail the errors in Mike Daisey's story about visiting Foxconn, which makes iPads and other products for Apple in China. Marketplace's China correspondent Rob Schmitz discovered the fabrications.
-   </description>
-   <pubDate>
-    2012-03-16T00:00:00-04:00
    </pubDate>
   </item>
   <item>
