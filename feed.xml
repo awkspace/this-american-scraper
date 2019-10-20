@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    686: Umbrellas Up (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/686/umbrellas-up
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/686.mp3"/>
+   <description>
+    For over 100 days now, protestors in Hong Kong have taken to the streets every weekend. What it’s like to live through that.
+   </description>
+   <pubDate>
+    2019-10-11T19:10:54-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     685: We Come From Small Places
    </title>
    <link>
@@ -645,21 +660,6 @@
    </description>
    <pubDate>
     2018-04-27T14:32:01-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    644: Random Acts of History
-   </title>
-   <link>
-    https://www.thisamericanlife.org/644/random-acts-of-history
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/644/x6vgBSq8Gn_LaAck7nWyUPIlOmhokJ5z1Bv3vrOokcw/644.mp3"/>
-   <description>
-    Stories about people who accidentally bump into unsettling facts of history.
-   </description>
-   <pubDate>
-    2018-04-20T20:24:24-04:00
    </pubDate>
   </item>
   <item>
