@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    686: Umbrellas Up (Promo)
+    686: Umbrellas Up
    </title>
    <link>
     https://www.thisamericanlife.org/686/umbrellas-up
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/686.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/686.mp3"/>
    <description>
     For over 100 days now, protestors in Hong Kong have taken to the streets every weekend. What it’s like to live through that.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/685/we-come-from-small-places
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/685.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/685.mp3"/>
    <description>
     The staff goes to one of the biggest parties in New York City, the Labor Day Carnival and the West Indian American Day Parade in Brooklyn.
    </description>
@@ -84,7 +84,7 @@
    <link>
     https://www.thisamericanlife.org/683/beer-summit
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/683.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/683/Gia3ov_HQ4nH3_2aeRbA2dpnBSb33cJ9-w7J6bYYHJg/683.mp3"/>
    <description>
     Two people, sitting down over a beer, hashing out their differences. Hard to imagine these days, right?
    </description>
