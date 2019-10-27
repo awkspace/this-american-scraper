@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    319: And the Call Was Coming from the Basement (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/319/and-the-call-was-coming-from-the-basement
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/319.mp3"/>
+   <description>
+    Scary stories that are all true—kidnappings, zombie raccoons, and real haunted houses.
+   </description>
+   <pubDate>
+    2006-10-27T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     686: Umbrellas Up
    </title>
    <link>
@@ -2595,21 +2610,6 @@
    </description>
    <pubDate>
     2014-01-17T00:00:00-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    515: Good Guys
-   </title>
-   <link>
-    https://www.thisamericanlife.org/515/good-guys
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/515/515.mp3"/>
-   <description>
-    Stories of valiant men attempting to do good in challenging circumstances: in war zones, department stores, public buses, and at the bottom of a cave 900 feet underground.
-   </description>
-   <pubDate>
-    2014-01-10T00:00:00-05:00
    </pubDate>
   </item>
   <item>
@@ -5554,12 +5554,12 @@
   </item>
   <item>
    <title>
-    319: And the Call Was Coming from the Basement
+    319: And the Call Was Coming from the Basement (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/319/and-the-call-was-coming-from-the-basement
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/319/MufWjlbvaKRwdMz08sNyqvw6C0x9oqL4ZaoR1qnXS84/319.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/319.mp3"/>
    <description>
     Scary stories that are all true—kidnappings, zombie raccoons, and real haunted houses.
    </description>
