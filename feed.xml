@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    239: Lost in America (Promo)
+    239: Lost in America
    </title>
    <link>
     https://www.thisamericanlife.org/239/lost-in-america
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/239.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/239.mp3"/>
    <description>
     Stories of people who are lost, histories that are lost, and things that are lost.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/319/and-the-call-was-coming-from-the-basement
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/319.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/319.mp3"/>
    <description>
     Scary stories that are all true—kidnappings, zombie raccoons, and real haunted houses.
    </description>
@@ -1629,7 +1629,7 @@
    <link>
     https://www.thisamericanlife.org/581/anatomy-of-doubt
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/581.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/581/jU37fQoqHJ5VCKr8PLEBJmrqUTjummHxDmau_FQoxLk/581.mp3"/>
    <description>
     The story of a rape investigation gone undeniably wrong.
    </description>
@@ -5559,7 +5559,7 @@
    <link>
     https://www.thisamericanlife.org/319/and-the-call-was-coming-from-the-basement
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/319.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/319.mp3"/>
    <description>
     Scary stories that are all true—kidnappings, zombie raccoons, and real haunted houses.
    </description>
@@ -6754,12 +6754,12 @@
   </item>
   <item>
    <title>
-    239: Lost in America (Promo)
+    239: Lost in America
    </title>
    <link>
     https://www.thisamericanlife.org/239/lost-in-america
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/239.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/239.mp3"/>
    <description>
     Stories of people who are lost, histories that are lost, and things that are lost.
    </description>
