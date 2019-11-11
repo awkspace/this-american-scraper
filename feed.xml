@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    687: Small Things Considered (Promo)
+    687: Small Things Considered
    </title>
    <link>
     https://www.thisamericanlife.org/687/small-things-considered
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/687.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/687.mp3"/>
    <description>
     Stories about being little. Secret writings in tiny letters. The power of a very small number. And one story from a not-so-tall writer.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/239/lost-in-america
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/239.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/239.mp3"/>
    <description>
     Stories of people who are lost, histories that are lost, and things that are lost.
    </description>
@@ -84,7 +84,7 @@
    <link>
     https://www.thisamericanlife.org/685/we-come-from-small-places
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/685.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/685/eKjg51DBCa9uNoxRoyiskpBppYPbyOYQJyDQwbWdf_k/685.mp3"/>
    <description>
     The staff goes to one of the biggest parties in New York City, the Labor Day Carnival and the West Indian American Day Parade in Brooklyn.
    </description>
@@ -6774,7 +6774,7 @@
    <link>
     https://www.thisamericanlife.org/239/lost-in-america
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/239.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/239.mp3"/>
    <description>
     Stories of people who are lost, histories that are lost, and things that are lost.
    </description>
