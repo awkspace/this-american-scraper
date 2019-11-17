@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    688: The Out Crowd (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/688/the-out-crowd
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/688.mp3"/>
+   <description>
+    Reports from the frontlines of the Trump administration's "Remain in Mexico" asylum policy. We hear from asylum seekers waiting across the border in Mexico, in a makeshift refugee camp, and from the officers who sent them there to wait in the first place.
+   </description>
+   <pubDate>
+    2019-11-08T18:54:57-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     687: Small Things Considered
    </title>
    <link>
@@ -660,21 +675,6 @@
    </description>
    <pubDate>
     2018-05-18T11:56:25-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    646: The Secret of My Death
-   </title>
-   <link>
-    https://www.thisamericanlife.org/646/the-secret-of-my-death
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/646/prbsjYoLGjhPiyq9t-a2LHuLEuRmSb1LghhJQo0N-60/646.mp3"/>
-   <description>
-    The clues people find when trying to make sense of a death.
-   </description>
-   <pubDate>
-    2018-05-09T16:10:58-04:00
    </pubDate>
   </item>
   <item>
