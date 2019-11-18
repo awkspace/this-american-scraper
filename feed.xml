@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    688: The Out Crowd (Promo)
+    688: The Out Crowd
    </title>
    <link>
     https://www.thisamericanlife.org/688/the-out-crowd
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/688.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/688.mp3"/>
    <description>
     Reports from the frontlines of the Trump administration's "Remain in Mexico" asylum policy. We hear from asylum seekers waiting across the border in Mexico, in a makeshift refugee camp, and from the officers who sent them there to wait in the first place.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/687/small-things-considered
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/687.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/687.mp3"/>
    <description>
     Stories about being little. Secret writings in tiny letters. The power of a very small number. And a medication that's supposed to cure shortness.
    </description>
@@ -84,7 +84,7 @@
    <link>
     https://www.thisamericanlife.org/686/umbrellas-up
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/686.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/686/ZwcuOcmCiepqgrsLv8cdvoFzHVqbPI7Pq_J5P_3jLt8/686.mp3"/>
    <description>
     For over 100 days now, protesters in Hong Kong have taken to the streets every weekend. What it’s like to live through that.
    </description>
