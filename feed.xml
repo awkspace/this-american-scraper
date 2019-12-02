@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    252: Poultry Slam 2003 (Promo)
+    252: Poultry Slam 2003
    </title>
    <link>
     https://www.thisamericanlife.org/252/poultry-slam-2003
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/252.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/252.mp3"/>
    <description>
     We bring you stories of turkeys, chickens, geese, ducks, fowl of all kinds, real and imagined, and their mysterious hold over us.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/291/reunited-and-it-feels-so-good
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/291.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/291.mp3"/>
    <description>
     Stories about getting back together with your parent, your spouse, your ... Brahman bull.
    </description>
@@ -6009,7 +6009,7 @@
    <link>
     https://www.thisamericanlife.org/291/reunited-and-it-feels-so-good
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/291.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/291.mp3"/>
    <description>
     Stories about getting back together with your parent, your spouse, your ... Brahman bull.
    </description>
@@ -6589,12 +6589,12 @@
   </item>
   <item>
    <title>
-    252: Poultry Slam 2003 (Promo)
+    252: Poultry Slam 2003
    </title>
    <link>
     https://www.thisamericanlife.org/252/poultry-slam-2003
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/252.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/252.mp3"/>
    <description>
     We bring you stories of turkeys, chickens, geese, ducks, fowl of all kinds, real and imagined, and their mysterious hold over us.
    </description>
@@ -6789,7 +6789,7 @@
    <link>
     https://www.thisamericanlife.org/239/lost-in-america
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/239.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/239/239.mp3"/>
    <description>
     Stories of people who are lost, histories that are lost, and things that are lost.
    </description>
