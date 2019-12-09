@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    689: Digging Up the Bones  (Promo)
+    689: Digging Up the Bones
    </title>
    <link>
     https://www.thisamericanlife.org/689/digging-up-the-bones
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/689.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/689.mp3"/>
    <description>
     There's a lot that can be gained from unearthing the past -- learning about oneself, learning about others. But, it doesn't always go how you'd expect.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/252/poultry-slam-2003
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/252.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/252.mp3"/>
    <description>
     We bring you stories of turkeys, chickens, geese, ducks, fowl of all kinds, real and imagined, and their mysterious hold over us.
    </description>
@@ -84,7 +84,7 @@
    <link>
     https://www.thisamericanlife.org/687/small-things-considered
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/687.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/687/4C7ojvL08zQDDRyXLfiqPrB1eSgPXYyNkBdLnwj8g9o/687.mp3"/>
    <description>
     Stories about being little. Secret writings in tiny letters. The power of a very small number. And a medication that's supposed to cure shortness.
    </description>
@@ -6609,7 +6609,7 @@
    <link>
     https://www.thisamericanlife.org/252/poultry-slam-2003
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/252.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/252.mp3"/>
    <description>
     We bring you stories of turkeys, chickens, geese, ducks, fowl of all kinds, real and imagined, and their mysterious hold over us.
    </description>
