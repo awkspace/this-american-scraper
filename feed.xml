@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    323: The Super (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/323/the-super
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/323.mp3"/>
+   <description>
+    Stories of the mysterious hold supers have on their buildings.
+   </description>
+   <pubDate>
+    2007-01-05T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     689: Digging Up the Bones
    </title>
    <link>
@@ -675,21 +690,6 @@
    </description>
    <pubDate>
     2018-06-01T19:38:56-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    647: LaDonna
-   </title>
-   <link>
-    https://www.thisamericanlife.org/647/ladonna
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/647/8UegB_HtUSdzU9-J-f1DOr19k67xlAx9bCTGeUOFBBg/647.mp3"/>
-   <description>
-    A security guard at the airport notices something going wrong on the tarmac, and takes it upon herself to fix it.
-   </description>
-   <pubDate>
-    2018-05-18T11:56:25-04:00
    </pubDate>
   </item>
   <item>
