@@ -19,14 +19,14 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    323: The Super (Promo)
+    323: The Super
    </title>
    <link>
     https://www.thisamericanlife.org/323/the-super
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/323.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/323.mp3"/>
    <description>
-    Stories of the mysterious hold supers have on their buildings.
+    Stories of the mysterious hold supers have on their buildings, or their buildings have on them.
    </description>
    <pubDate>
     2007-01-05T00:00:00-05:00
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/689/digging-up-the-bones
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/689.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/689.mp3"/>
    <description>
     There's a lot that can be gained from unearthing the past -- learning about oneself, learning about others. But, it doesn't always go how you'd expect.
    </description>
@@ -84,7 +84,7 @@
    <link>
     https://www.thisamericanlife.org/688/the-out-crowd
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/688.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/688/Yi-bzM5ENnis_CUYKFqA3sLL-Z4s_0Jr-_5SVjf8mPQ/688.mp3"/>
    <description>
     Reports from the frontlines of the Trump administration's "Remain in Mexico" asylum policy.
    </description>
@@ -5554,14 +5554,14 @@
   </item>
   <item>
    <title>
-    323: The Super (Promo)
+    323: The Super
    </title>
    <link>
     https://www.thisamericanlife.org/323/the-super
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/323.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/323.mp3"/>
    <description>
-    Stories of the mysterious hold supers have on their buildings.
+    Stories of the mysterious hold supers have on their buildings, or their buildings have on them.
    </description>
    <pubDate>
     2007-01-05T00:00:00-05:00
