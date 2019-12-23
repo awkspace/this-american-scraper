@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    576: Say Yes To Christmas (Promo)
+    576: Say Yes To Christmas
    </title>
    <link>
     https://www.thisamericanlife.org/576/say-yes-to-christmas
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/576.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/576.mp3"/>
    <description>
     We go all in and bring the joy, the spontaneity, the sense that anything can happen back to Christmas.
    </description>
@@ -39,7 +39,7 @@
    <link>
     https://www.thisamericanlife.org/323/the-super
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/323.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/323.mp3"/>
    <description>
     Stories of the mysterious hold supers have on their buildings, or their buildings have on them.
    </description>
@@ -1759,12 +1759,12 @@
   </item>
   <item>
    <title>
-    576: Say Yes To Christmas (Promo)
+    576: Say Yes To Christmas
    </title>
    <link>
     https://www.thisamericanlife.org/576/say-yes-to-christmas
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/576.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/576.mp3"/>
    <description>
     We go all in and bring the joy, the spontaneity, the sense that anything can happen back to Christmas.
    </description>
@@ -5559,7 +5559,7 @@
    <link>
     https://www.thisamericanlife.org/323/the-super
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/podcast/323.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/323.mp3"/>
    <description>
     Stories of the mysterious hold supers have on their buildings, or their buildings have on them.
    </description>
@@ -6039,7 +6039,7 @@
    <link>
     https://www.thisamericanlife.org/291/reunited-and-it-feels-so-good
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/291.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/291/lCiwauQL2lg1Kawut84MGWTrZcVquZANiAsm29NbWss/291.mp3"/>
    <description>
     Stories about getting back together with your parent, your spouse, your ... Brahman bull.
    </description>
