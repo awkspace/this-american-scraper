@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    690: Too Close to Home (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/690/too-close-to-home
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/690.mp3"/>
+   <description>
+    For the holidays, stories of families finally addressing the thorny thing they’ve never really talked about.
+   </description>
+   <pubDate>
+    2019-12-20T12:56:17-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     576: Say Yes To Christmas
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2019-11-29T18:57:54-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    252: Poultry Slam 2003
-   </title>
-   <link>
-    https://www.thisamericanlife.org/252/poultry-slam-2003
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/252.mp3"/>
-   <description>
-    We bring you stories of turkeys, chickens, geese, ducks, fowl of all kinds, real and imagined, and their mysterious hold over us.
-   </description>
-   <pubDate>
-    2003-11-28T00:00:00-05:00
    </pubDate>
   </item>
   <item>
