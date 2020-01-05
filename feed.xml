@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    667: Wartime Radio
+   </title>
+   <link>
+    https://www.thisamericanlife.org/667/wartime-radio
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/667/B9GY9fLGwXAAwfwgQ8KPXjnRfTly-LgV9sFlkr5krzA/667.mp3"/>
+   <description>
+    Intimate and personal dispatches from two very different battlefields.
+   </description>
+   <pubDate>
+    2019-01-25T16:53:55-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     690: Too Close to Home
    </title>
    <link>
@@ -2625,21 +2640,6 @@
    </description>
    <pubDate>
     2014-03-07T00:00:00-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    518: Except For That One Thing
-   </title>
-   <link>
-    https://www.thisamericanlife.org/518/except-for-that-one-thing
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/518/7k9vQ8ebhonn2U47ozQUCZ_het-h8fwqiVJ5bRsxar0/518.mp3"/>
-   <description>
-    A clerical error allowed a convicted man to walk free for 13 years. Then the justice system realized its mistake.
-   </description>
-   <pubDate>
-    2014-02-14T00:00:00-05:00
    </pubDate>
   </item>
   <item>
@@ -6889,6 +6889,21 @@
   </item>
   <item>
    <title>
+    235: The Balloon Goes Up
+   </title>
+   <link>
+    https://www.thisamericanlife.org/235/the-balloon-goes-up
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/235/235.mp3"/>
+   <description>
+    Stories from the beginnings of the war in Iraq, and how it compares with wars in our country's past.
+   </description>
+   <pubDate>
+    2003-03-21T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     234: Say Anything
    </title>
    <link>
@@ -7575,21 +7590,6 @@
    </description>
    <pubDate>
     2001-07-13T00:00:00-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    188: Kid Logic (2001)
-   </title>
-   <link>
-    https://www.thisamericanlife.org/188/kid-logic-2001
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/188/188.mp3"/>
-   <description>
-    Stories of kids using perfectly logical arguments, and arriving at perfectly wrong conclusions.
-   </description>
-   <pubDate>
-    2001-06-22T00:00:00-04:00
    </pubDate>
   </item>
   <item>
