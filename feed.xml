@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    667: Wartime Radio (Promo)
+    667: Wartime Radio
    </title>
    <link>
     https://www.thisamericanlife.org/667/wartime-radio
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/667.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/93080455-e91d-40b8-92cd-22d12833b169/667.mp3"/>
    <description>
     Intimate and personal dispatches from two very different battlefields.
    </description>
@@ -84,7 +84,7 @@
    <link>
     https://www.thisamericanlife.org/689/digging-up-the-bones
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/b45329bb-ba26-40b5-8a84-b444d13a217b/689.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/689/JIx9CMKt3KOVj6p8MiEXDA0wKtQ3_yJcsJiYpl8JVDo/689.mp3"/>
    <description>
     There's a lot that can be gained from unearthing the past -- learning about oneself, learning about others. But, it doesn't always go how you'd expect.
    </description>
@@ -409,12 +409,12 @@
   </item>
   <item>
    <title>
-    667: Wartime Radio (Promo)
+    667: Wartime Radio
    </title>
    <link>
     https://www.thisamericanlife.org/667/wartime-radio
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/667.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/93080455-e91d-40b8-92cd-22d12833b169/667.mp3"/>
    <description>
     Intimate and personal dispatches from two very different battlefields.
    </description>
