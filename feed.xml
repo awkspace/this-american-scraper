@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    691: Gardens of Branching Paths (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/691/gardens-of-branching-paths
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/691.mp3"/>
+   <description>
+    Stories of other universes that are just like our own, but with one small difference.
+   </description>
+   <pubDate>
+    2020-01-03T12:48:47-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     667: Wartime Radio
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2015-12-25T00:00:00-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    323: The Super
-   </title>
-   <link>
-    https://www.thisamericanlife.org/323/the-super
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/45de49c2-ceb1-476c-9f55-318383543efb/323.mp3"/>
-   <description>
-    Stories of the mysterious hold supers have on their buildings, or their buildings have on them.
-   </description>
-   <pubDate>
-    2007-01-05T00:00:00-05:00
    </pubDate>
   </item>
   <item>
