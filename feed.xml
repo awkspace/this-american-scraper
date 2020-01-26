@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    640: Five Women (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/640/five-women
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/640.mp3"/>
+   <description>
+    A different kind of #MeToo story, about several women who worked for the same man.
+   </description>
+   <pubDate>
+    2018-02-23T19:19:34-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     654: The Feather Heist
    </title>
    <link>
@@ -679,21 +694,6 @@
   </item>
   <item>
    <title>
-    649: It's My Party and I'll Try If I Want To
-   </title>
-   <link>
-    https://www.thisamericanlife.org/649/its-my-party-and-ill-try-if-i-want-to
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/649/Go3Xf5yhPYgtlTydsxImE8tNGeEWg-1EBiOd0ZTPNPU/649.mp3"/>
-   <description>
-    Before Democrats slug it out with Republicans, they’re slugging out with each other.
-   </description>
-   <pubDate>
-    2018-06-08T13:43:11-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     648: Unteachable Moment
    </title>
    <link>
@@ -814,12 +814,12 @@
   </item>
   <item>
    <title>
-    640: Five Women
+    640: Five Women (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/640/five-women
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/640/6S81_HebvHNCwBf8z26L05qcMz3N17-ecf7C4ooBlzk/640.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/640.mp3"/>
    <description>
     A different kind of #MeToo story, about several women who worked for the same man.
    </description>
