@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    692: The Show of Delights
+   </title>
+   <link>
+    https://www.thisamericanlife.org/692/the-show-of-delights
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/e69167e6-40a8-4d18-b778-e3ca41556b96/692.mp3"/>
+   <description>
+    In these dark, combative times, we attempt the most radical counterprogramming we could imagine: a show made up entirely of stories about delight.
+   </description>
+   <pubDate>
+    2020-01-24T19:51:08-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     640: Five Women
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2020-01-03T12:48:47-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    667: Wartime Radio
-   </title>
-   <link>
-    https://www.thisamericanlife.org/667/wartime-radio
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/93080455-e91d-40b8-92cd-22d12833b169/667.mp3"/>
-   <description>
-    Intimate and personal dispatches from two very different battlefields.
-   </description>
-   <pubDate>
-    2019-01-25T16:53:55-05:00
    </pubDate>
   </item>
   <item>
@@ -429,7 +429,7 @@
    <link>
     https://www.thisamericanlife.org/667/wartime-radio
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/93080455-e91d-40b8-92cd-22d12833b169/667.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/667/B9GY9fLGwXAAwfwgQ8KPXjnRfTly-LgV9sFlkr5krzA/667.mp3"/>
    <description>
     Intimate and personal dispatches from two very different battlefields.
    </description>
