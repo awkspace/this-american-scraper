@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    646: The Secret of My Death (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/646/the-secret-of-my-death
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/646.mp3"/>
+   <description>
+    The clues people find when trying to make sense of a death.
+   </description>
+   <pubDate>
+    2018-05-09T16:10:58-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     694: Get Back to Where You Once Belonged
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2020-01-24T19:51:08-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    640: Five Women
-   </title>
-   <link>
-    https://www.thisamericanlife.org/640/five-women
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/9e1ed0ab-f261-4231-b0a2-a7582cab7e80/640.mp3"/>
-   <description>
-    A different kind of #MeToo story, about several women who worked for the same man.
-   </description>
-   <pubDate>
-    2018-02-23T19:19:34-05:00
    </pubDate>
   </item>
   <item>
@@ -754,12 +754,12 @@
   </item>
   <item>
    <title>
-    646: The Secret of My Death
+    646: The Secret of My Death (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/646/the-secret-of-my-death
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/646/prbsjYoLGjhPiyq9t-a2LHuLEuRmSb1LghhJQo0N-60/646.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/646.mp3"/>
    <description>
     The clues people find when trying to make sense of a death.
    </description>
