@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    557: Birds &amp; Bees (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/557/birds-bees
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/557.mp3"/>
+   <description>
+    Stories about the vague and not-so-vague ways to teach children about race, death, and sex.
+   </description>
+   <pubDate>
+    2015-05-15T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     695: Everyone's a Critic
    </title>
    <link>
@@ -690,21 +705,6 @@
    </description>
    <pubDate>
     2018-07-17T14:12:01-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    651: If You Build It, Will They Come?
-   </title>
-   <link>
-    https://www.thisamericanlife.org/651/if-you-build-it-will-they-come
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/651/243XaX3-mKa_l9SowDXzBUeiYCdkYHWJxJYBRStS0Nc/651.mp3"/>
-   <description>
-    A young preacher opens a new church.
-   </description>
-   <pubDate>
-    2018-07-06T13:37:02-04:00
    </pubDate>
   </item>
   <item>
