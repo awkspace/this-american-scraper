@@ -19,6 +19,36 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    698: Global Sick Day (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/697/global-sick-day
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/698.mp3"/>
+   <description>
+    Stories from the pandemic.
+   </description>
+   <pubDate>
+    2020-03-20T17:26:05-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    697: Alone Together
+   </title>
+   <link>
+    https://www.thisamericanlife.org/697/alone-together
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/091d67bc-c517-4ea4-91db-ed5b34f9b8ef/697.mp3"/>
+   <description>
+    In this moment when everyone’s reaching out to the people they love, we put together a collection of family stories.
+   </description>
+   <pubDate>
+    2020-03-19T11:44:36-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     696: Low Hum of Menace
    </title>
    <link>
@@ -60,21 +90,6 @@
    </description>
    <pubDate>
     2020-02-21T16:41:44-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    646: The Secret of My Death
-   </title>
-   <link>
-    https://www.thisamericanlife.org/646/the-secret-of-my-death
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/da06a859-70df-4e16-aebb-4307bc3ca10e/646.mp3"/>
-   <description>
-    The clues people find when trying to make sense of a death.
-   </description>
-   <pubDate>
-    2018-05-09T16:10:58-04:00
    </pubDate>
   </item>
   <item>
@@ -690,21 +705,6 @@
    </description>
    <pubDate>
     2018-08-03T11:33:01-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    653: Crime Scene (2018)
-   </title>
-   <link>
-    https://www.thisamericanlife.org/653/crime-scene-2018
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/653/k6ZQPovo5QqTGoOvCyCWHwQ2gOQAnLE3jC7WiH1LzOw/653.mp3"/>
-   <description>
-    Every crime scene hides a story.
-   </description>
-   <pubDate>
-    2018-07-31T16:33:05-04:00
    </pubDate>
   </item>
   <item>
