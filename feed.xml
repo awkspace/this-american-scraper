@@ -19,6 +19,36 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    700: Embiggening (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/700/embiggening
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/700.mp3"/>
+   <description>
+    Sometimes a sketch of a thing needs filling in for its true significance to be known.
+   </description>
+   <pubDate>
+    2020-04-03T22:37:24-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    699: Fiasco!
+   </title>
+   <link>
+    https://www.thisamericanlife.org/699/fiasco
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/7e31e3bc-fdde-4faa-ab55-ba4d7dc54d6f/699.mp3"/>
+   <description>
+    Stories of when things go wrong. Really wrong.
+   </description>
+   <pubDate>
+    2020-04-03T09:15:58-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     698: The Test
    </title>
    <link>
@@ -60,21 +90,6 @@
    </description>
    <pubDate>
     2020-03-06T15:12:49-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    557: Birds &amp; Bees
-   </title>
-   <link>
-    https://www.thisamericanlife.org/557/birds-bees
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/676f205a-7387-4c06-a54f-2b15157af944/557.mp3"/>
-   <description>
-    Stories about the vague and not-so-vague ways we teach children about race, death, and sex.
-   </description>
-   <pubDate>
-    2015-05-15T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -694,21 +709,6 @@
   </item>
   <item>
    <title>
-    654: The Feather Heist
-   </title>
-   <link>
-    https://www.thisamericanlife.org/654/the-feather-heist
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/654/oAVb2hMqUaJGSZdqr7a6tSjR3f-xhndCQ0w7O4un5cI/654.mp3"/>
-   <description>
-    A flute player steals a million dollars worth of dead birds.
-   </description>
-   <pubDate>
-    2018-08-03T11:33:01-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     653: Crime Scene (2018)
    </title>
    <link>
@@ -1215,6 +1215,21 @@
    </description>
    <pubDate>
     2017-07-14T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    619: The Magic Show
+   </title>
+   <link>
+    https://www.thisamericanlife.org/619/the-magic-show
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/619/uUPojqNYTgNBtCUCOrv42LBuEAvRBiZyV35W6Md6WpE/619.mp3"/>
+   <description>
+    Former kid magicians Ira Glass and David Kestenbaum dive back into the world of magic.
+   </description>
+   <pubDate>
+    2017-06-30T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -2154,7 +2169,7 @@
    <link>
     https://www.thisamericanlife.org/557/birds-bees
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/676f205a-7387-4c06-a54f-2b15157af944/557.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/557/cSrNrxZxmMwRDTaK03EHwDUjGQB217zgGMRWqxmQI6M/557.mp3"/>
    <description>
     Stories about the vague and not-so-vague ways we teach children about race, death, and sex.
    </description>
