@@ -21,8 +21,8 @@ while True:
         full_url = 'https://www.thisamericanlife.org' + episode_page['href']
         request = requests.get(full_url)
         episode = BeautifulSoup(request.content, 'html.parser')
-        player_data = episode.select('script#playlist-data')[0]
-        player_data = json.loads(player_data.get_text())
+        player_data = episode.select_one('script#playlist-data').string
+        player_data = json.loads(player_data)
 
         if '/promos/' in player_data['audio']:
             player_data['title'] += ' (Promo)'
