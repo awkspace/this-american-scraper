@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    702: One Last Thing Before I Go (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/702/one-last-thing-before-i-go
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/702.mp3"/>
+   <description>
+    Ordinary people make last ditch efforts to get through to their loved ones.
+   </description>
+   <pubDate>
+    2020-04-24T12:03:49-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     701: Black Box
    </title>
    <link>
@@ -705,21 +720,6 @@
    </description>
    <pubDate>
     2018-09-07T20:03:51-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    655: The Not-So-Great Unknown
-   </title>
-   <link>
-    https://www.thisamericanlife.org/655/the-not-so-great-unknown
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/655/59oPtl1iOAz0EzIHbKqec4kv-OwvkY8DaSKu-WuCJvg/655.mp3"/>
-   <description>
-    What happens when an astronaut who's not really into outer space goes to the moon.
-   </description>
-   <pubDate>
-    2018-08-17T15:00:32-04:00
    </pubDate>
   </item>
   <item>
@@ -1579,14 +1579,14 @@
   </item>
   <item>
    <title>
-    597: One Last Thing Before I Go
+    597: One Last Thing Before I Go (2016)
    </title>
    <link>
     https://www.thisamericanlife.org/597/one-last-thing-before-i-go
    </link>
    <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/597/597.mp3"/>
    <description>
-    Stories in which ordinary people make last ditch efforts to get through to their loved ones.
+    Ordinary people make last ditch efforts to get through to their loved ones.
    </description>
    <pubDate>
     2016-09-23T00:00:00-04:00
@@ -2670,6 +2670,21 @@
    </description>
    <pubDate>
     2014-05-09T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    524: I Was So High
+   </title>
+   <link>
+    https://www.thisamericanlife.org/524/i-was-so-high
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/524/524.mp3"/>
+   <description>
+    Alex Blumberg talks to his dad about the daily pot habit he had while Alex was growing up.
+   </description>
+   <pubDate>
+    2014-05-02T00:00:00-04:00
    </pubDate>
   </item>
   <item>
