@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    702: One Last Thing Before I Go (Promo)
+    702: One Last Thing Before I Go
    </title>
    <link>
     https://www.thisamericanlife.org/702/one-last-thing-before-i-go
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/702.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/32b9878d-7da9-42af-bf6a-8deea635f846/702.mp3"/>
    <description>
     Ordinary people make last ditch efforts to get through to their loved ones.
    </description>
@@ -174,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/692/the-show-of-delights
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/e69167e6-40a8-4d18-b778-e3ca41556b96/692.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/692/XrGjNYUbIsglv_0OungeV5dMYeWUHYwB1MzcBz68EMw/692.mp3"/>
    <description>
     In these dark times, we attempt some radical counterprogramming: a show made up entirely of stories about delight.
    </description>
