@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    707: We Are in the Future (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/707/we-are-in-the-future
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/707.mp3"/>
+   <description>
+    In this moment of sorrow, protest, and rage, we offer this as a break from the dreadful present: our show about Afrofuturism.
+   </description>
+   <pubDate>
+    2020-06-05T14:37:42-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     706: A Mess to Be Reckoned With
    </title>
    <link>
@@ -720,21 +735,6 @@
    </description>
    <pubDate>
     2018-11-01T07:18:09-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    659: Before the Next One
-   </title>
-   <link>
-    https://www.thisamericanlife.org/659/before-the-next-one
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/659/0UHLQty1Yt49FAh9Uv21LttcsSU5F5ldwdo-q9F5kd0/659.mp3"/>
-   <description>
-    People taking what they’ve learned from school shootings and try to use that knowledge to save others.
-   </description>
-   <pubDate>
-    2018-09-28T18:45:12-04:00
    </pubDate>
   </item>
   <item>
