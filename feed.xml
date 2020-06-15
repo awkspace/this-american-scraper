@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    708: Here, Again
+   </title>
+   <link>
+    https://www.thisamericanlife.org/708/here-again
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/e5cace44-298d-4e63-9149-560fb5d9cbc7/708.mp3"/>
+   <description>
+    We hear what different people said and did one weekend in reaction to the killing of George Floyd.
+   </description>
+   <pubDate>
+    2020-06-11T09:21:50-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     707: We Are in the Future
    </title>
    <link>
@@ -1740,21 +1755,6 @@
    </description>
    <pubDate>
     2016-08-05T00:00:00-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    592: Are We There Yet?
-   </title>
-   <link>
-    https://www.thisamericanlife.org/592/are-we-there-yet
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/592/592.mp3"/>
-   <description>
-    57,000 refugees are stuck in Greece, making homes in some surprising locations.
-   </description>
-   <pubDate>
-    2016-07-29T00:00:00-04:00
    </pubDate>
   </item>
   <item>
