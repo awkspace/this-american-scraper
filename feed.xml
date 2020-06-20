@@ -379,12 +379,12 @@
   </item>
   <item>
    <title>
-    684: Burn It Down
+    684: Burn It Down (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/684/burn-it-down
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/684/kzI-DRuNlVPKNJem0JLBkR1ZVwxijV8lpsta98c-xcI/684.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/684.mp3"/>
    <description>
     Stories of people who decide the only way forward — for real change — is to burn everything to the ground.
    </description>
@@ -1740,6 +1740,21 @@
    </description>
    <pubDate>
     2016-08-12T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    593: Don’t Have to Live Like a Refugee
+   </title>
+   <link>
+    https://www.thisamericanlife.org/593/dont-have-to-live-like-a-refugee
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/593/593.mp3"/>
+   <description>
+    Stories of refugees in Greece trying to move on with their lives in whatever way they can.
+   </description>
+   <pubDate>
+    2016-08-05T00:00:00-04:00
    </pubDate>
   </item>
   <item>
