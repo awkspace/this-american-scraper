@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    684: Burn It Down (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/684/burn-it-down
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/684.mp3"/>
+   <description>
+    Stories of people who decide the only way forward — for real change — is to burn everything to the ground.
+   </description>
+   <pubDate>
+    2019-09-20T17:27:47-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     708: Here, Again
    </title>
    <link>
@@ -735,21 +750,6 @@
    </description>
    <pubDate>
     2018-10-26T19:01:47-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    660: Hoaxing Yourself (2018)
-   </title>
-   <link>
-    https://www.thisamericanlife.org/660/hoaxing-yourself-2018
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/660/Z0i1HL8KG2JqN_Y3VcbsWhnzNpq48bZbg3vosKboD2A/660.mp3"/>
-   <description>
-    Stories of people who tell a lie and then believe the lie more than anyone else does.
-   </description>
-   <pubDate>
-    2018-11-01T07:18:09-04:00
    </pubDate>
   </item>
   <item>
