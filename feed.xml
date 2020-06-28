@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    709: The Reprieve (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/709/the-reprieve
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/709.mp3"/>
+   <description>
+    How Covid-19 has changed the nurses and doctors at one hospital in Detroit, and their city.
+   </description>
+   <pubDate>
+    2020-06-19T13:46:35-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     684: Burn It Down
    </title>
    <link>
@@ -1260,21 +1275,6 @@
    </description>
    <pubDate>
     2017-10-06T00:00:00-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    626: White Haze
-   </title>
-   <link>
-    https://www.thisamericanlife.org/626/white-haze
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/626/626.mp3"/>
-   <description>
-    What should we make of right-wing groups like the Proud Boys, who believe “the West is the best”?
-   </description>
-   <pubDate>
-    2017-09-22T00:00:00-04:00
    </pubDate>
   </item>
   <item>
