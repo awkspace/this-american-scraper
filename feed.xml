@@ -19,6 +19,36 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    710: Umbrellas Down (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/710/umbrellas-down
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/710.mp3"/>
+   <description>
+    As China's new national security law tightens its control over Hong Kong, we return to our episode about last fall's anti-government protests and check in to see how people are responding.
+   </description>
+   <pubDate>
+    2020-07-10T15:58:35-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    513: 129 Cars
+   </title>
+   <link>
+    https://www.thisamericanlife.org/513/129-cars
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/22319bfa-6d3a-4f00-a4bd-eee1909d76bf/513.mp3"/>
+   <description>
+    One car dealership tries to sell 129 cars. It is way more chaotic than we expected.
+   </description>
+   <pubDate>
+    2013-12-13T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     709: The Reprieve
    </title>
    <link>
@@ -159,7 +189,7 @@
    <link>
     https://www.thisamericanlife.org/701/black-box
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/4c9e3651-7228-48af-900c-38fa331a4466/701.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/701/CwGu2z8qvU5kwaBKJqAhTkdvcTYS-75InRA2JpgBfCk/701.mp3"/>
    <description>
     Desperate to know what happened to his family, a man obsessively decodes the only information about them he can get.
    </description>
@@ -375,21 +405,6 @@
    </description>
    <pubDate>
     2019-11-01T16:34:19-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    686: Umbrellas Up
-   </title>
-   <link>
-    https://www.thisamericanlife.org/686/umbrellas-up
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/686/ZwcuOcmCiepqgrsLv8cdvoFzHVqbPI7Pq_J5P_3jLt8/686.mp3"/>
-   <description>
-    For over 100 days now, protesters in Hong Kong have taken to the streets every weekend. What it’s like to live through that.
-   </description>
-   <pubDate>
-    2019-10-11T19:10:54-04:00
    </pubDate>
   </item>
   <item>
@@ -2979,7 +2994,7 @@
    <link>
     https://www.thisamericanlife.org/513/129-cars
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/513/513.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/22319bfa-6d3a-4f00-a4bd-eee1909d76bf/513.mp3"/>
    <description>
     One car dealership tries to sell 129 cars. It is way more chaotic than we expected.
    </description>
@@ -5139,7 +5154,7 @@
    <link>
     https://www.thisamericanlife.org/369/poultry-slam-2008
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/369/369.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/369/feNVvdgbhtEbBDE7-WjvKOzB97Fph0MSekdmdgyasRQ/369.mp3"/>
    <description>
     A man in Pakistan buys an amulet with the power to protect anyone from harm. He tests it out on a chicken.
    </description>
@@ -7299,7 +7314,7 @@
    <link>
     https://www.thisamericanlife.org/225/home-movies
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/225/225.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/225/CGAjpp7-gnEtHtBBc0LKkuTwSFGQZwGpPTQAjYNY-bQ/225.mp3"/>
    <description>
     Home movies are often all the same—kids on the beach, people getting married, birthday parties—so why do we make and watch so many of them?
    </description>
@@ -7584,7 +7599,7 @@
    <link>
     https://www.thisamericanlife.org/206/somewhere-in-the-arabian-sea
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/206/206.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/206/vEnQyx8eK5ZhMfpgOYoCcasvEzZQYzuZjkj9zqT0Xa4/206.mp3"/>
    <description>
     Life aboard an aircraft carrier stationed in the Arabian Sea supporting bombing missions over Afghanistan.
    </description>
@@ -7854,7 +7869,7 @@
    <link>
     https://www.thisamericanlife.org/188/kid-logic-2001
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/188/188.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/188/z28qE3KiLwXq1SmUJLvv8yZK-wkktppDuGWQo5yspnc/188.mp3"/>
    <description>
     Stories of kids using perfectly logical arguments, and arriving at perfectly wrong conclusions.
    </description>
@@ -8184,7 +8199,7 @@
    <link>
     https://www.thisamericanlife.org/166/nobodys-family-is-going-to-change
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/166/166.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/166/Rej0Sw-amPwd29tDTip4qyVdgTh3VETBdycVr9QHd7A/166.mp3"/>
    <description>
     Does anyone's family ever change?
    </description>
