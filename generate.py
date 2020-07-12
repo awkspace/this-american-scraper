@@ -24,6 +24,9 @@ while True:
         player_data = episode.select_one('script#playlist-data').string
         player_data = json.loads(player_data)
 
+        if 'audio' not in player_data:
+            continue
+
         if '/promos/' in player_data['audio']:
             player_data['title'] += ' (Promo)'
 
