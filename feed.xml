@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    711: How to Be Alone (Promo)
+    711: How to Be Alone
    </title>
    <link>
     https://www.thisamericanlife.org/711/how-to-be-alone
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/711.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/3e5810b6-0ed7-47a7-a727-492caf0f2684/711.mp3"/>
    <description>
     In space, in the ocean, by ourselves, or with others—we’re all just figuring out how to be apart.
    </description>
@@ -429,7 +429,7 @@
    <link>
     https://www.thisamericanlife.org/684/burn-it-down
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/bcc0951d-57dc-43b6-98b2-91f0b3c32c8b/684.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/684/mcGwWbxOtIOs4y-xdGeUREaCKjpzswkyj3uCGaQqp74/684.mp3"/>
    <description>
     Stories of people who decide the only way forward — for real change — is to burn everything to the ground.
    </description>
