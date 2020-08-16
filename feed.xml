@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    714: Day at the Beach (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/714/day-at-the-beach
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/714.mp3"/>
+   <description>
+    It’s the last few weeks of summer, so we’re going to the beach! This week, stories from the surf and sand.
+   </description>
+   <pubDate>
+    2020-08-10T12:40:41-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     713: Made to Be Broken
    </title>
    <link>
@@ -735,21 +750,6 @@
    </description>
    <pubDate>
     2019-01-11T17:21:52-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    665: Before Things Went to Hell
-   </title>
-   <link>
-    https://www.thisamericanlife.org/665/before-things-went-to-hell
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/665/GXVBRdmZD0AxYOJMJyaVzviCDVU5Tmd3NgrLt8Okuy4/665.mp3"/>
-   <description>
-    Revisiting those moments of calm before the storm.
-   </description>
-   <pubDate>
-    2018-12-28T10:54:51-05:00
    </pubDate>
   </item>
   <item>
