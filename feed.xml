@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    577: Something Only I Can See (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/577/something-only-i-can-see
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/577.mp3"/>
+   <description>
+    A woman with muscular dystrophy tries to convince doctors that she has the same gene mutation as an Olympic athlete.
+   </description>
+   <pubDate>
+    2016-01-15T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     714: Day at the Beach
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2020-07-23T13:43:23-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    443: Amusement Park
-   </title>
-   <link>
-    https://www.thisamericanlife.org/443/amusement-park
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/a9b304de-8bfb-418d-84fc-716a2f4ef609/443.mp3"/>
-   <description>
-    We head to some of the happiest places on earth: amusement parks!
-   </description>
-   <pubDate>
-    2011-08-12T00:00:00-04:00
    </pubDate>
   </item>
   <item>
