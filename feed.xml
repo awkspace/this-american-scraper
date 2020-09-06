@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    716: Trail of Tears (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/716/trail-of-tears
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/716.mp3"/>
+   <description>
+    Writer Sarah Vowell and her twin sister retrace the Trail of Tears, the route their Cherokee ancestors took when expelled from their own land.
+   </description>
+   <pubDate>
+    2020-09-02T11:48:30-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     715: Long-Awaited Asteroid Finally Hits Earth
    </title>
    <link>
@@ -735,21 +750,6 @@
    </description>
    <pubDate>
     2019-02-08T18:40:45-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    667: Wartime Radio
-   </title>
-   <link>
-    https://www.thisamericanlife.org/667/wartime-radio
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/667/B9GY9fLGwXAAwfwgQ8KPXjnRfTly-LgV9sFlkr5krzA/667.mp3"/>
-   <description>
-    Intimate and personal dispatches from two very different battlefields.
-   </description>
-   <pubDate>
-    2019-01-25T16:53:55-05:00
    </pubDate>
   </item>
   <item>
