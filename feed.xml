@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    718: Same Bed, Different Dreams (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/718/same-bed-different-dreams
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/718.mp3"/>
+   <description>
+    Stories of people who are tied together, but imagine radically different futures.
+   </description>
+   <pubDate>
+    2020-09-25T11:22:43-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     587: The Perils of Intimacy
    </title>
    <link>
@@ -735,21 +750,6 @@
    </description>
    <pubDate>
     2019-03-08T12:33:59-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    669: Scrambling to Get Off the Ice
-   </title>
-   <link>
-    https://www.thisamericanlife.org/669/scrambling-to-get-off-the-ice
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/669/NY_Dm-xAHfOMTwhLtPc8ZTKVN0C60djWeblmirsK-uc/669.mp3"/>
-   <description>
-    The Democrats on the House Judiciary Committee try out their new powers for the first time.
-   </description>
-   <pubDate>
-    2019-02-22T18:44:46-05:00
    </pubDate>
   </item>
   <item>
