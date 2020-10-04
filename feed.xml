@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    719: Trust Me I’m a Doctor (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/719/trust-me-im-a-doctor
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/719.mp3"/>
+   <description>
+    The not-often-talked-about realm of licensing boards, and the disturbing decisions they sometimes make.
+   </description>
+   <pubDate>
+    2020-09-25T14:43:17-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     718: Same Bed, Different Dreams
    </title>
    <link>
@@ -735,21 +750,6 @@
    </description>
    <pubDate>
     2019-03-22T19:19:21-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    670: Beware the Jabberwock
-   </title>
-   <link>
-    https://www.thisamericanlife.org/670/beware-the-jabberwock
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/670/pUSvVj5NwgfOpSE-TfteZ8R9prOT01TqwmtoEjFi7wU/670.mp3"/>
-   <description>
-    Stories from the upside-down world where conspiracy theorists dwell.
-   </description>
-   <pubDate>
-    2019-03-08T12:33:59-05:00
    </pubDate>
   </item>
   <item>
