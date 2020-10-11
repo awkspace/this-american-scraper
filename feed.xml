@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    668: The Long Fuse (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/668/the-long-fuse
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/668.mp3"/>
+   <description>
+    People tossing words out into the world impulsively, to ignite and burn over decades.
+   </description>
+   <pubDate>
+    2019-02-08T18:40:45-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     719: Trust Me I’m a Doctor
    </title>
    <link>
@@ -754,21 +769,6 @@
   </item>
   <item>
    <title>
-    671: Anything Can Be Anything
-   </title>
-   <link>
-    https://www.thisamericanlife.org/671/anything-can-be-anything
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/671/mV4SwZBUTqWEmflzu5caDAj81z61XfhVVlrRytcC5Ag/671.mp3"/>
-   <description>
-    People connecting the dots that maybe should not be connected.
-   </description>
-   <pubDate>
-    2019-03-22T19:19:21-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     670: Beware the Jabberwock
    </title>
    <link>
@@ -799,12 +799,12 @@
   </item>
   <item>
    <title>
-    668: The Long Fuse
+    668: The Long Fuse (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/668/the-long-fuse
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/668/h9D3EFQph_ulEY6w1H5TXB0UR-kvxczz8oQEvxQm0Og/668.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/668.mp3"/>
    <description>
     People tossing words out into the world impulsively, to ignite and burn over decades.
    </description>
