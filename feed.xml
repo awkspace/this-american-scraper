@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    720: The Moment After This Moment
+   </title>
+   <link>
+    https://www.thisamericanlife.org/720/the-moment-after-this-moment
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/a4f80032-c9e2-4687-9aa3-3f9718927161/720.mp3"/>
+   <description>
+    Stories about people who are worried — or not worried enough! — about what's hurtling unstoppably towards them.
+   </description>
+   <pubDate>
+    2020-10-16T11:02:57-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     668: The Long Fuse
    </title>
    <link>
@@ -2019,7 +2034,7 @@
    <link>
     https://www.thisamericanlife.org/587/the-perils-of-intimacy
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/b37c5cb2-5be1-422c-9b4f-020eb22cd045/587.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/587/PB5A-31Nvujn2MjElqX_6cNwfz3AkLeedy0JlxRNAEM/587.mp3"/>
    <description>
     Stories about mysteries that exist in relationships we thought couldn't possibly surprise us.
    </description>
