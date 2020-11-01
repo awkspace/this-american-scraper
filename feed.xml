@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    722: The Unreality of Now (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/722/the-unreality-of-now
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/722.mp3"/>
+   <description>
+    One week before the election, we have stories about people trying to live in the unreality that defines this moment.
+   </description>
+   <pubDate>
+    2020-10-23T20:06:17-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     721: The Walls Close In
    </title>
    <link>
@@ -750,21 +765,6 @@
    </description>
    <pubDate>
     2019-04-26T14:52:51-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    673: Left Behind
-   </title>
-   <link>
-    https://www.thisamericanlife.org/673/left-behind
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/673/z17RBazXTXS5giQsevWUF2AJZHxUEbs7ahF4ijDyTYc/673.mp3"/>
-   <description>
-    People figuring out how to move through a world in which something important has disappeared.
-   </description>
-   <pubDate>
-    2019-04-12T15:51:41-04:00
    </pubDate>
   </item>
   <item>
