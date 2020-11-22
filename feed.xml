@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    682: Ten Sessions (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/682/ten-sessions
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/682.mp3"/>
+   <description>
+    A therapy that helps people work through unhealed trauma in just ten sessions.
+   </description>
+   <pubDate>
+    2019-08-16T17:58:19-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     724: Personal Recount
    </title>
    <link>
@@ -649,12 +664,12 @@
   </item>
   <item>
    <title>
-    682: Ten Sessions
+    682: Ten Sessions (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/682/ten-sessions
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/682/r8SS8yGmruo3Qx07qpLkjtLy-ex13tx8TcwqH5oP5gU/682.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/682.mp3"/>
    <description>
     A therapy that helps people work through unhealed trauma in just ten sessions.
    </description>
@@ -750,21 +765,6 @@
    </description>
    <pubDate>
     2019-05-24T10:35:51-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    675: I’m on TV??
-   </title>
-   <link>
-    https://www.thisamericanlife.org/675/im-on-tv
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/675/uBMqAJMY3Vv_m6wAjj0BvkvjnyIFKzNcGsV_K_1l-rA/675.mp3"/>
-   <description>
-    What it's like to be momentarily big on the small screen.
-   </description>
-   <pubDate>
-    2019-05-10T15:40:02-04:00
    </pubDate>
   </item>
   <item>
