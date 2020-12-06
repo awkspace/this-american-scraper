@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    619: The Magic Show
+   </title>
+   <link>
+    https://www.thisamericanlife.org/619/the-magic-show
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/619/XAhGJTAqWYsNZoozcFnNbYAG13VWNXhtr1Ivd5-0ato/619.mp3"/>
+   <description>
+    Former kid magicians Ira Glass and David Kestenbaum dive back into the world of magic.
+   </description>
+   <pubDate>
+    2017-06-30T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     725: Turkey in a Face Mask
    </title>
    <link>
@@ -750,21 +765,6 @@
    </description>
    <pubDate>
     2019-06-28T19:49:51-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    677: Seeing Yourself In the Wild
-   </title>
-   <link>
-    https://www.thisamericanlife.org/677/seeing-yourself-in-the-wild
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/677/_ql-WFR60cTzuCK5esYMr5E70augKS4XV8SKOcglQ5w/677.mp3"/>
-   <description>
-    Stories of those unexpected moments when we see who we really are.
-   </description>
-   <pubDate>
-    2019-06-07T16:46:34-04:00
    </pubDate>
   </item>
   <item>
