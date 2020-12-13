@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    726: Twenty-Five (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/726/twenty-five
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/726.mp3"/>
+   <description>
+    As our show hits the quarter-century mark, we talk to people who also turned 25 this year.
+   </description>
+   <pubDate>
+    2020-12-04T15:41:48-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     619: The Magic Show
    </title>
    <link>
@@ -750,21 +765,6 @@
    </description>
    <pubDate>
     2019-07-05T16:30:51-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    678: The Wannabes
-   </title>
-   <link>
-    https://www.thisamericanlife.org/678/the-wannabes
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/678/XjCGPGlNl9Hbj6UMjQNKM1uxWoAtKBuQyHoFSs_Qe4U/678.mp3"/>
-   <description>
-    We hang out with the presidential candidates, in this weird early period of the election.
-   </description>
-   <pubDate>
-    2019-06-28T19:49:51-04:00
    </pubDate>
   </item>
   <item>
