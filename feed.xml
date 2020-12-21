@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    727: Boulder v. Hill
+   </title>
+   <link>
+    https://www.thisamericanlife.org/727/boulder-v-hill
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/84156013-e1ca-406e-b232-aa30ce93b8ef/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=84156013-e1ca-406e-b232-aa30ce93b8ef"/>
+   <description>
+    What the day-to-day business of saving the world looks like.
+   </description>
+   <pubDate>
+    2020-12-11T19:29:59-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     726: Twenty-Five
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2020-11-20T16:22:13-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    682: Ten Sessions
-   </title>
-   <link>
-    https://www.thisamericanlife.org/682/ten-sessions
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b1cf2881-4dd1-435b-a66a-afe5e9c99f42/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=b1cf2881-4dd1-435b-a66a-afe5e9c99f42"/>
-   <description>
-    A therapy that helps people work through unhealed trauma in just ten sessions.
-   </description>
-   <pubDate>
-    2019-08-16T17:58:19-04:00
    </pubDate>
   </item>
   <item>
@@ -714,7 +714,7 @@
    <link>
     https://www.thisamericanlife.org/682/ten-sessions
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b1cf2881-4dd1-435b-a66a-afe5e9c99f42/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=b1cf2881-4dd1-435b-a66a-afe5e9c99f42"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/682/r8SS8yGmruo3Qx07qpLkjtLy-ex13tx8TcwqH5oP5gU/682.mp3"/>
    <description>
     A therapy that helps people work through unhealed trauma in just ten sessions.
    </description>
