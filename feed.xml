@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    692: The Show of Delights (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/692/the-show-of-delights
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/692.mp3"/>
+   <description>
+    In these dark times, we attempt some radical counterprogramming: a show made up entirely of stories about delight.
+   </description>
+   <pubDate>
+    2020-01-24T19:51:08-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     728: Lights, Camera, Christmas!
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2020-12-04T15:41:48-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    619: The Magic Show
-   </title>
-   <link>
-    https://www.thisamericanlife.org/619/the-magic-show
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/0e0b6a63-4c70-4176-abc3-fbb7caf12899/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=0e0b6a63-4c70-4176-abc3-fbb7caf12899"/>
-   <description>
-    Former kid magicians Ira Glass and David Kestenbaum dive back into the world of magic.
-   </description>
-   <pubDate>
-    2017-06-30T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -574,12 +574,12 @@
   </item>
   <item>
    <title>
-    692: The Show of Delights
+    692: The Show of Delights (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/692/the-show-of-delights
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/692/XrGjNYUbIsglv_0OungeV5dMYeWUHYwB1MzcBz68EMw/692.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/692.mp3"/>
    <description>
     In these dark times, we attempt some radical counterprogramming: a show made up entirely of stories about delight.
    </description>
