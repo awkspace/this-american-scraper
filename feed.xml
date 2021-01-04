@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    692: The Show of Delights (Promo)
+    692: The Show of Delights
    </title>
    <link>
     https://www.thisamericanlife.org/692/the-show-of-delights
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/692.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/04b0c404-4b43-4ccc-9316-a60e782d57f5/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=04b0c404-4b43-4ccc-9316-a60e782d57f5"/>
    <description>
     In these dark times, we attempt some radical counterprogramming: a show made up entirely of stories about delight.
    </description>
@@ -574,12 +574,12 @@
   </item>
   <item>
    <title>
-    692: The Show of Delights (Promo)
+    692: The Show of Delights
    </title>
    <link>
     https://www.thisamericanlife.org/692/the-show-of-delights
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/692.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/04b0c404-4b43-4ccc-9316-a60e782d57f5/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=04b0c404-4b43-4ccc-9316-a60e782d57f5"/>
    <description>
     In these dark times, we attempt some radical counterprogramming: a show made up entirely of stories about delight.
    </description>
@@ -1674,7 +1674,7 @@
    <link>
     https://www.thisamericanlife.org/619/the-magic-show
    </link>
-   <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/0e0b6a63-4c70-4176-abc3-fbb7caf12899/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=0e0b6a63-4c70-4176-abc3-fbb7caf12899"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/619/XAhGJTAqWYsNZoozcFnNbYAG13VWNXhtr1Ivd5-0ato/619.mp3"/>
    <description>
     Former kid magicians Ira Glass and David Kestenbaum dive back into the world of magic.
    </description>
