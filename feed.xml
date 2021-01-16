@@ -131,7 +131,7 @@
    </link>
    <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/29b815e4-dfeb-4046-b08e-c5210e052811/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=29b815e4-dfeb-4046-b08e-c5210e052811"/>
    <description>
-    Stories of people grappling with this endless presidential election.
+    People grappling with an endless presidential election.
    </description>
    <pubDate>
     2020-10-30T17:41:10-04:00
@@ -161,7 +161,7 @@
    </link>
    <enclosure type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a1b15d21-d2b5-4fd3-b699-b0348e0329bc/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=a1b15d21-d2b5-4fd3-b699-b0348e0329bc"/>
    <description>
-    Stories of people who find themselves stuck in small spaces, trying to make sense of their new surroundings.
+    People who find themselves stuck in small spaces, trying to make sense of their new surroundings.
    </description>
    <pubDate>
     2020-10-16T11:03:23-04:00
@@ -176,7 +176,7 @@
    </link>
    <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/720/qABk_IBegVCPa39OMKpuJ47bpOjYpZnb8cvrY6wnzQ4/720.mp3"/>
    <description>
-    Stories about people who are worried — or not worried enough! — about what's hurtling unstoppably towards them.
+    People who are worried — or not worried enough! — about what's hurtling unstoppably towards them.
    </description>
    <pubDate>
     2020-10-16T11:02:57-04:00
@@ -750,6 +750,21 @@
    </description>
    <pubDate>
     2019-08-16T17:58:19-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    681: Escape From the Lab
+   </title>
+   <link>
+    https://www.thisamericanlife.org/681/escape-from-the-lab
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/681/D0BT-ozK85AqPDhQ8VzxWY5HNZGr9ppw-LFtmiBlkZI/681.mp3"/>
+   <description>
+    What happens when our most ingenious creations actually make it out into the world.
+   </description>
+   <pubDate>
+    2019-08-09T17:50:09-04:00
    </pubDate>
   </item>
   <item>
@@ -7344,7 +7359,7 @@
    <link>
     https://www.thisamericanlife.org/242/enemy-camp
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/242/xyCmh4AujpAgwL34JnYj002tG8uonr95UicDeOkDMfM/242.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/242/Jgzm_2k_Xg_dkn1DVRueXdeZOLFD--bnWsNw3tCpJGA/242.mp3"/>
    <description>
     The story of a fixer for the Catholic Church and how he came to sympathize with the people that he was sent to deceive.
    </description>
