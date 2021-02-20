@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    732: Secrets (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/732/secrets
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/732.mp3"/>
+   <description>
+    Why we tell them, and what happens after we do.
+   </description>
+   <pubDate>
+    2021-02-10T11:47:51-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     731: What Lies Beneath
    </title>
    <link>
