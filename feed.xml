@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    733: Warriors in the Garden (Promo)
+    733: Warriors in the Garden
    </title>
    <link>
     https://www.thisamericanlife.org/733/warriors-in-the-garden
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/733.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4d881daf-2ac5-4003-85ca-fb9a27e07b01/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=4d881daf-2ac5-4003-85ca-fb9a27e07b01"/>
    <description>
     Three men came together to protest the murder of George Floyd. They were unified, loud, and impressive, but over time these three friends end up in three very different places.
    </description>
@@ -984,7 +984,7 @@
    <link>
     https://www.thisamericanlife.org/670/beware-the-jabberwock
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/6c34c876-6786-4a74-a859-b934a0963bf6/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=6c34c876-6786-4a74-a859-b934a0963bf6"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/670/pUSvVj5NwgfOpSE-TfteZ8R9prOT01TqwmtoEjFi7wU/670.mp3"/>
    <description>
     Stories from the upside-down world where conspiracy theorists dwell.
    </description>
