@@ -19,17 +19,17 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    588: Mind Games
+    233: Starting From Scratch (Promo)
    </title>
    <link>
-    https://www.thisamericanlife.org/588/mind-games
+    https://www.thisamericanlife.org/233/starting-from-scratch
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/cad84135-22f8-4094-b5ba-82668009e9f1/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=cad84135-22f8-4094-b5ba-82668009e9f1"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/233.mp3"/>
    <description>
-    People who try simple mind games on others and find themselves in way over their heads.
+    A man in retirement tries to start over in a new life with a new venture: a cable channel, with lots of puppies.
    </description>
    <pubDate>
-    2016-06-03T00:00:00-04:00
+    2003-03-07T00:00:00-05:00
    </pubDate>
   </item>
   <item>
@@ -174,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/729/making-the-cut
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/729/I5GLmKze7yxEGcslcD2038EW3n8WL6ppCPunMG6cFWE/729.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3e5fb947-b661-49af-a0d4-b59fa401508f/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=3e5fb947-b661-49af-a0d4-b59fa401508f"/>
    <description>
     There's always someone whose job it is to decide if you measure up.
    </description>
@@ -2280,6 +2280,21 @@
    </description>
    <pubDate>
     2016-06-17T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    588: Mind Games
+   </title>
+   <link>
+    https://www.thisamericanlife.org/588/mind-games
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/cad84135-22f8-4094-b5ba-82668009e9f1/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=cad84135-22f8-4094-b5ba-82668009e9f1"/>
+   <description>
+    People who try simple mind games on others and find themselves in way over their heads.
+   </description>
+   <pubDate>
+    2016-06-03T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -7594,12 +7609,12 @@
   </item>
   <item>
    <title>
-    233: Starting From Scratch
+    233: Starting From Scratch (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/233/starting-from-scratch
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/233/VKpIJGoyM76dI8ysEKvlirWWXTsboNII5198ZvgT1ek/233.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/233.mp3"/>
    <description>
     A man in retirement tries to start over in a new life with a new venture: a cable channel, with lots of puppies.
    </description>
