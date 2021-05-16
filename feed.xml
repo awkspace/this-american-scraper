@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    737: The Daily (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/737/the-daily
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/737.mp3"/>
+   <description>
+    An ode to the daily practices and rituals of life—both mundane and special.
+   </description>
+   <pubDate>
+    2021-05-07T08:53:23-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     233: Starting From Scratch
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2021-04-16T13:05:26-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    691: Gardens of Branching Paths
-   </title>
-   <link>
-    https://www.thisamericanlife.org/691/gardens-of-branching-paths
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a0ed82c6-3b08-4dc9-b259-e963486fb71b/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=a0ed82c6-3b08-4dc9-b259-e963486fb71b"/>
-   <description>
-    Other universes that are just like our own, but with one small difference.
-   </description>
-   <pubDate>
-    2020-01-03T12:48:47-05:00
    </pubDate>
   </item>
   <item>
