@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    737: The Daily (Promo)
+    737: The Daily
    </title>
    <link>
     https://www.thisamericanlife.org/737/the-daily
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/737.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/800352df-dd34-4831-ad8a-345eed4a89f2/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=800352df-dd34-4831-ad8a-345eed4a89f2"/>
    <description>
     An ode to the daily practices and rituals of life—both mundane and special.
    </description>
@@ -744,7 +744,7 @@
    <link>
     https://www.thisamericanlife.org/691/gardens-of-branching-paths
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a0ed82c6-3b08-4dc9-b259-e963486fb71b/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=a0ed82c6-3b08-4dc9-b259-e963486fb71b"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/691/T61twRL1TqkJcabIfH1qKLmiisOEJDLTHqsoQTaZbaE/691.mp3"/>
    <description>
     Other universes that are just like our own, but with one small difference.
    </description>
