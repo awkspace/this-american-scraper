@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    706: A Mess to Be Reckoned With (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/706/a-mess-to-be-reckoned-with
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/706.mp3"/>
+   <description>
+    Lissa Yellow Bird searches for missing people. She's great at it. But then, her niece goes missing.
+   </description>
+   <pubDate>
+    2020-05-22T13:34:37-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     737: The Daily
    </title>
    <link>
@@ -514,12 +529,12 @@
   </item>
   <item>
    <title>
-    706: A Mess to Be Reckoned With
+    706: A Mess to Be Reckoned With (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/706/a-mess-to-be-reckoned-with
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/706/RstFuP0dSqiBBAsg7RKKMPeHiUGI6goH6uPyhDP5hs0/706.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/706.mp3"/>
    <description>
     Lissa Yellow Bird searches for missing people. She's great at it. But then, her niece goes missing.
    </description>
