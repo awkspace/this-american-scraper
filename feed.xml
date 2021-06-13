@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    739: Sisters (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/739/sisters
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/739.mp3"/>
+   <description>
+    Sisters build worlds together, worlds that are just for them. Stories about the bonds between sisters and how they get broken and fixed—or not.
+   </description>
+   <pubDate>
+    2021-06-04T09:33:12-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     74: Conventions
    </title>
    <link>
@@ -765,36 +780,6 @@
    </description>
    <pubDate>
     2020-01-03T12:48:47-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    690: Too Close to Home
-   </title>
-   <link>
-    https://www.thisamericanlife.org/690/too-close-to-home
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/690/0k4qo8kLO6CsoqNemwF6TP5gPLY6ZnAr8Hq79lKhUxY/690.mp3"/>
-   <description>
-    For the holidays, stories of families finally addressing the thorny thing they’ve never really talked about.
-   </description>
-   <pubDate>
-    2019-12-20T12:56:17-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    689: Digging Up the Bones
-   </title>
-   <link>
-    https://www.thisamericanlife.org/689/digging-up-the-bones
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/689/JIx9CMKt3KOVj6p8MiEXDA0wKtQ3_yJcsJiYpl8JVDo/689.mp3"/>
-   <description>
-    There's a lot that can be gained from unearthing the past. But it doesn't always go how you'd expect.
-   </description>
-   <pubDate>
-    2019-11-29T18:57:54-05:00
    </pubDate>
   </item>
   <item>
