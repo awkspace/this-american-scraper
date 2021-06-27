@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    539: The Leap
+   </title>
+   <link>
+    https://www.thisamericanlife.org/539/the-leap
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/539/wEbvhHA0rIR6hKB7-ZKdthLEZczMtKyTckUOrKyzi4Q/539.mp3"/>
+   <description>
+    When routines get too mundane, sometimes you just have to hold your breath and jump.
+   </description>
+   <pubDate>
+    2014-11-07T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     506: Secret Identity
    </title>
    <link>
@@ -60,6 +75,21 @@
    </description>
    <pubDate>
     1997-08-29T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    740: There. I Fixed It. (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/740/there-i-fixed-it
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/740.mp3"/>
+   <description>
+    Solving problems using very extreme measures.
+   </description>
+   <pubDate>
+    2021-06-18T17:02:56-04:00
    </pubDate>
   </item>
   <item>
@@ -765,36 +795,6 @@
    </description>
    <pubDate>
     2020-01-24T19:51:08-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    691: Gardens of Branching Paths
-   </title>
-   <link>
-    https://www.thisamericanlife.org/691/gardens-of-branching-paths
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/691/T61twRL1TqkJcabIfH1qKLmiisOEJDLTHqsoQTaZbaE/691.mp3"/>
-   <description>
-    Other universes that are just like our own, but with one small difference.
-   </description>
-   <pubDate>
-    2020-01-03T12:48:47-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    690: Too Close to Home
-   </title>
-   <link>
-    https://www.thisamericanlife.org/690/too-close-to-home
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/690/0k4qo8kLO6CsoqNemwF6TP5gPLY6ZnAr8Hq79lKhUxY/690.mp3"/>
-   <description>
-    For the holidays, stories of families finally addressing the thorny thing they’ve never really talked about.
-   </description>
-   <pubDate>
-    2019-12-20T12:56:17-05:00
    </pubDate>
   </item>
   <item>
