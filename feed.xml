@@ -79,21 +79,6 @@
   </item>
   <item>
    <title>
-    740: There. I Fixed It. (Promo)
-   </title>
-   <link>
-    https://www.thisamericanlife.org/740/there-i-fixed-it
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/740.mp3"/>
-   <description>
-    Solving problems using very extreme measures.
-   </description>
-   <pubDate>
-    2021-06-18T17:02:56-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     738: Good Grief!
    </title>
    <link>
@@ -189,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/732/secrets
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/fcc546b4-abdc-4e0d-bf58-61b7138fc0b3/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=fcc546b4-abdc-4e0d-bf58-61b7138fc0b3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/732/pjDJYeZuL-KRqA1PnIKOaAw4oEFMCmlShPQN7F7q1WM/732.mp3"/>
    <description>
     Why we tell them, and what happens after we do.
    </description>
@@ -795,6 +780,21 @@
    </description>
    <pubDate>
     2020-01-24T19:51:08-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    691: Gardens of Branching Paths
+   </title>
+   <link>
+    https://www.thisamericanlife.org/691/gardens-of-branching-paths
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/691/T61twRL1TqkJcabIfH1qKLmiisOEJDLTHqsoQTaZbaE/691.mp3"/>
+   <description>
+    Other universes that are just like our own, but with one small difference.
+   </description>
+   <pubDate>
+    2020-01-03T12:48:47-05:00
    </pubDate>
   </item>
   <item>
@@ -2415,6 +2415,21 @@
    </description>
    <pubDate>
     2016-03-25T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    582: When the Beasts Come Marching In
+   </title>
+   <link>
+    https://www.thisamericanlife.org/582/when-the-beasts-come-marching-in
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/582/88c4ZhVPk57UuvO2ExANtPv7u77On6_6TvK9MLZu23U/582.mp3"/>
+   <description>
+    Stories where animals drop in and show us who's the boss.
+   </description>
+   <pubDate>
+    2016-03-11T00:00:00-05:00
    </pubDate>
   </item>
   <item>
