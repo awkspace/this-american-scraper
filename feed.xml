@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    740: There. I Fixed It. (Promo)
+    740: There. I Fixed It.
    </title>
    <link>
     https://www.thisamericanlife.org/740/there-i-fixed-it
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/740.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/dd85ad74-1f93-4a69-89e0-c55b17862b73/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=dd85ad74-1f93-4a69-89e0-c55b17862b73"/>
    <description>
     Solving problems using very extreme measures.
    </description>
@@ -10044,7 +10044,7 @@
    <link>
     https://www.thisamericanlife.org/74/conventions
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/ff474534-74b8-4d21-a0c6-dfe0bd373b51/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=ff474534-74b8-4d21-a0c6-dfe0bd373b51"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/74/K8r2i_3wOtbZK3RJrJ_COGcwD6ea-vJD9I3F4TgPHHQ/74.mp3"/>
    <description>
     What happens when people with a common interest gather in fluorescent-lit halls? Sometimes they drive each other crazy, sometimes they fall in love.
    </description>
