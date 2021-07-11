@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    741: The Weight of Words (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/741/the-weight-of-words
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/741.mp3"/>
+   <description>
+    Words mean things, but some words are especially meaningful.
+   </description>
+   <pubDate>
+    2021-07-02T12:30:40-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     740: There. I Fixed It.
    </title>
    <link>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2020-01-24T19:51:08-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    691: Gardens of Branching Paths
-   </title>
-   <link>
-    https://www.thisamericanlife.org/691/gardens-of-branching-paths
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/691/T61twRL1TqkJcabIfH1qKLmiisOEJDLTHqsoQTaZbaE/691.mp3"/>
-   <description>
-    Other universes that are just like our own, but with one small difference.
-   </description>
-   <pubDate>
-    2020-01-03T12:48:47-05:00
    </pubDate>
   </item>
   <item>
