@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    744: Essential (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/744/essential
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/744.mp3"/>
+   <description>
+    The pandemic forced jobs to change, but then the workers changed, too.
+   </description>
+   <pubDate>
+    2021-08-05T09:51:27-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     582: When the Beasts Come Marching In
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2021-07-14T10:14:19-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    436: The Psychopath Test
-   </title>
-   <link>
-    https://www.thisamericanlife.org/436/the-psychopath-test
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/81e25679-89fe-417b-87a4-ca0845125fd5/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=81e25679-89fe-417b-87a4-ca0845125fd5"/>
-   <description>
-    We heard about a test that could determine if someone was a psychopath. So, naturally, our staff decided to take it.
-   </description>
-   <pubDate>
-    2011-05-27T00:00:00-04:00
    </pubDate>
   </item>
   <item>
