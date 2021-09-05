@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    746: This Is Just Some Songs (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/746/this-is-just-some-songs
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/746.mp3"/>
+   <description>
+    We made you a mixtape. Don't make a big deal out of it or anything.
+   </description>
+   <pubDate>
+    2021-08-18T15:50:36-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     745: Getting Out
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2021-08-05T09:51:27-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    582: When the Beasts Come Marching In
-   </title>
-   <link>
-    https://www.thisamericanlife.org/582/when-the-beasts-come-marching-in
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/578ddebd-d5cc-43e6-aaeb-189aa081aaac/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=578ddebd-d5cc-43e6-aaeb-189aa081aaac"/>
-   <description>
-    The animals drop in and show us who's boss.
-   </description>
-   <pubDate>
-    2016-03-11T00:00:00-05:00
    </pubDate>
   </item>
   <item>
