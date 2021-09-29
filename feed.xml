@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    553: Stuck in the Middle
+   </title>
+   <link>
+    https://www.thisamericanlife.org/553/stuck-in-the-middle
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d39d2ece-06af-4d0b-9fe0-a6aa397fe166/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=d39d2ece-06af-4d0b-9fe0-a6aa397fe166"/>
+   <description>
+    Stories about how it sucks to be in limbo, and a man who absolutely loves listening to hold music.
+   </description>
+   <pubDate>
+    2015-04-03T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     748: The End of the World as We Know It
    </title>
    <link>
@@ -159,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/739/sisters
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e57b5784-37ce-4e79-a45b-9ca742be634e/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=e57b5784-37ce-4e79-a45b-9ca742be634e"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/739/d7QFYxUcHJJF4L5MYTDZCgb68MBnUE8zvGceS0I_Fhk/739.mp3"/>
    <description>
     Sisters build worlds together, worlds that are just for them. Stories about the bonds between sisters and how they get broken and fixed—or not.
    </description>
@@ -2944,12 +2959,12 @@
   </item>
   <item>
    <title>
-    553: Stuck In The Middle
+    553: Stuck in the Middle
    </title>
    <link>
     https://www.thisamericanlife.org/553/stuck-in-the-middle
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/553/u5MsXReV0UUes1GvqoSvtJcT8gMpMKNV9jK3fHYybNs/553.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d39d2ece-06af-4d0b-9fe0-a6aa397fe166/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=d39d2ece-06af-4d0b-9fe0-a6aa397fe166"/>
    <description>
     Stories about how it sucks to be in limbo, and a man who absolutely loves listening to hold music.
    </description>
