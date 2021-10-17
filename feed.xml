@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    750: The Ferryman (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/750/the-ferryman
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/750.mp3"/>
+   <description>
+    Stories about getting from Point A to Point B—with expert assistance.
+   </description>
+   <pubDate>
+    2021-10-07T09:23:14-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     203: Recordings for Someone
    </title>
    <link>
@@ -26,7 +41,7 @@
    </link>
    <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7fb53ebd-3623-47e2-9e92-b3e75fb55c63/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=7fb53ebd-3623-47e2-9e92-b3e75fb55c63"/>
    <description>
-    The story of what some have called the greatest phone message in the world.
+    Personal recordings one person made for just one other person.
    </description>
    <pubDate>
     2002-01-11T00:00:00-05:00
@@ -529,10 +544,10 @@
   </item>
   <item>
    <title>
-    717: Audience of One
+    717: Audience of One (2020)
    </title>
    <link>
-    https://www.thisamericanlife.org/717/audience-of-one
+    https://www.thisamericanlife.org/717/audience-of-one-2020
    </link>
    <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/717/WZCQfginXBVMmj0LviGagjSLecTVGpX-jT81c3vHQqU/717.mp3"/>
    <description>
@@ -8246,7 +8261,7 @@
    </link>
    <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7fb53ebd-3623-47e2-9e92-b3e75fb55c63/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=7fb53ebd-3623-47e2-9e92-b3e75fb55c63"/>
    <description>
-    The story of what some have called the greatest phone message in the world.
+    Personal recordings one person made for just one other person.
    </description>
    <pubDate>
     2002-01-11T00:00:00-05:00
