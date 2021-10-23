@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    751: Audience of One (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/751/audience-of-one
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/751.mp3"/>
+   <description>
+    We bring the movies to you.
+   </description>
+   <pubDate>
+    2021-10-16T08:25:46-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     750: The Ferryman
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2021-09-15T08:27:31-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    553: Stuck in the Middle
-   </title>
-   <link>
-    https://www.thisamericanlife.org/553/stuck-in-the-middle
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d39d2ece-06af-4d0b-9fe0-a6aa397fe166/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=d39d2ece-06af-4d0b-9fe0-a6aa397fe166"/>
-   <description>
-    People caught in limbo, using ingenuity and guile to try to get themselves out.
-   </description>
-   <pubDate>
-    2015-04-03T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -4839,7 +4839,7 @@
    <link>
     https://www.thisamericanlife.org/431/see-no-evil
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/431/jQVU8_K1rPPWLt1r194vg83sABzFmMxaNreR6KMPvuk/431.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/431/qxaVxrC4ETpdDQIfB5Ejkb_KgCK7A7ogJWKO7fvs0pk/431.mp3"/>
    <description>
     Stories of people pretending that everything is okay and ignoring the awful stuff that's staring them straight in the face.
    </description>
