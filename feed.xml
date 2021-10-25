@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    751: Audience of One (Promo)
+    751: Audience of One
    </title>
    <link>
     https://www.thisamericanlife.org/751/audience-of-one
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/751.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1571d4a9-8b42-4f96-9ea8-482561020c98/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=1571d4a9-8b42-4f96-9ea8-482561020c98"/>
    <description>
     We bring the movies to you.
    </description>
@@ -3009,7 +3009,7 @@
    <link>
     https://www.thisamericanlife.org/553/stuck-in-the-middle
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d39d2ece-06af-4d0b-9fe0-a6aa397fe166/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=d39d2ece-06af-4d0b-9fe0-a6aa397fe166"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/553/xd3B5_YvHmW65r3wABj5mFO2MWVR_WWARKLoMwxuD4s/553.mp3"/>
    <description>
     People caught in limbo, using ingenuity and guile to try to get themselves out.
    </description>
