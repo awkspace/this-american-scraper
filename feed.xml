@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    628: In the Shadow of the City (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/628/in-the-shadow-of-the-city
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/628.mp3"/>
+   <description>
+    Stories that take place on the edge of civilization, just out of sight.
+   </description>
+   <pubDate>
+    2017-10-13T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     752: An Invitation to Tea
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2021-10-07T09:23:14-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    203: Recordings for Someone
-   </title>
-   <link>
-    https://www.thisamericanlife.org/203/recordings-for-someone
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7fb53ebd-3623-47e2-9e92-b3e75fb55c63/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=7fb53ebd-3623-47e2-9e92-b3e75fb55c63"/>
-   <description>
-    Personal recordings one person made for just one other person.
-   </description>
-   <pubDate>
-    2002-01-11T00:00:00-05:00
    </pubDate>
   </item>
   <item>
