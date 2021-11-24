@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    660: Hoaxing Yourself
+   </title>
+   <link>
+    https://www.thisamericanlife.org/660/hoaxing-yourself
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4006ede1-0106-4d73-9b47-5cbb29274cef/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=4006ede1-0106-4d73-9b47-5cbb29274cef"/>
+   <description>
+    People who tell a lie and then believe the lie more than anyone else.
+   </description>
+   <pubDate>
+    2018-11-01T07:18:09-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     753: What We’ve Got Here is Failure to Communicate
    </title>
    <link>
@@ -159,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/745/getting-out
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/44ff1685-a22d-46af-8758-53c7fa4ca13e/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=44ff1685-a22d-46af-8758-53c7fa4ca13e"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/745/0XKx0cDGLFr1Wnn8GCIAR2_788F2-iosizVOpETOVQU/745.mp3"/>
    <description>
     People trying to escape all kinds of seemingly impossible situations.
    </description>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2020-05-13T09:59:57-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    703: Stuck!
-   </title>
-   <link>
-    https://www.thisamericanlife.org/703/stuck
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/703/09Z-Oyssp4OWYFVQGkpa2KEwBCl6FYMF33SfFF0tzT0/703.mp3"/>
-   <description>
-    During a time when a lot of us feel like we are living in a holding pattern, stories of people feeling stuck.
-   </description>
-   <pubDate>
-    2020-05-01T14:24:30-04:00
    </pubDate>
   </item>
   <item>
@@ -1444,12 +1444,12 @@
   </item>
   <item>
    <title>
-    660: Hoaxing Yourself (Promo)
+    660: Hoaxing Yourself
    </title>
    <link>
     https://www.thisamericanlife.org/660/hoaxing-yourself
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/660.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4006ede1-0106-4d73-9b47-5cbb29274cef/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=4006ede1-0106-4d73-9b47-5cbb29274cef"/>
    <description>
     People who tell a lie and then believe the lie more than anyone else.
    </description>
