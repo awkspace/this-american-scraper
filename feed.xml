@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    754: Spark Bird (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/754/spark-bird
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/754.mp3"/>
+   <description>
+    Stories about birds and the hearts they sway, the havoc they wreck, the lives they change.
+   </description>
+   <pubDate>
+    2021-11-18T15:44:55-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     660: Hoaxing Yourself
    </title>
    <link>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2020-05-15T21:40:43-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    704: Our Pulitzer-Winning Episode
-   </title>
-   <link>
-    https://www.thisamericanlife.org/704/our-pulitzer-winning-episode
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/704/hChYOxyp9L1n1ph-EneqMD2SZtz569p_Qj5ie2dHPRo/704.mp3"/>
-   <description>
-    What the Trump administration’s "Remain in Mexico" policy really means, on the ground, at the Mexican border.
-   </description>
-   <pubDate>
-    2020-05-13T09:59:57-04:00
    </pubDate>
   </item>
   <item>
