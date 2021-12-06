@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    755: The Convert
+   </title>
+   <link>
+    https://www.thisamericanlife.org/755/the-convert
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2bb29b15-3fb0-4d28-9882-620d2eb4b888/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=2bb29b15-3fb0-4d28-9882-620d2eb4b888"/>
+   <description>
+    An undercover FBI informant at the mosque in Orange County starts acting very odd.
+   </description>
+   <pubDate>
+    2021-12-02T15:27:12-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     754: Spark Bird
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2021-10-29T10:19:47-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    628: In the Shadow of the City
-   </title>
-   <link>
-    https://www.thisamericanlife.org/628/in-the-shadow-of-the-city
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/58680253-75ec-4328-9a7e-2e5f1e26a12f/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=58680253-75ec-4328-9a7e-2e5f1e26a12f"/>
-   <description>
-    Stories that take place on the edge of civilization, just out of sight.
-   </description>
-   <pubDate>
-    2017-10-13T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -1944,7 +1944,7 @@
    <link>
     https://www.thisamericanlife.org/628/in-the-shadow-of-the-city
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/58680253-75ec-4328-9a7e-2e5f1e26a12f/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=58680253-75ec-4328-9a7e-2e5f1e26a12f"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/628/Cgzvgp7JgsZYNtCuJZEMbca6IRqg4abTJo5osKfg80c/628.mp3"/>
    <description>
     Stories that take place on the edge of civilization, just out of sight.
    </description>
