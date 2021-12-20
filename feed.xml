@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    214: Family Physics
+   </title>
+   <link>
+    https://www.thisamericanlife.org/214/family-physics
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/82e05c54-535a-49ba-b0ec-dd4c0bb0dd64/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=82e05c54-535a-49ba-b0ec-dd4c0bb0dd64"/>
+   <description>
+    We take the laws of physics and apply them to the realm of human relationships.
+   </description>
+   <pubDate>
+    2002-05-31T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     756: But I Did Everything Right
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2021-11-18T15:44:55-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    660: Hoaxing Yourself
-   </title>
-   <link>
-    https://www.thisamericanlife.org/660/hoaxing-yourself
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4006ede1-0106-4d73-9b47-5cbb29274cef/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=4006ede1-0106-4d73-9b47-5cbb29274cef"/>
-   <description>
-    People who tell a lie and then believe the lie more than anyone else.
-   </description>
-   <pubDate>
-    2018-11-01T07:18:09-04:00
    </pubDate>
   </item>
   <item>
@@ -1479,7 +1479,7 @@
    <link>
     https://www.thisamericanlife.org/660/hoaxing-yourself
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4006ede1-0106-4d73-9b47-5cbb29274cef/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=4006ede1-0106-4d73-9b47-5cbb29274cef"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/660/pRVwI1DhJDmtQxgjwOzj_0q_icb0L02yVZrN5GDtvso/660.mp3"/>
    <description>
     People who tell a lie and then believe the lie more than anyone else.
    </description>
@@ -8164,12 +8164,12 @@
   </item>
   <item>
    <title>
-    214: Family Physics (Promo)
+    214: Family Physics
    </title>
    <link>
     https://www.thisamericanlife.org/214/family-physics
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/214.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/82e05c54-535a-49ba-b0ec-dd4c0bb0dd64/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=82e05c54-535a-49ba-b0ec-dd4c0bb0dd64"/>
    <description>
     We take the laws of physics and apply them to the realm of human relationships.
    </description>
