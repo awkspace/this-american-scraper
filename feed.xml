@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    47: Christmas and Commerce
+   </title>
+   <link>
+    https://www.thisamericanlife.org/47/christmas-and-commerce
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e9fb3b63-aecb-48f3-bead-fce97926efa3/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=e9fb3b63-aecb-48f3-bead-fce97926efa3"/>
+   <description>
+    The intersection of Christmas and retail, including David Sedaris's "Santaland Diaries."
+   </description>
+   <pubDate>
+    1996-12-20T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     214: Family Physics
    </title>
    <link>
@@ -159,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/748/the-end-of-the-world-as-we-know-it
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/193b4cf0-1a57-4219-b1ac-393498b0ade7/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=193b4cf0-1a57-4219-b1ac-393498b0ade7"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/748/0QYFhdKnLwPSFkevAQh3xdWaSUF3kg7WWWa8hD9Bq9U/748.mp3"/>
    <description>
     What happens when one family goes all in on fighting climate change.
    </description>
@@ -10674,7 +10689,7 @@
    <link>
     https://www.thisamericanlife.org/47/christmas-and-commerce
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/47/b4Z3tVIuVyVYx0Ynp0Pwoumxn2_EwCyHbNOtIfBn_Ow/47.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e9fb3b63-aecb-48f3-bead-fce97926efa3/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=e9fb3b63-aecb-48f3-bead-fce97926efa3"/>
    <description>
     The intersection of Christmas and retail, including David Sedaris's "Santaland Diaries."
    </description>
