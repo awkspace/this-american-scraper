@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    759: A Couple Walks Into a House (Promo)
+    759: A Couple Walks Into a House
    </title>
    <link>
     https://www.thisamericanlife.org/759/a-couple-walks-into-a-house
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/759.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/6abe9421-2524-452b-bc46-877538b1ada0/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=6abe9421-2524-452b-bc46-877538b1ada0"/>
    <description>
     An unsettling discovery in the home of a local police officer rocks an entire city.
    </description>
@@ -10719,7 +10719,7 @@
    <link>
     https://www.thisamericanlife.org/47/christmas-and-commerce
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e9fb3b63-aecb-48f3-bead-fce97926efa3/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=e9fb3b63-aecb-48f3-bead-fce97926efa3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/47/b4Z3tVIuVyVYx0Ynp0Pwoumxn2_EwCyHbNOtIfBn_Ow/47.mp3"/>
    <description>
     The intersection of Christmas and retail, including David Sedaris's "Santaland Diaries."
    </description>
