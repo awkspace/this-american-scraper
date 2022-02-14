@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    762: Apocalypse Creep
+   </title>
+   <link>
+    https://www.thisamericanlife.org/762/apocalypse-creep
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/71dd7fd6-1256-4ff7-839f-0adfd9a6e6f6/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=71dd7fd6-1256-4ff7-839f-0adfd9a6e6f6"/>
+   <description>
+    Stories from places that are slowly coming apart.
+   </description>
+   <pubDate>
+    2022-02-04T10:47:11-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     761: The Trojan Horse Affair
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2022-01-13T10:22:38-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    492: Dr. Gilmer and Mr. Hyde
-   </title>
-   <link>
-    https://www.thisamericanlife.org/492/dr-gilmer-and-mr-hyde
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/32fea352-e0a8-4b63-878a-c5f94734eabc/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=32fea352-e0a8-4b63-878a-c5f94734eabc"/>
-   <description>
-    Did a beloved family doctor with no criminal history suddenly up and strangle his own father?
-   </description>
-   <pubDate>
-    2013-04-12T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -4074,7 +4074,7 @@
    <link>
     https://www.thisamericanlife.org/492/dr-gilmer-and-mr-hyde
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/32fea352-e0a8-4b63-878a-c5f94734eabc/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=32fea352-e0a8-4b63-878a-c5f94734eabc"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/492/cu_wRkMsuiIB3PS39twnetucqi1tuHilqIRnb8uUUN8/492.mp3"/>
    <description>
     Did a beloved family doctor with no criminal history suddenly up and strangle his own father?
    </description>
