@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    466: Blackjack (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/466/blackjack
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/466.mp3"/>
+   <description>
+    A woman gambles away her inheritance and then sues the casino, saying they're to blame.
+   </description>
+   <pubDate>
+    2012-06-08T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     762: Apocalypse Creep
    </title>
    <link>
@@ -75,21 +90,6 @@
    </description>
    <pubDate>
     2022-01-13T10:22:38-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    763: The Pop Star and the Common Women (Promo)
-   </title>
-   <link>
-    https://www.thisamericanlife.org/763/the-popstar-and-the-common-women
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/763.mp3"/>
-   <description>
-    Three women get caught up in a #MeToo story unlike any other you've heard.
-   </description>
-   <pubDate>
-    2022-02-16T09:56:00-05:00
    </pubDate>
   </item>
   <item>
