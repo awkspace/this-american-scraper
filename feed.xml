@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    763: The Other Mr. President
+   </title>
+   <link>
+    https://www.thisamericanlife.org/763/the-other-mr-president
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/70c3aa87-4933-4637-8486-a0e8198d1e20/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=70c3aa87-4933-4637-8486-a0e8198d1e20"/>
+   <description>
+    Stories about Vladimir Putin.
+   </description>
+   <pubDate>
+    2022-02-25T10:56:27-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     466: Blackjack
    </title>
    <link>
@@ -60,6 +75,21 @@
    </description>
    <pubDate>
     2022-01-27T12:22:34-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    764: The Pop Star and the Common Women (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/764/the-pop-star-and-the-common-women
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/764.mp3"/>
+   <description>
+    Three women get caught up in a #MeToo story unlike any other you've heard.
+   </description>
+   <pubDate>
+    2022-02-16T09:56:00-05:00
    </pubDate>
   </item>
   <item>
@@ -765,36 +795,6 @@
    </description>
    <pubDate>
     2020-08-10T12:40:41-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    713: Made to Be Broken
-   </title>
-   <link>
-    https://www.thisamericanlife.org/713/made-to-be-broken
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/713/Hpb6MSVMeVx9ClnE_SA_RF8Sajb34Wa52b6hkO_3xlE/713.mp3"/>
-   <description>
-    In a pitched moment of rule-questioning, a show about rules and the people who break them.
-   </description>
-   <pubDate>
-    2020-07-31T11:38:46-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    712: Nice White Parents
-   </title>
-   <link>
-    https://www.thisamericanlife.org/712/nice-white-parents
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/712/zRiAPY5E6h0wBU0pmqfvpv_ByQsXvMEKcDbFKFKcB-o/712.mp3"/>
-   <description>
-    Producer Chana Joffe-Walt investigates the inordinate power of white parents at one ordinary public school.
-   </description>
-   <pubDate>
-    2020-07-23T13:43:23-04:00
    </pubDate>
   </item>
   <item>
