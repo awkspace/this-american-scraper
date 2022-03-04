@@ -79,21 +79,6 @@
   </item>
   <item>
    <title>
-    764: The Pop Star and the Common Women (Promo)
-   </title>
-   <link>
-    https://www.thisamericanlife.org/764/the-pop-star-and-the-common-women
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/764.mp3"/>
-   <description>
-    Three women get caught up in a #MeToo story unlike any other you've heard.
-   </description>
-   <pubDate>
-    2022-02-16T09:56:00-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     760: A City Walks Into an Investigation
    </title>
    <link>
@@ -189,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/754/spark-bird
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/bd4ed0ce-78ca-4777-8286-c054c1e4f8d6/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=bd4ed0ce-78ca-4777-8286-c054c1e4f8d6"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/754/0vuEsdvOrrm21PMp2L8_4-TXYJ7bzQvrdVIG-_ue5Wg/754.mp3"/>
    <description>
     Stories about birds and the hearts they sway, the havoc they wreck, the lives they change.
    </description>
@@ -795,6 +780,21 @@
    </description>
    <pubDate>
     2020-08-10T12:40:41-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    713: Made to Be Broken
+   </title>
+   <link>
+    https://www.thisamericanlife.org/713/made-to-be-broken
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/713/Hpb6MSVMeVx9ClnE_SA_RF8Sajb34Wa52b6hkO_3xlE/713.mp3"/>
+   <description>
+    In a pitched moment of rule-questioning, a show about rules and the people who break them.
+   </description>
+   <pubDate>
+    2020-07-31T11:38:46-04:00
    </pubDate>
   </item>
   <item>
@@ -5829,7 +5829,7 @@
    <link>
     https://www.thisamericanlife.org/378/this-i-used-to-believe
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/378/91Dg5KwMLYowcKFR1Yq3QPX91ibD82K2n6NCSIGi54I/378.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/378/hZ8CmQzBoW15GdHewAPM6v6psMYqfipnnzcPJTNdLzg/378.mp3"/>
    <description>
     Stories of people forced to let go of their firmly held beliefs.
    </description>
@@ -5844,7 +5844,7 @@
    <link>
     https://www.thisamericanlife.org/377/scenes-from-a-recession
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/377/KFlk2w0RTLPeIAY985tb_tQ3ZRc5sznqxGUmS6f1niE/377.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/377/Egja8jzRWNDzI1AzGfPnDvViJRufInWqGWlGQmGQzMQ/377.mp3"/>
    <description>
     We highlight the unusual circumstances our economic drought has left us in.
    </description>
@@ -11079,7 +11079,7 @@
    <link>
     https://www.thisamericanlife.org/28/detectives
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/28/CjyAsdV_gFUrGHA9t6sjitecqszQnDau-kSCbdF8nYk/28.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/28/6c-i9DvafJl4v4y6v-olWcGwoUtOa0rzrxdtPnIzDEw/28.mp3"/>
    <description>
     David Sedaris recalls the days when his mother and sister played armchair detective.
    </description>
