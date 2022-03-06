@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    175: Babysitting (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/175/babysitting
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/175.mp3"/>
+   <description>
+    A brother and sister decide to invent children to babysit, as an excuse to get out of their own house.
+   </description>
+   <pubDate>
+    2001-01-05T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     763: The Other Mr. President
    </title>
    <link>
@@ -765,21 +780,6 @@
    </description>
    <pubDate>
     2020-08-21T10:40:43-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    714: Day at the Beach
-   </title>
-   <link>
-    https://www.thisamericanlife.org/714/day-at-the-beach
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/714/wFOrfu97v68fwyKpiO5p_A9JyGUcgEwvMOGOYBmLF-8/714.mp3"/>
-   <description>
-    It’s the last few weeks of summer, so we’re going to the beach! This week, stories from the surf and sand.
-   </description>
-   <pubDate>
-    2020-08-10T12:40:41-04:00
    </pubDate>
   </item>
   <item>
