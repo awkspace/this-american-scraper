@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    764: School's Out Forever
+   </title>
+   <link>
+    https://www.thisamericanlife.org/764/schools-out-forever
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/f82a132a-5656-4824-9933-39f475ac5f5a/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=f82a132a-5656-4824-9933-39f475ac5f5a"/>
+   <description>
+    The pandemic broke school. Can we ever go back?
+   </description>
+   <pubDate>
+    2022-03-03T15:47:22-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     175: Babysitting
    </title>
    <link>
@@ -159,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/756/but-i-did-everything-right
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/04f93d5d-2710-40b1-af29-902330d297dc/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=04f93d5d-2710-40b1-af29-902330d297dc"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/756/tCS4FT6dIuZrIYBY8lhCWdtW1tJp62ESKccEJN1DMEY/756.mp3"/>
    <description>
     People earnestly doing what they're told, and absolutely not getting what they were promised.
    </description>
