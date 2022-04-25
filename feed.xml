@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    768: The Other Front Lines (Promo)
+    768: The Other Front Lines
    </title>
    <link>
     https://www.thisamericanlife.org/768/the-other-front-lines
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/768.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/187700c4-486b-4d1d-9f9d-cbde626f7a30/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=187700c4-486b-4d1d-9f9d-cbde626f7a30"/>
    <description>
     Four personal stories from the war in Ukraine.
    </description>
@@ -3714,7 +3714,7 @@
    <link>
     https://www.thisamericanlife.org/523/death-and-taxes
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d99eccca-6579-45c3-b591-24d4a1507fdd/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=d99eccca-6579-45c3-b591-24d4a1507fdd"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/523/4NXhhxEZLzh11B0XJZJIAyFCH_MjcNTHdjV1Bl2AW0M/523.mp3"/>
    <description>
     We ask the people who work at a hospice facility some personal questions about death and dying.
    </description>
