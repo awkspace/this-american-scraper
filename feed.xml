@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    769: The Reluctant Explorer (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/769/the-reluctant-explorer
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/769.mp3"/>
+   <description>
+    A man is thrust into a new world he didn’t ask to visit.
+   </description>
+   <pubDate>
+    2022-04-19T13:03:35-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     768: The Other Front Lines
    </title>
    <link>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2020-09-25T14:43:17-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    718: Same Bed, Different Dreams
-   </title>
-   <link>
-    https://www.thisamericanlife.org/718/same-bed-different-dreams
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/718/nbiN7iGH-GJAqPTPZM0dss5TGW5j1QS6XTBJStHnNdM/718.mp3"/>
-   <description>
-    Stories of people who are tied together, but imagine radically different futures.
-   </description>
-   <pubDate>
-    2020-09-25T11:22:43-04:00
    </pubDate>
   </item>
   <item>
