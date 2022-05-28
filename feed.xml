@@ -174,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/762/apocalypse-creep
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/71dd7fd6-1256-4ff7-839f-0adfd9a6e6f6/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=71dd7fd6-1256-4ff7-839f-0adfd9a6e6f6"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/762/tFmBYj63BZTiH44FqlEgYobjIpnDM44wUXFDiCm4y-o/762.mp3"/>
    <description>
     Stories from places that are slowly coming apart.
    </description>
@@ -780,6 +780,21 @@
    </description>
    <pubDate>
     2020-10-23T20:06:17-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    721: The Walls Close In
+   </title>
+   <link>
+    https://www.thisamericanlife.org/721/the-walls-close-in
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/721/nInwz4XIY-vsVaK8sl9sU3QtM0BH19d9aRIm4Sp74kA/721.mp3"/>
+   <description>
+    People who find themselves stuck in small spaces, trying to make sense of their new surroundings.
+   </description>
+   <pubDate>
+    2020-10-16T11:03:23-04:00
    </pubDate>
   </item>
   <item>
@@ -1719,7 +1734,7 @@
    <link>
     https://www.thisamericanlife.org/659/before-the-next-one
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/659/0UHLQty1Yt49FAh9Uv21LttcsSU5F5ldwdo-q9F5kd0/659.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/659/9C5YDbSpBKUx0DGHG_ONLX-7Mg2sKwBTpVftxm-rVU4/659.mp3"/>
    <description>
     People taking what they’ve learned from school shootings and try to use that knowledge to save others.
    </description>
@@ -8934,7 +8949,7 @@
    <link>
     https://www.thisamericanlife.org/178/superpowers
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/178/7XkrXbbZwnIKPAr8qvRiCRhBEaFQZVJmHtfabeeqhfg/178.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/178/XGbNvG-oJJ6vFLyAigYnvttabw_0AhBbfklaR6HJZpA/178.mp3"/>
    <description>
     Which is better: flight or invisibility?
    </description>
