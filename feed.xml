@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    772: The Kids' Table (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/772/the-kids-table
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/772.mp3"/>
+   <description>
+    Kids navigating hairy situations all on their own, with no help from grown-ups.
+   </description>
+   <pubDate>
+    2022-05-11T11:03:51-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     771: The Parents Step In
    </title>
    <link>
@@ -1489,21 +1504,6 @@
   </item>
   <item>
    <title>
-    676: Here’s Looking at You, Kid
-   </title>
-   <link>
-    https://www.thisamericanlife.org/676/heres-looking-at-you-kid
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/676/mlnjqys6Rxubdx9g8m_DwLz7NTWR4xsokLepGgj1p-s/676.mp3"/>
-   <description>
-    Adults telling kids who they are, and kids wondering — are they right?
-   </description>
-   <pubDate>
-    2019-05-24T10:35:51-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     675: I’m on TV??
    </title>
    <link>
@@ -2025,6 +2025,21 @@
    </description>
    <pubDate>
     2018-03-08T13:01:59-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    640: Five Women
+   </title>
+   <link>
+    https://www.thisamericanlife.org/640/five-women
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/640/IMrmGnyb9s5aIporzJbXdA1r9wyOPhdQQ55bmWdTwPM/640.mp3"/>
+   <description>
+    A different kind of #MeToo story, about several women who worked for the same man.
+   </description>
+   <pubDate>
+    2018-02-23T19:19:34-05:00
    </pubDate>
   </item>
   <item>
