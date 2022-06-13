@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    672: No Fair!
+   </title>
+   <link>
+    https://www.thisamericanlife.org/672/no-fair
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5a12fc83-9bf1-40df-8726-aef5f7610917/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=5a12fc83-9bf1-40df-8726-aef5f7610917"/>
+   <description>
+    Stories of very small injustices and also one very big one.
+   </description>
+   <pubDate>
+    2019-03-29T16:33:35-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     772: The Kids' Table
    </title>
    <link>
@@ -64,17 +79,17 @@
   </item>
   <item>
    <title>
-    605: Kid Logic
+    773: The Longest Distance Between Two Points (Promo)
    </title>
    <link>
-    https://www.thisamericanlife.org/605/kid-logic
+    https://www.thisamericanlife.org/773/longest-distance
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8a2923a2-055c-45b9-8fb4-2bec1fd86dbe/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=8a2923a2-055c-45b9-8fb4-2bec1fd86dbe"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/773.mp3"/>
    <description>
-    Kids using perfectly logical arguments, and arriving at perfectly wrong conclusions.
+    Getting from A to B via Z.
    </description>
    <pubDate>
-    2016-12-16T00:00:00-05:00
+    2022-06-03T09:03:22-04:00
    </pubDate>
   </item>
   <item>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2020-11-11T16:18:09-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    723: Squeaker
-   </title>
-   <link>
-    https://www.thisamericanlife.org/723/squeaker
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/723/tY-IieIUnuWPvGrO4SSWR_biolScGzh6qAZxRN0W7_s/723.mp3"/>
-   <description>
-    People grappling with an endless presidential election.
-   </description>
-   <pubDate>
-    2020-10-30T17:41:10-04:00
    </pubDate>
   </item>
   <item>
@@ -1569,7 +1569,7 @@
    <link>
     https://www.thisamericanlife.org/672/no-fair
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/672/QJx9mMe6PRAqJAnVWKzV6GmyT1vjZPs8iC_w1sZvE3c/672.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5a12fc83-9bf1-40df-8726-aef5f7610917/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=5a12fc83-9bf1-40df-8726-aef5f7610917"/>
    <description>
     Stories of very small injustices and also one very big one.
    </description>
@@ -2574,7 +2574,7 @@
    <link>
     https://www.thisamericanlife.org/605/kid-logic
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8a2923a2-055c-45b9-8fb4-2bec1fd86dbe/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=8a2923a2-055c-45b9-8fb4-2bec1fd86dbe"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/605/yywgdqSNbNljH9WZenFwkMzCQ--0uvjZRUsHsxs8Voo/605.mp3"/>
    <description>
     Kids using perfectly logical arguments, and arriving at perfectly wrong conclusions.
    </description>
