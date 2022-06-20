@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    773: The Longest Distance Between Two Points (Promo)
+    773: The Longest Distance Between Two Points
    </title>
    <link>
     https://www.thisamericanlife.org/773/longest-distance
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/773.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/72e503ce-f09d-4a52-93ad-cb37be010370/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=72e503ce-f09d-4a52-93ad-cb37be010370"/>
    <description>
     Getting from A to B via Z.
    </description>
@@ -2064,7 +2064,7 @@
    <link>
     https://www.thisamericanlife.org/638/rom-com
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/cd9ce857-fd13-4434-87ec-89bc423f571e/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=cd9ce857-fd13-4434-87ec-89bc423f571e"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/638/KvmZxsKWav_rLrLsdL6mZ7X7eSrwdkfbiyeJeQT9kSw/638.mp3"/>
    <description>
     Stories about surviving the mishaps of love.
    </description>
