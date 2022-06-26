@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    583: It’ll Make Sense When You’re Older (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/583/itll-make-sense-when-youre-older
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/583.mp3"/>
+   <description>
+    Kids do not like being told it’ll make sense when they’re older. They’re pretty sure the grown-ups are wrong.
+   </description>
+   <pubDate>
+    2016-03-25T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     773: The Longest Distance Between Two Points
    </title>
    <link>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2020-11-11T16:18:09-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    723: Squeaker
-   </title>
-   <link>
-    https://www.thisamericanlife.org/723/squeaker
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/723/tY-IieIUnuWPvGrO4SSWR_biolScGzh6qAZxRN0W7_s/723.mp3"/>
-   <description>
-    People grappling with an endless presidential election.
-   </description>
-   <pubDate>
-    2020-10-30T17:41:10-04:00
    </pubDate>
   </item>
   <item>
@@ -2899,12 +2899,12 @@
   </item>
   <item>
    <title>
-    583: It’ll Make Sense When You’re Older
+    583: It’ll Make Sense When You’re Older (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/583/itll-make-sense-when-youre-older
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/583/gnxD3tIN-JzvY6CfCcxSYRS5ZhX0jnGmFJa4x_DStJs/583.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/583.mp3"/>
    <description>
     Kids do not like being told it’ll make sense when they’re older. They’re pretty sure the grown-ups are wrong.
    </description>
