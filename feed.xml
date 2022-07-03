@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    774: The Pink House at the Center of the World (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/774/the-pink-house-at-the-center-of-the-world
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/774.mp3"/>
+   <description>
+    Stories from the center of this moment of history, the day it happened.
+   </description>
+   <pubDate>
+    2022-06-27T11:15:53-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     583: It’ll Make Sense When You’re Older
    </title>
    <link>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2020-11-20T16:22:13-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    724: Personal Recount
-   </title>
-   <link>
-    https://www.thisamericanlife.org/724/personal-recount
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/724/dXgeKF1wbWxHdBD4ZugXXyXlYMexxdZQsYiMvvA5NYY/724.mp3"/>
-   <description>
-    Stories of people changing their minds.
-   </description>
-   <pubDate>
-    2020-11-11T16:18:09-05:00
    </pubDate>
   </item>
   <item>
