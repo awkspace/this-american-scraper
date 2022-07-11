@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    775: The Possum Experiment (Promo)
+    775: The Possum Experiment
    </title>
    <link>
     https://www.thisamericanlife.org/775/the-possum-experiment
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/775.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/dd18e4ea-a271-4303-891b-eb13f15f7df3/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=dd18e4ea-a271-4303-891b-eb13f15f7df3"/>
    <description>
     An investigation into a very basic question about people: Are most of us bad or good?
    </description>
@@ -1584,7 +1584,7 @@
    <link>
     https://www.thisamericanlife.org/672/no-fair
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5a12fc83-9bf1-40df-8726-aef5f7610917/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=5a12fc83-9bf1-40df-8726-aef5f7610917"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/672/QJx9mMe6PRAqJAnVWKzV6GmyT1vjZPs8iC_w1sZvE3c/672.mp3"/>
    <description>
     Stories of very small injustices and also one very big one.
    </description>
