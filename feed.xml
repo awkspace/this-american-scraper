@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    777: Name. Age. Detail. (Promo)
+    777: Name. Age. Detail.
    </title>
    <link>
     https://www.thisamericanlife.org/777/name-age-detail
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/777.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a3108513-928a-466f-8575-de9edd70a8b1/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=a3108513-928a-466f-8575-de9edd70a8b1"/>
    <description>
     Ten people were killed at a grocery store in Buffalo, NY. Their stories, as you’ve never heard them.
    </description>
@@ -5709,7 +5709,7 @@
    <link>
     https://www.thisamericanlife.org/400/stories-pitched-by-our-parents
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/dccdd7be-5957-4080-8831-2c2a9ed13b7a/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=dccdd7be-5957-4080-8831-2c2a9ed13b7a"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/400/Hegt-rOY9tlK1yb05FQuoBJnIyWbX1noMNDqSeMzyKc/400.mp3"/>
    <description>
     We try to turn their random ideas into actual stories.
    </description>
