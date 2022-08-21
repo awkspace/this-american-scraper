@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    102: Road Trip! (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/102/road-trip
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/102.mp3"/>
+   <description>
+    With so many songs, movies, and books about the joy of the open road, it's hard to take just a normal road trip without huge expectations.
+   </description>
+   <pubDate>
+    1998-05-22T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     777: Name. Age. Detail.
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2022-07-21T15:36:20-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    109: Notes on Camp
-   </title>
-   <link>
-    https://www.thisamericanlife.org/109/notes-on-camp
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4dbce640-7137-4cda-9615-91b46923e6a1/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=4dbce640-7137-4cda-9615-91b46923e6a1"/>
-   <description>
-    We attempt to bridge the gap of misunderstanding between camp people and non-camp people.
-   </description>
-   <pubDate>
-    1998-08-28T00:00:00-04:00
    </pubDate>
   </item>
   <item>
