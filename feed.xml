@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    779: Ends of the Earth (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/779/ends-of-the-earth
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/779.mp3"/>
+   <description>
+    An exploration of the very upper limits of what you do for someone you love.
+   </description>
+   <pubDate>
+    2022-09-09T12:43:08-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     550: Three Miles
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2022-08-18T12:08:23-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    102: Road Trip!
-   </title>
-   <link>
-    https://www.thisamericanlife.org/102/road-trip
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2e611154-df3f-4de5-a3d2-e7572377c929/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=2e611154-df3f-4de5-a3d2-e7572377c929"/>
-   <description>
-    With so many songs, movies, and books about the joy of the open road, it's hard to take just a normal road trip without huge expectations.
-   </description>
-   <pubDate>
-    1998-05-22T00:00:00-04:00
    </pubDate>
   </item>
   <item>
