@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    779: Ends of the Earth (Promo)
+    779: Ends of the Earth
    </title>
    <link>
     https://www.thisamericanlife.org/779/ends-of-the-earth
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/779.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/31bb8c02-c572-4380-93fd-99f628ba125e/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=31bb8c02-c572-4380-93fd-99f628ba125e"/>
    <description>
     An exploration of the very upper limits of what you do for someone you love.
    </description>
@@ -10209,7 +10209,7 @@
    <link>
     https://www.thisamericanlife.org/102/road-trip
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2e611154-df3f-4de5-a3d2-e7572377c929/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=2e611154-df3f-4de5-a3d2-e7572377c929"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/102/Yumpei_cD3VGqOM_BpSM9eutuIwkQQPShtbMZja9fmg/102.mp3"/>
    <description>
     With so many songs, movies, and books about the joy of the open road, it's hard to take just a normal road trip without huge expectations.
    </description>
