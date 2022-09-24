@@ -484,12 +484,12 @@
   </item>
   <item>
    <title>
-    750: The Ferryman
+    750: The Ferryman (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/750/the-ferryman
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/750/GJ6TK3EPDYZFM1AINqnIXfQXQxo2pQeMOm61ot7ZkcM/750.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/750.mp3"/>
    <description>
     Getting from Point A to Point B—with expert assistance.
    </description>
@@ -780,6 +780,21 @@
    </description>
    <pubDate>
     2021-02-05T21:19:06-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    730: The Empty Chair
+   </title>
+   <link>
+    https://www.thisamericanlife.org/730/the-empty-chair
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/730/WQJx6rf1pNIhCuXqiob9_fMBIhiHTHoO4D8It8q8-6Q/730.mp3"/>
+   <description>
+    Things lost in the past year that we haven’t talked about much.
+   </description>
+   <pubDate>
+    2021-01-15T11:39:50-05:00
    </pubDate>
   </item>
   <item>
