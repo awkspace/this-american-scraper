@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    750: The Ferryman
+   </title>
+   <link>
+    https://www.thisamericanlife.org/750/the-ferryman
+   </link>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d1c38816-d10c-4741-a110-80653f969c00/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=d1c38816-d10c-4741-a110-80653f969c00"/>
+   <description>
+    Getting from Point A to Point B—with expert assistance.
+   </description>
+   <pubDate>
+    2021-10-07T09:23:14-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     779: Ends of the Earth
    </title>
    <link>
@@ -484,12 +499,12 @@
   </item>
   <item>
    <title>
-    750: The Ferryman (Promo)
+    750: The Ferryman
    </title>
    <link>
     https://www.thisamericanlife.org/750/the-ferryman
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/750.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d1c38816-d10c-4741-a110-80653f969c00/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=d1c38816-d10c-4741-a110-80653f969c00"/>
    <description>
     Getting from Point A to Point B—with expert assistance.
    </description>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2021-02-05T21:19:06-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    730: The Empty Chair
-   </title>
-   <link>
-    https://www.thisamericanlife.org/730/the-empty-chair
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/730/WQJx6rf1pNIhCuXqiob9_fMBIhiHTHoO4D8It8q8-6Q/730.mp3"/>
-   <description>
-    Things lost in the past year that we haven’t talked about much.
-   </description>
-   <pubDate>
-    2021-01-15T11:39:50-05:00
    </pubDate>
   </item>
   <item>
