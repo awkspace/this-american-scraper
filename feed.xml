@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    780: Setting the Record Straight (Promo)
+    780: Setting the Record Straight
    </title>
    <link>
     https://www.thisamericanlife.org/780/setting-the-record-straight
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/780.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/72ba3b43-839d-45b2-9164-4e31e304f319/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=72ba3b43-839d-45b2-9164-4e31e304f319"/>
    <description>
     Getting to the facts can be difficult, but it’s always the right thing to do. Except when it isn’t.
    </description>
@@ -3834,7 +3834,7 @@
    <link>
     https://www.thisamericanlife.org/528/the-radio-drama-episode
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/0c2ae293-d05c-4d14-827a-97d92b82763d/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=0c2ae293-d05c-4d14-827a-97d92b82763d"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/528/0wS7mOQGsdJvZndT6hIkyoq6z8iCxheJJOtzD_ahvfo/528.mp3"/>
    <description>
     In our most ambitious live show, we turn journalism into a Broadway musical written by Lin-Manuel Miranda.
    </description>
