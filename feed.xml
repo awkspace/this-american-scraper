@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    781: Watching the Watchers (Promo)
+    781: Watching the Watchers
    </title>
    <link>
     https://www.thisamericanlife.org/781/watching-the-watchers
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/781.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/9d1adbf0-b9cc-46ad-8854-81628c805241/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=9d1adbf0-b9cc-46ad-8854-81628c805241"/>
    <description>
     People taking it upon themselves to keep an eye on those in charge.
    </description>
@@ -3504,7 +3504,7 @@
    <link>
     https://www.thisamericanlife.org/550/three-miles
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8eb7e27b-99d5-44c1-8048-d3e9d58d0124/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=8eb7e27b-99d5-44c1-8048-d3e9d58d0124"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/550/2vKHwMnY4ZTo0vZqCtrUTy9bbdP94CEY8fkxdUoZW-4/550.mp3"/>
    <description>
     What happens when of a group of public school students in the Bronx goes to visit an elite private school three miles away.
    </description>
