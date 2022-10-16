@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    782: Family Dig (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/782/family-dig
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/782.mp3"/>
+   <description>
+    Two people go on excavations of their families’ pasts.
+   </description>
+   <pubDate>
+    2022-10-07T12:43:15-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     781: Watching the Watchers
    </title>
    <link>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2021-02-10T11:47:51-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    731: What Lies Beneath
-   </title>
-   <link>
-    https://www.thisamericanlife.org/731/what-lies-beneath
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/731/2zK_tiiH_Vd8Abayq0yw2NA8AohlcA2jqCjzo_4UfL0/731.mp3"/>
-   <description>
-    Summoning up stuff that’s usually hidden down deep.
-   </description>
-   <pubDate>
-    2021-02-05T21:19:06-05:00
    </pubDate>
   </item>
   <item>
