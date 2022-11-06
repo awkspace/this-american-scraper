@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    784: Mapmaker, Mapmaker, Make Me a Map (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/784/mapmaker
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/784.mp3"/>
+   <description>
+    How Ohio Republicans drew electoral maps that violated their own constitutional amendment.
+   </description>
+   <pubDate>
+    2022-10-28T11:12:47-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     783: Kids These Days
    </title>
    <link>
@@ -2610,6 +2625,21 @@
    </description>
    <pubDate>
     2017-03-17T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    611: Vague and Confused
+   </title>
+   <link>
+    https://www.thisamericanlife.org/611/vague-and-confused
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/611/GiWcanXY-gQfJrai96-OF3khtGqQj48fWRwOAB4riQw/611.mp3"/>
+   <description>
+    A show about rules and what happens when they’re vague and randomly enforced.
+   </description>
+   <pubDate>
+    2017-03-03T00:00:00-05:00
    </pubDate>
   </item>
   <item>
