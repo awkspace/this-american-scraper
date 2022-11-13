@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    732: Secrets (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/732/secrets
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/732.mp3"/>
+   <description>
+    Why we tell them, and what happens after we do.
+   </description>
+   <pubDate>
+    2021-02-10T11:47:51-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     784: Mapmaker, Mapmaker, Make Me a Map
    </title>
    <link>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2021-03-31T10:38:58-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    734: The Campus Tour Has Been Cancelled
-   </title>
-   <link>
-    https://www.thisamericanlife.org/734/the-campus-tour-has-been-cancelled
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/734/BcOMgt2k77gI5ulH0RI5TsCuK9zmD9x2HAI3aBFzM54/734.mp3"/>
-   <description>
-    How the pandemic has thrown college admissions process into a kind of slow-motion chaos.
-   </description>
-   <pubDate>
-    2021-03-12T11:12:31-05:00
    </pubDate>
   </item>
   <item>
