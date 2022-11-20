@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    351: Return to Childhood (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/351/return-to-childhood
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/351.mp3"/>
+   <description>
+    People who try to revisit their childhoods—what they find and what they do not find.
+   </description>
+   <pubDate>
+    2008-03-07T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     732: Secrets
    </title>
    <link>
@@ -64,17 +79,17 @@
   </item>
   <item>
    <title>
-    754: Spark Bird
+    785: Through the Looking Glass (Promo)
    </title>
    <link>
-    https://www.thisamericanlife.org/754/spark-bird
+    https://www.thisamericanlife.org/785/through-the-looking-glass
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/bd4ed0ce-78ca-4777-8286-c054c1e4f8d6/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=bd4ed0ce-78ca-4777-8286-c054c1e4f8d6"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/785.mp3"/>
    <description>
-    Birds—the hearts they sway, the havoc they wreck, the lives they change.
+    People deciding to pass from one world into another.
    </description>
    <pubDate>
-    2021-11-18T15:44:55-05:00
+    2022-11-11T11:17:24-05:00
    </pubDate>
   </item>
   <item>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2021-04-16T13:05:26-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    735: Bloody Feelings
-   </title>
-   <link>
-    https://www.thisamericanlife.org/735/bloody-feelings
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/735/sGqbgzTi6mioFCixhd864Q7qKQAA_H7QFv1UCI2pUuA/735.mp3"/>
-   <description>
-    Stories about the power of blood.
-   </description>
-   <pubDate>
-    2021-03-31T10:38:58-04:00
    </pubDate>
   </item>
   <item>
