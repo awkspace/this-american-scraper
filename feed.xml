@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    785: Through the Looking Glass (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/785/through-the-looking-glass
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/785.mp3"/>
+   <description>
+    People trying to coax each other across the line, from one side to the other.
+   </description>
+   <pubDate>
+    2022-11-11T11:17:24-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     351: Return to Childhood
    </title>
    <link>
@@ -780,21 +795,6 @@
    </description>
    <pubDate>
     2021-04-16T13:05:26-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    735: Bloody Feelings
-   </title>
-   <link>
-    https://www.thisamericanlife.org/735/bloody-feelings
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/735/sGqbgzTi6mioFCixhd864Q7qKQAA_H7QFv1UCI2pUuA/735.mp3"/>
-   <description>
-    Stories about the power of blood.
-   </description>
-   <pubDate>
-    2021-03-31T10:38:58-04:00
    </pubDate>
   </item>
   <item>
