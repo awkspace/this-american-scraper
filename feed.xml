@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    786: It's a Game Show! (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/786/its-a-game-show
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/786.mp3"/>
+   <description>
+    Something we’ve never done before: true stories told in the form of a game show.
+   </description>
+   <pubDate>
+    2022-11-23T10:57:41-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     785: Through the Looking Glass
    </title>
    <link>
@@ -1500,21 +1515,6 @@
    </description>
    <pubDate>
     2019-11-29T18:57:54-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    688: The Out Crowd
-   </title>
-   <link>
-    https://www.thisamericanlife.org/688/the-out-crowd
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/688/Yi-bzM5ENnis_CUYKFqA3sLL-Z4s_0Jr-_5SVjf8mPQ/688.mp3"/>
-   <description>
-    Reports from the frontlines of the Trump administration's "Remain in Mexico" asylum policy. This episode won the first ever Pulitzer Prize given for audio journalism.
-   </description>
-   <pubDate>
-    2019-11-08T18:54:57-05:00
    </pubDate>
   </item>
   <item>
