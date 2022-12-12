@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    402: Save the Day (Promo)
+    402: Save the Day
    </title>
    <link>
     https://www.thisamericanlife.org/402/save-the-day
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/402.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4504d91c-c68e-4001-b454-7e0c223734ac/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=4504d91c-c68e-4001-b454-7e0c223734ac"/>
    <description>
     Stories about one person single-handedly taking charge of a situation gone wrong.
    </description>
@@ -864,7 +864,7 @@
    <link>
     https://www.thisamericanlife.org/732/secrets
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/fcc546b4-abdc-4e0d-bf58-61b7138fc0b3/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=fcc546b4-abdc-4e0d-bf58-61b7138fc0b3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/732/pjDJYeZuL-KRqA1PnIKOaAw4oEFMCmlShPQN7F7q1WM/732.mp3"/>
    <description>
     Why we tell them, and what happens after we do.
    </description>
@@ -5809,12 +5809,12 @@
   </item>
   <item>
    <title>
-    402: Save the Day (Promo)
+    402: Save the Day
    </title>
    <link>
     https://www.thisamericanlife.org/402/save-the-day
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/402.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4504d91c-c68e-4001-b454-7e0c223734ac/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=4504d91c-c68e-4001-b454-7e0c223734ac"/>
    <description>
     Stories about one person single-handedly taking charge of a situation gone wrong.
    </description>
