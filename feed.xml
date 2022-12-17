@@ -484,12 +484,12 @@
   </item>
   <item>
    <title>
-    757: The Ghost in the Machine
+    757: The Ghost in the Machine (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/757/the-ghost-in-the-machine
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/757/x5ElEQ7yS86IuRyEqUhWNLbaWX4C6BTG42dyGflVza4/757.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/757.mp3"/>
    <description>
     People use machines to find people they lost.
    </description>
@@ -780,6 +780,21 @@
    </description>
    <pubDate>
     2021-05-21T13:39:20-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    737: The Daily
+   </title>
+   <link>
+    https://www.thisamericanlife.org/737/the-daily
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/737/ilsf41CRGTB2rowx9ABfmPP037aIN52FUsUGen-RNqs/737.mp3"/>
+   <description>
+    An ode to life's daily practices, and what you learn from doing a thing every single day.
+   </description>
+   <pubDate>
+    2021-05-07T08:53:23-04:00
    </pubDate>
   </item>
   <item>
