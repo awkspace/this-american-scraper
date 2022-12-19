@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    757: The Ghost in the Machine (Promo)
+    757: The Ghost in the Machine
    </title>
    <link>
     https://www.thisamericanlife.org/757/the-ghost-in-the-machine
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/757.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3d8a4b18-88b2-462d-b146-3adf387ddeca/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=3d8a4b18-88b2-462d-b146-3adf387ddeca"/>
    <description>
     People use machines to find people they lost.
    </description>
@@ -484,12 +484,12 @@
   </item>
   <item>
    <title>
-    757: The Ghost in the Machine (Promo)
+    757: The Ghost in the Machine
    </title>
    <link>
     https://www.thisamericanlife.org/757/the-ghost-in-the-machine
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/757.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/3d8a4b18-88b2-462d-b146-3adf387ddeca/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=3d8a4b18-88b2-462d-b146-3adf387ddeca"/>
    <description>
     People use machines to find people they lost.
    </description>
@@ -6579,7 +6579,7 @@
    <link>
     https://www.thisamericanlife.org/351/return-to-childhood
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b9760c90-221f-4c13-9a47-d224ddd67ae5/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=b9760c90-221f-4c13-9a47-d224ddd67ae5"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/351/c05w2bIbKTtKoRph9wwalhl5TgZ25sCA8SQl1H-u-MU/351.mp3"/>
    <description>
     People who try to revisit their childhoods—what they find and what they do not find.
    </description>
