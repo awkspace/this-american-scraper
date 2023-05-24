@@ -79,21 +79,6 @@
   </item>
   <item>
    <title>
-    800: Jane Doe (Promo)
-   </title>
-   <link>
-    https://www.thisamericanlife.org/800/jane-doe
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/800.mp3"/>
-   <description>
-    The aftermath for the some of the women who’ve come forward since #MeToo.
-   </description>
-   <pubDate>
-    2023-05-19T19:12:24-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     797: What I Was Thinking As We Were Sinking
    </title>
    <link>
@@ -189,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/791/math-or-magic
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8f1c46b1-4a55-44a3-b420-37d1b50a3ec6/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=8f1c46b1-4a55-44a3-b420-37d1b50a3ec6"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/791/nFL67ExqtFaOBf-qTtuUTtxNlmr07XcuniWTrrt2-dU/791.mp3"/>
    <description>
     When it comes to finding love, there seems to be two schools of thought on the best way to go about it.
    </description>
@@ -1500,6 +1485,21 @@
    </description>
    <pubDate>
     2020-05-13T09:59:57-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    703: Stuck!
+   </title>
+   <link>
+    https://www.thisamericanlife.org/703/stuck
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/703/09Z-Oyssp4OWYFVQGkpa2KEwBCl6FYMF33SfFF0tzT0/703.mp3"/>
+   <description>
+    During a time when a lot of us feel like we are living in a holding pattern, stories of people feeling stuck.
+   </description>
+   <pubDate>
+    2020-05-01T14:24:30-04:00
    </pubDate>
   </item>
   <item>
