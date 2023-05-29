@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    800: Jane Doe (Promo)
+    800: Jane Doe
    </title>
    <link>
     https://www.thisamericanlife.org/800/jane-doe
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/800.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/7bac5f58-9ee2-495a-acb0-838ad9fc2b53/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=7bac5f58-9ee2-495a-acb0-838ad9fc2b53"/>
    <description>
     Five years after the #MeToo explosion, what’s happened in the lives of the women who went public with their stories?
    </description>
@@ -6759,7 +6759,7 @@
    <link>
     https://www.thisamericanlife.org/352/the-ghost-of-bobby-dunbar
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/c5a944e2-ba24-4cf7-89f9-e9a872471f32/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=c5a944e2-ba24-4cf7-89f9-e9a872471f32"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/352/vnYbXXcDtOZEYxgyZgrT42KiFVtnzOxsg1ddmK-dHr0/352.mp3"/>
    <description>
     In 1912, a four-year-old boy went missing in Louisiana. Eight months later, he was found. But two grief-stricken mothers both claimed the same boy as their own.
    </description>
