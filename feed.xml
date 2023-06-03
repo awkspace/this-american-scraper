@@ -784,6 +784,36 @@
   </item>
   <item>
    <title>
+    752: An Invitation to Tea
+   </title>
+   <link>
+    https://www.thisamericanlife.org/752/an-invitation-to-tea
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/752/j7JoKcz7dJL-MpO9eVpcJd_XVYjmFcUvIqI9jEnpMyA/752.mp3"/>
+   <description>
+    A man who was kept for 14 years in Guantanamo Bay gets out and issues an invitation to the people who kept him there.
+   </description>
+   <pubDate>
+    2021-10-20T09:30:19-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    751: Audience of One
+   </title>
+   <link>
+    https://www.thisamericanlife.org/751/audience-of-one
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/751/YFNZQzxS3DoqjGnP-oJngbD9ms_yyQ60GfSjJKNx8fA/751.mp3"/>
+   <description>
+    We bring the movies to you.
+   </description>
+   <pubDate>
+    2021-10-16T08:25:46-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     750: The Ferryman
    </title>
    <link>
@@ -1474,36 +1504,6 @@
   </item>
   <item>
    <title>
-    704: Our Pulitzer-Winning Episode
-   </title>
-   <link>
-    https://www.thisamericanlife.org/704/our-pulitzer-winning-episode
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/704/hChYOxyp9L1n1ph-EneqMD2SZtz569p_Qj5ie2dHPRo/704.mp3"/>
-   <description>
-    What the Trump administration’s "Remain in Mexico" policy really means, on the ground, at the Mexican border.
-   </description>
-   <pubDate>
-    2020-05-13T09:59:57-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    703: Stuck!
-   </title>
-   <link>
-    https://www.thisamericanlife.org/703/stuck
-   </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/703/09Z-Oyssp4OWYFVQGkpa2KEwBCl6FYMF33SfFF0tzT0/703.mp3"/>
-   <description>
-    During a time when a lot of us feel like we are living in a holding pattern, stories of people feeling stuck.
-   </description>
-   <pubDate>
-    2020-05-01T14:24:30-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     702: One Last Thing Before I Go
    </title>
    <link>
@@ -1654,12 +1654,12 @@
   </item>
   <item>
    <title>
-    692: The Show of Delights
+    692: The Show of Delights (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/692/the-show-of-delights
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/692/nPCogbGpGZFA8gnAzQRNFkjlANgeRAgGcxfrQe_QuwI/692.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/692.mp3"/>
    <description>
     In these dark times, we attempt some radical counterprogramming: a show made up entirely of stories about delight.
    </description>
@@ -2145,6 +2145,21 @@
    </description>
    <pubDate>
     2018-11-01T07:18:09-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    659: Before the Next One
+   </title>
+   <link>
+    https://www.thisamericanlife.org/659/before-the-next-one
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/659/pOTbGdZqGaweGh-Yz3A1SlJGJ6eMP6MWo0FbN2m6XwU/659.mp3"/>
+   <description>
+    People taking what they’ve learned from school shootings and try to use that knowledge to save others.
+   </description>
+   <pubDate>
+    2018-09-28T18:45:12-04:00
    </pubDate>
   </item>
   <item>
@@ -4329,7 +4344,7 @@
    <link>
     https://www.thisamericanlife.org/514/thought-that-counts
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/514/gpY88cx_u9f8_DkAiOjnMUlJqSyJZr7fkoRWX1rsEgo/514.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/514/MauUqDKZixuLycYhzBl6s6hwnfoYvemQXiCORpjr3po/514.mp3"/>
    <description>
     It's the thought that counts. Unfortunately, sometimes it's not always so clear what that thought was.
    </description>
