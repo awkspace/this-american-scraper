@@ -79,21 +79,6 @@
   </item>
   <item>
    <title>
-    801: Rats! (Promo)
-   </title>
-   <link>
-    https://www.thisamericanlife.org/801/rats
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/801.mp3"/>
-   <description>
-    Can’t live with them—or can you?
-   </description>
-   <pubDate>
-    2023-06-02T20:43:33-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     798: Leaving the Fold
    </title>
    <link>
@@ -189,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/792/when-to-leave
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/4ead0b40-456c-4923-827f-8d457fb3fb17/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=4ead0b40-456c-4923-827f-8d457fb3fb17"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/792/ymjnRonM3plqlCCZkLCH0RoaZqXta4oXQtuW-gvyyII/792.mp3"/>
    <description>
     People staring down that hardest of questions: Is now the time? To leave?
    </description>
@@ -1500,6 +1485,21 @@
    </description>
    <pubDate>
     2020-05-15T21:40:43-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    704: Our Pulitzer-Winning Episode
+   </title>
+   <link>
+    https://www.thisamericanlife.org/704/our-pulitzer-winning-episode
+   </link>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/704/hChYOxyp9L1n1ph-EneqMD2SZtz569p_Qj5ie2dHPRo/704.mp3"/>
+   <description>
+    What the Trump administration’s "Remain in Mexico" policy really means, on the ground, at the Mexican border.
+   </description>
+   <pubDate>
+    2020-05-13T09:59:57-04:00
    </pubDate>
   </item>
   <item>
