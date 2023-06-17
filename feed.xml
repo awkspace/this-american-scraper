@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    802: Father's Day (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/802/fathers-day
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/802.mp3"/>
+   <description>
+    Ira's own father, Barry Glass, co-hosts this special Father's Day show.
+   </description>
+   <pubDate>
+    2023-06-16T11:10:08-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     801: Must Be Rats on the Brain
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2023-05-19T19:12:24-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    508: Superpowers
-   </title>
-   <link>
-    https://www.thisamericanlife.org/508/superpowers-2013
-   </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e20287e4-bb1d-4789-a9e0-0e9c9ae5bf78/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=e20287e4-bb1d-4789-a9e0-0e9c9ae5bf78"/>
-   <description>
-    Which is better: flight or invisibility?
-   </description>
-   <pubDate>
-    2013-10-18T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -4599,7 +4599,7 @@
    <link>
     https://www.thisamericanlife.org/498/the-one-thing-youre-not-supposed-to-do
    </link>
-   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/498/FtKFn_J-zx2VsDaFWBWnnmWM1be_oqaCw3AvzT1u5d4/498.mp3"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/498/RRdor73zMKb7NQ0Wi4KFpkUNlR_fGLva1JVgzHvDRuo/498.mp3"/>
    <description>
     People who know something's a bad idea, but convince themselves to do that thing anyway.
    </description>
