@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    802: Father's Day (Promo)
+    802: Father's Day
    </title>
    <link>
     https://www.thisamericanlife.org/802/fathers-day
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/802.mp3"/>
+   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/fb788529-7dba-4544-88aa-bf1d24ee322e/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=fb788529-7dba-4544-88aa-bf1d24ee322e"/>
    <description>
     Ira's own father, Barry Glass, co-hosts this special Father's Day show.
    </description>
@@ -4449,7 +4449,7 @@
    <link>
     https://www.thisamericanlife.org/508/superpowers-2013
    </link>
-   <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/e20287e4-bb1d-4789-a9e0-0e9c9ae5bf78/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=e20287e4-bb1d-4789-a9e0-0e9c9ae5bf78"/>
+   <enclosure type="audio/mpeg" url="https://stream.thisamericanlife.org/508/ExEd8go-NBwJTmxQGW87lUlSmHJ6U4PHs1uCc7wt0-s/508.mp3"/>
    <description>
     Which is better: flight or invisibility?
    </description>
