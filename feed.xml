@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    165: Americans in Paris (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/165/americans-in-paris
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/165.mp3"/>
+   <description>
+    David Sedaris takes Ira on a tour of his favorite spots in Paris.
+   </description>
+   <pubDate>
+    2000-07-28T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     804: The Retrievals
    </title>
    <link>
@@ -9604,12 +9619,12 @@
   </item>
   <item>
    <title>
-    165: Americans in Paris
+    165: Americans in Paris (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/165/americans-in-paris
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/165/Y-jYeo5T0qnd1hbxfUuH6r9_X37DdyzC4KDZV63gVmE/165.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/165.mp3"/>
    <description>
     David Sedaris takes Ira on a tour of his favorite spots in Paris.
    </description>
