@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    199: House on Loon Lake (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/199/house-on-loon-lake
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/199.mp3"/>
+   <description>
+    A young boy, an abandoned house, and the mysterious family who disappeared without a trace.
+   </description>
+   <pubDate>
+    2001-11-16T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     805: The Florida Experiment
    </title>
    <link>
@@ -7119,7 +7134,7 @@
    <link>
     https://www.thisamericanlife.org/333/the-center-for-lessons-learned
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/333/U7Gn7eBt_HXdvlNNow_gj0GfsTXsj5Dh9vQqnGdUD6Q/333.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/333/4uIffCHYWrm6WHTBGprqvVXVA3mFknxSww16FqulXPg/333.mp3"/>
    <description>
     Four years into the Iraq War, what have we learned?
    </description>
@@ -7734,7 +7749,7 @@
    <link>
     https://www.thisamericanlife.org/292/the-arms-trader-2005
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/292/77LWpERo-vp1xhCHRzVUOmbtmzr4IG5KTrWhm_LOfAg/292.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/292/dZ9TEqm_mqEjI187HUGpWdm9z6a6dzl3E8zlpzW-dV4/292.mp3"/>
    <description>
     The U.S. government spent two years on a sting operation trapping an Indian man named Hemant Lakhani.
    </description>
@@ -9124,12 +9139,12 @@
   </item>
   <item>
    <title>
-    199: House on Loon Lake
+    199: House on Loon Lake (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/199/house-on-loon-lake
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/199/jIReMMfiOPUEdl6N3xs5SOrKU7RHBEd35AgpmGG66UI/199.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/199.mp3"/>
    <description>
     A young boy, an abandoned house, and the mysterious family who disappeared without a trace.
    </description>
