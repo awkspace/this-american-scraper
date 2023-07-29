@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    806: I Can't Quit You, Baby (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/806/i-cant-quit-you-baby
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/806.mp3"/>
+   <description>
+    People on the verge of a big change, not wanting to let go. And the people who give them the final push.
+   </description>
+   <pubDate>
+    2023-07-19T11:09:57-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     199: House on Loon Lake
    </title>
    <link>
@@ -9954,7 +9969,7 @@
    <link>
     https://www.thisamericanlife.org/145/poultry-slam-1999
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/145/lDGSBtDjqSUGuv10Sgz0YBY56KQ4OXt_e6_QxHOul7Y/145.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/145/SU8lASrfdHrOXsGS-t-HhY-KrsLq_u-C_sKsXe4anGU/145.mp3"/>
    <description>
     Our annual program about turkeys, chickens, fowl of all types, and their mysterious hold over our imaginations.
    </description>
@@ -11094,7 +11109,7 @@
    <link>
     https://www.thisamericanlife.org/69/dream-house
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/69/livLQZuVbE37jaPCm1oS9ChbxiXCYYKyaKr-7k-EA5E/69.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/69/SV9YcOCaTrMK26mVA5SnC_S6dVQYuk_H9jGeWuC5HbE/69.mp3"/>
    <description>
     Parents moving the family to some new place, hoping it works out for the kids.
    </description>
