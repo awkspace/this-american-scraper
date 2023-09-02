@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    388: Rest Stop (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/388/rest-stop
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/388.mp3"/>
+   <description>
+    Nine radio reporters. Two days. One rest stop on the New York State Thruway.
+   </description>
+   <pubDate>
+    2009-09-04T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     323: The Super
    </title>
    <link>
@@ -6349,12 +6364,12 @@
   </item>
   <item>
    <title>
-    388: Rest Stop
+    388: Rest Stop (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/388/rest-stop
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/388/RSV73A068soXoB0hMfovdmsJW8LXRvECEzmDWusxioI/388.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/388.mp3"/>
    <description>
     Nine radio reporters. Two days. One rest stop on the New York State Thruway.
    </description>
