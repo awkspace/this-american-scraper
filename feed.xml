@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    810: Say It to My Face (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/810/say-it-to-my-face
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/810.mp3"/>
+   <description>
+    Friends and ex-friends finally talk about the one thing between them they've been avoiding.
+   </description>
+   <pubDate>
+    2023-09-08T11:00:33-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     809: The Call
    </title>
    <link>
