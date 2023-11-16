@@ -19,6 +19,36 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    814: Parents Are People
+   </title>
+   <link>
+    https://www.thisamericanlife.org/814/parents-are-people
+   </link>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/6cd822b0-727f-4a28-a5a7-a29ba61624a7/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=6cd822b0-727f-4a28-a5a7-a29ba61624a7"/>
+   <description>
+    What happens when you realize the people in charge don’t have the answers.
+   </description>
+   <pubDate>
+    2023-11-03T20:02:26-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    813: Is That What I Look Like?
+   </title>
+   <link>
+    https://www.thisamericanlife.org/813/is-that-what-i-look-like
+   </link>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/246e510e-7827-41de-ab7e-75fdeef642bd/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=246e510e-7827-41de-ab7e-75fdeef642bd"/>
+   <description>
+    Why does it often take an outsider to see things about you that are obvious?
+   </description>
+   <pubDate>
+    2023-11-03T11:03:18-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     319: And the Call Was Coming from the Basement
    </title>
    <link>
@@ -45,21 +75,6 @@
    </description>
    <pubDate>
     2023-10-11T11:23:38-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    477: Getting Away With It
-   </title>
-   <link>
-    https://www.thisamericanlife.org/477/getting-away-with-it
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2198f1dd-03bb-4697-a334-908379a74280/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=2198f1dd-03bb-4697-a334-908379a74280"/>
-   <description>
-    Stories of people breaking the rules fully, completely, and with no bad consequences.
-   </description>
-   <pubDate>
-    2012-10-19T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -969,7 +984,7 @@
    <link>
     https://www.thisamericanlife.org/751/audience-of-one
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/1571d4a9-8b42-4f96-9ea8-482561020c98/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=1571d4a9-8b42-4f96-9ea8-482561020c98"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/751/YFNZQzxS3DoqjGnP-oJngbD9ms_yyQ60GfSjJKNx8fA/751.mp3"/>
    <description>
     We bring the movies to you.
    </description>
@@ -5079,7 +5094,7 @@
    <link>
     https://www.thisamericanlife.org/477/getting-away-with-it
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2198f1dd-03bb-4697-a334-908379a74280/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=2198f1dd-03bb-4697-a334-908379a74280"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/477/fKHIH_LpamNkBYPVzfvbam9IbsQNMcD4R7OBO2Wd3w0/477.mp3"/>
    <description>
     Stories of people breaking the rules fully, completely, and with no bad consequences.
    </description>
