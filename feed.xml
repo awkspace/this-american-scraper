@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    653: Crime Scene (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/653/crime-scene
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/653.mp3"/>
+   <description>
+    Every crime scene hides a story.
+   </description>
+   <pubDate>
+    2018-07-31T16:33:05-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     791: Math or Magic?
    </title>
    <link>
@@ -2584,12 +2599,12 @@
   </item>
   <item>
    <title>
-    653: Crime Scene
+    653: Crime Scene (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/653/crime-scene
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/653/k6ZQPovo5QqTGoOvCyCWHwQ2gOQAnLE3jC7WiH1LzOw/653.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/653.mp3"/>
    <description>
     Every crime scene hides a story.
    </description>
