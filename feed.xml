@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    304: Heretics
+   </title>
+   <link>
+    https://www.thisamericanlife.org/304/heretics
+   </link>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/43c90fda-1967-4f27-8adc-35000ea16cbc/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=43c90fda-1967-4f27-8adc-35000ea16cbc"/>
+   <description>
+    A rising star in the evangelical movement casts aside the idea of hell.
+   </description>
+   <pubDate>
+    2005-12-16T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     825: Yousef
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2018-07-31T16:33:05-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    791: Math or Magic?
-   </title>
-   <link>
-    https://www.thisamericanlife.org/791/math-or-magic
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8f1c46b1-4a55-44a3-b420-37d1b50a3ec6/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=8f1c46b1-4a55-44a3-b420-37d1b50a3ec6"/>
-   <description>
-    When it comes to finding love, there seems to be two schools of thought on the best way to go about it.
-   </description>
-   <pubDate>
-    2023-02-03T12:41:58-05:00
    </pubDate>
   </item>
   <item>
@@ -564,7 +564,7 @@
    <link>
     https://www.thisamericanlife.org/791/math-or-magic
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/8f1c46b1-4a55-44a3-b420-37d1b50a3ec6/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=8f1c46b1-4a55-44a3-b420-37d1b50a3ec6"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/791/nFL67ExqtFaOBf-qTtuUTtxNlmr07XcuniWTrrt2-dU/791.mp3"/>
    <description>
     When it comes to finding love, there seems to be two schools of thought on the best way to go about it.
    </description>
@@ -7869,7 +7869,7 @@
    <link>
     https://www.thisamericanlife.org/304/heretics
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/304/_JMvY54bYW--BmCJ1743GqPgst8j2i9ei0Q7xhmru-c/304.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/43c90fda-1967-4f27-8adc-35000ea16cbc/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=43c90fda-1967-4f27-8adc-35000ea16cbc"/>
    <description>
     A rising star in the evangelical movement casts aside the idea of hell.
    </description>
