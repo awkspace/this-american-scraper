@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    827: All the King's Horses (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/827/all-the-kings-horses
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/827.mp3"/>
+   <description>
+    The things we break and the ones we can't fix.
+   </description>
+   <pubDate>
+    2024-03-15T10:41:33-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     826: Unprepared for What Has Already Happened
    </title>
    <link>
