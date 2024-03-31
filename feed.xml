@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    587: The Perils of Intimacy (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/587/the-perils-of-intimacy
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/587.mp3"/>
+   <description>
+    Mysteries that exist in relationships we thought couldn't possibly surprise us.
+   </description>
+   <pubDate>
+    2016-05-27T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     827: All the King's Horses
    </title>
    <link>
@@ -3634,14 +3649,14 @@
   </item>
   <item>
    <title>
-    587: The Perils of Intimacy
+    587: The Perils of Intimacy (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/587/the-perils-of-intimacy
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/587/PB5A-31Nvujn2MjElqX_6cNwfz3AkLeedy0JlxRNAEM/587.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/587.mp3"/>
    <description>
-    Stories about mysteries that exist in relationships we thought couldn't possibly surprise us.
+    Mysteries that exist in relationships we thought couldn't possibly surprise us.
    </description>
    <pubDate>
     2016-05-27T00:00:00-04:00
