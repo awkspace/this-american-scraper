@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    564: Too Soon? (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/564/too-soon
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/564.mp3"/>
+   <description>
+    A fallen man tries to kickstart his career with a reality show.
+   </description>
+   <pubDate>
+    2015-08-14T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     828: Minor Crimes Division
    </title>
    <link>
@@ -3994,14 +4009,14 @@
   </item>
   <item>
    <title>
-    564: Too Soon?
+    564: Too Soon? (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/564/too-soon
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/564/7ZLM3KqvN48VlXjwKPDoJL3O-uLbBa4lpS-VKxTamu0/564.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/564.mp3"/>
    <description>
-    Stories about a fallen man trying to kickstart his career with a reality show, and an awkward moment between a mom and a daughter.
+    A fallen man tries to kickstart his career with a reality show.
    </description>
    <pubDate>
     2015-08-14T00:00:00-04:00
