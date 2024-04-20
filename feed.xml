@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    306: Seemed Like A Good Idea at the Time (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/306/seemed-like-a-good-idea-at-the-time
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/306.mp3"/>
+   <description>
+    Lotto fever grips the cast of Riverdance.
+   </description>
+   <pubDate>
+    2006-01-13T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     564: Too Soon?
    </title>
    <link>
@@ -7879,12 +7894,12 @@
   </item>
   <item>
    <title>
-    306: Seemed Like A Good Idea at the Time
+    306: Seemed Like A Good Idea at the Time (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/306/seemed-like-a-good-idea-at-the-time
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/306/tEbX1mj5RBg3zJMr3fRfKX1YRUie3R227BVbJ7h8S4s/306.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/306.mp3"/>
    <description>
     Lotto fever grips the cast of Riverdance.
    </description>
