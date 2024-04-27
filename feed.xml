@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    568: Human Spectacle (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/568/human-spectacle
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/568.mp3"/>
+   <description>
+    A Japanese reality show contestant has to enter sweepstakes from magazines to win enough sustenance to survive.
+   </description>
+   <pubDate>
+    2015-10-02T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     306: Seemed Like A Good Idea at the Time
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2024-03-22T07:58:26-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    587: The Perils of Intimacy
-   </title>
-   <link>
-    https://www.thisamericanlife.org/587/the-perils-of-intimacy
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/205cd6c0-00c6-4b2a-ab3c-ad050db308fb/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=205cd6c0-00c6-4b2a-ab3c-ad050db308fb"/>
-   <description>
-    Mysteries that exist in relationships we thought couldn't possibly surprise us.
-   </description>
-   <pubDate>
-    2016-05-27T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -3964,12 +3964,12 @@
   </item>
   <item>
    <title>
-    568: Human Spectacle
+    568: Human Spectacle (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/568/human-spectacle
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/568/IsS25jbSKxIsLYujmQoN5Orv8Vr-NsoA2VFwX9FADBQ/568.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/568.mp3"/>
    <description>
     A Japanese reality show contestant has to enter sweepstakes from magazines to win enough sustenance to survive.
    </description>
