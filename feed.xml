@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    186: Prom (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/186/prom
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/186.mp3"/>
+   <description>
+    While the seniors danced at Prom Night 2001 in Hoisington, Kansas—a town of about 3,000—a tornado hit the town.
+   </description>
+   <pubDate>
+    2001-06-08T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     568: Human Spectacle
    </title>
    <link>
@@ -4211,7 +4226,7 @@
    </link>
    <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/552/EXZU5MevuiQT3G39dTMm9b_YXcPwSgbDQJgm2hcnong/552.mp3"/>
    <description>
-    The story of a guy who learned to lie for the first time in his life at age 29.
+    Growing up, Stephanie Foo was the favorite child of her family in Malaysia. As an adult, she found out the complicated truth about why.
    </description>
    <pubDate>
     2015-03-27T00:00:00-04:00
@@ -9694,12 +9709,12 @@
   </item>
   <item>
    <title>
-    186: Prom
+    186: Prom (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/186/prom
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/186/RBWCx50kWzLuNXyO1WGZwC6nsMVHnAC7B30iYEMd0So/186.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/186.mp3"/>
    <description>
     While the seniors danced at Prom Night 2001 in Hoisington, Kansas—a town of about 3,000—a tornado hit the town.
    </description>
