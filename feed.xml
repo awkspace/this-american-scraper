@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    833: Come Retribution (Promo)
+    833: Come Retribution
    </title>
    <link>
     https://www.thisamericanlife.org/833/come-retribution
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/833.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/extended/833.mp3"/>
    <description>
     Donald Trump has a plan for his second term: retribution. We check in with the people who’ve crossed him to hear how they feel about that.
    </description>
@@ -174,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/823/the-question-trap
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5e22d88d-a289-4135-801a-57e6941a1ea3/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=5e22d88d-a289-4135-801a-57e6941a1ea3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/823/TQkq7YsPYCjgUA_TkZNsfuYmDaepZT2r8DSlTTNf0u0/823.mp3"/>
    <description>
     An investigation of when and why people ask loaded questions that are a proxy for something else.
    </description>
