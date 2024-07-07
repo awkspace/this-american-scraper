@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    443: Amusement Park (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/443/amusement-park
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/443.mp3"/>
+   <description>
+    We head to some of the happiest places on earth: amusement parks!
+   </description>
+   <pubDate>
+    2011-08-12T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     835: Children of Dave
    </title>
    <link>
@@ -5914,12 +5929,12 @@
   </item>
   <item>
    <title>
-    443: Amusement Park
+    443: Amusement Park (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/443/amusement-park
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/443/9-Ct8t_PSGkAMqTUhg3M4cDyfH1GjMTueaWsL9QzrV8/443.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/443.mp3"/>
    <description>
     We head to some of the happiest places on earth: amusement parks!
    </description>
