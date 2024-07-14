@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    794: So Close and Yet So Far (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/794/so-close-and-yet-so-far
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/794.mp3"/>
+   <description>
+    People ​so close to each other, ​in ​extremely intimate situations​,​ who are also a million miles apart.
+   </description>
+   <pubDate>
+    2023-03-19T14:28:11-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     443: Amusement Park
    </title>
    <link>
@@ -45,21 +60,6 @@
    </description>
    <pubDate>
     2024-06-21T13:51:17-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    797: What I Was Thinking As We Were Sinking
-   </title>
-   <link>
-    https://www.thisamericanlife.org/797/what-i-was-thinking-as-we-were-sinking
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a108fd23-2ed1-410c-9a1f-c03d2e1a8fdf/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=a108fd23-2ed1-410c-9a1f-c03d2e1a8fdf"/>
-   <description>
-    It's funny the things that go through your head during a disaster.
-   </description>
-   <pubDate>
-    2023-04-11T10:59:16-04:00
    </pubDate>
   </item>
   <item>
@@ -664,12 +664,12 @@
   </item>
   <item>
    <title>
-    794: So Close and Yet So Far
+    794: So Close and Yet So Far (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/794/so-close-and-yet-so-far
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/794/MKBaU3K5l1ZeWPdCI0pDhfZtv_BUi7YhKKeD0lKxCqg/794.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/794.mp3"/>
    <description>
     People ​so close to each other, ​in ​extremely intimate situations​,​ who are also a million miles apart.
    </description>
