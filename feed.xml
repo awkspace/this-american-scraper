@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    801: Must Be Rats on the Brain (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/801/must-be-rats-on-the-brain
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/801.mp3"/>
+   <description>
+    The one animal we can’t seem to live without, even when we really, really want to.
+   </description>
+   <pubDate>
+    2023-06-02T20:43:33-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     754: Spark Bird
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2024-07-24T15:40:20-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    803: Greetings, People Of Earth
-   </title>
-   <link>
-    https://www.thisamericanlife.org/803/greetings-people-of-earth
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR9656431930.mp3"/>
-   <description>
-    Humans encounter non-human intelligences of various kinds and try to make sense of them.
-   </description>
-   <pubDate>
-    2023-06-15T16:11:23-04:00
    </pubDate>
   </item>
   <item>
@@ -604,12 +604,12 @@
   </item>
   <item>
    <title>
-    801: Must Be Rats on the Brain
+    801: Must Be Rats on the Brain (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/801/must-be-rats-on-the-brain
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/801/UQ6BnzXD0Wu-gfg0ikUeF9juTOHY1eUs4HPikzc2JE4/801.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/801.mp3"/>
    <description>
     The one animal we can’t seem to live without, even when we really, really want to.
    </description>
