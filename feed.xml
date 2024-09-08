@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    839: Meet Me at the Fair (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/839/meet-me-at-the-fair
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/839.mp3"/>
+   <description>
+    We spend a few days at the Iowa State Fair.
+   </description>
+   <pubDate>
+    2024-08-22T15:23:09-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     801: Must Be Rats on the Brain
    </title>
    <link>
