@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    815: How I Learned to Shave (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/815/how-i-learned-to-shave
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/815.mp3"/>
+   <description>
+    Things our dads taught us, whether they intended to or not.
+   </description>
+   <pubDate>
+    2023-11-10T09:34:55-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     848: The Official Unofficial Record
    </title>
    <link>
@@ -514,12 +529,12 @@
   </item>
   <item>
    <title>
-    815: How I Learned to Shave
+    815: How I Learned to Shave (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/815/how-i-learned-to-shave
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/815/hXzlb30wubHtvoZRJQFg20J1OPm9gpY99iW3oUuWQxQ/815.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/815.mp3"/>
    <description>
     Things our dads taught us, whether they intended to or not.
    </description>
