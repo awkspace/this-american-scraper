@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    809: The Call (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/809/the-call
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/809.mp3"/>
+   <description>
+    One call to a very unusual hotline and everything that followed.
+   </description>
+   <pubDate>
+    2023-08-30T09:09:23-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     815: How I Learned to Shave
    </title>
    <link>
@@ -619,14 +634,14 @@
   </item>
   <item>
    <title>
-    809: The Call
+    809: The Call (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/809/the-call
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/809/lwNFKQvvbjGzQbiAJ8swSkbgRAYCcNOpaKDnHb-85E0/809.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/809.mp3"/>
    <description>
-    One call to a very unusual hotline, and everything that followed.
+    One call to a very unusual hotline and everything that followed.
    </description>
    <pubDate>
     2023-08-30T09:09:23-04:00
