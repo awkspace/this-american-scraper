@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    823: The Question Trap (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/823/the-question-trap
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/823.mp3"/>
+   <description>
+    An investigation of when and why people ask loaded questions that are a proxy for something else.
+   </description>
+   <pubDate>
+    2024-01-25T14:50:06-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     852: Pivot Point
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2001-11-02T00:00:00-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    699: Fiasco!
-   </title>
-   <link>
-    https://www.thisamericanlife.org/699/fiasco
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR9562968412.mp3"/>
-   <description>
-    We leave the normal realm of human error and enter the territory of huge breakdowns.
-   </description>
-   <pubDate>
-    2020-04-03T09:15:58-04:00
    </pubDate>
   </item>
   <item>
@@ -484,12 +484,12 @@
   </item>
   <item>
    <title>
-    823: The Question Trap
+    823: The Question Trap (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/823/the-question-trap
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/823/TQkq7YsPYCjgUA_TkZNsfuYmDaepZT2r8DSlTTNf0u0/823.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/823.mp3"/>
    <description>
     An investigation of when and why people ask loaded questions that are a proxy for something else.
    </description>
@@ -12684,7 +12684,7 @@
    <link>
     https://www.thisamericanlife.org/10/double-lives
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/10/3BM2gVu2pD-tVaFNDQUR0TdIy41INVCPo4zClZ2XWOw/10.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/10/BoG8WXD7iZ8PfEVl57ORYS239-aoSqO9uXnXNN-NY5w/10.mp3"/>
    <description>
     People living their lives, just like the rest of us. Plus an extra life.
    </description>
