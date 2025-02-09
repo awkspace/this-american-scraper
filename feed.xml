@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    339: Break-Up (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/339/break-up
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/339.mp3"/>
+   <description>
+    Starlee Kine tries to write the perfect break-up song with some help from Phil Collins.
+   </description>
+   <pubDate>
+    2007-08-24T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     853: Groundhog Day
    </title>
    <link>
@@ -7744,12 +7759,12 @@
   </item>
   <item>
    <title>
-    339: Break-Up
+    339: Break-Up (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/339/break-up
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/339/qFB-vHe2PvokMuX5jfASRcji60dvjU2ppeP89g5b7sk/339.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/339.mp3"/>
    <description>
     Starlee Kine tries to write the perfect break-up song with some help from Phil Collins.
    </description>
@@ -9699,7 +9714,7 @@
    <link>
     https://www.thisamericanlife.org/209/didnt-ask-to-be-born
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/209/fHruz22SuQW_M-_C1NM5jKolwVMy_183dM3IpPkOO5o/209.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/209/E_loLPJN6zFEW6lrb_uLH1g5PxJkVKsCd6XThTXIpT4/209.mp3"/>
    <description>
     The story of an eighth grader who set himself on fire, and what led to that.
    </description>
