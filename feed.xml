@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    535: Origin Story
+   </title>
+   <link>
+    https://www.thisamericanlife.org/535/origin-story
+   </link>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3"/>
+   <description>
+    Little-known and surprising stories of how all sorts of institutions began.
+   </description>
+   <pubDate>
+    2014-09-19T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     855: That’s a Weird Thing to Lie About
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2021-12-10T10:19:19-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    339: Break-Up
-   </title>
-   <link>
-    https://www.thisamericanlife.org/339/break-up
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6277235616.mp3"/>
-   <description>
-    For Valentine's Day, stories from the heart of heartbreak.
-   </description>
-   <pubDate>
-    2007-08-24T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -4854,7 +4854,7 @@
    <link>
     https://www.thisamericanlife.org/535/origin-story
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/535/_YJWKSNK0rgk31vVLNxgoupJ4xz-Ohtr7leqQO7VkZc/535.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2755711351.mp3"/>
    <description>
     Little-known and surprising stories of how all sorts of institutions began.
    </description>
@@ -7794,7 +7794,7 @@
    <link>
     https://www.thisamericanlife.org/339/break-up
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6277235616.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/339/PNL8uUc2rzN1wZcQ7xrm6906QVAPyXcjLCuqA_rgKeo/339.mp3"/>
    <description>
     For Valentine's Day, stories from the heart of heartbreak.
    </description>
