@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    464: Invisible Made Visible (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/464/invisible-made-visible
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/464.mp3"/>
+   <description>
+    David Sedaris, Tig Notaro, Ryan Knighton, and the late David Rakoff in his final performance on the show.
+   </description>
+   <pubDate>
+    2012-05-18T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     856: You’ve Come to the Right Person
    </title>
    <link>
@@ -5914,14 +5929,14 @@
   </item>
   <item>
    <title>
-    464: Invisible Made Visible
+    464: Invisible Made Visible (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/464/invisible-made-visible
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/464/NxdhtyLV_xThE88x4hjshadQk4ht22UNqJl1uUYbIn0/464.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/464.mp3"/>
    <description>
-    David Sedaris, Tig Notaro, Ryan Knighton, and the late David Rakoff, in his final performance on the show.
+    David Sedaris, Tig Notaro, Ryan Knighton, and the late David Rakoff in his final performance on the show.
    </description>
    <pubDate>
     2012-05-18T00:00:00-04:00
