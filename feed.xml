@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    857: Museum of Now (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/857/museum-of-now
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/857.mp3"/>
+   <description>
+    Artifacts and exhibits of this particular moment we are living through.
+   </description>
+   <pubDate>
+    2025-03-21T10:33:42-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     464: Invisible Made Visible
    </title>
    <link>
