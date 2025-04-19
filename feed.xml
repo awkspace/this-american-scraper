@@ -19,12 +19,27 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    332: The Ten Commandments (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/332/the-ten-commandments
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/332.mp3"/>
+   <description>
+    People struggling to follow the Ten Commandments from the book of Exodus.
+   </description>
+   <pubDate>
+    2007-05-04T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     858: How to Tell a Dumb American Story
    </title>
    <link>
     https://www.thisamericanlife.org/858/how-to-tell-a-dumb-american-story
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2801319086.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2801319086.mp3"/>
    <description>
     A couple devises a strategy to get their daughter's killer prosecuted and to get attention for other Native families.
    </description>
@@ -39,7 +54,7 @@
    <link>
     https://www.thisamericanlife.org/668/the-long-fuse
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203"/>
    <description>
     People tossing words out into the world impulsively to ignite and burn over decades.
    </description>
@@ -54,7 +69,7 @@
    <link>
     https://www.thisamericanlife.org/857/museum-of-now
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR5426983563.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5426983563.mp3"/>
    <description>
     Artifacts and exhibits of this particular moment we are living through.
    </description>
@@ -64,27 +79,12 @@
   </item>
   <item>
    <title>
-    464: Invisible Made Visible
-   </title>
-   <link>
-    https://www.thisamericanlife.org/464/invisible-made-visible
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648"/>
-   <description>
-    David Sedaris, Tig Notaro, Ryan Knighton, and the late David Rakoff in his final performance on the show.
-   </description>
-   <pubDate>
-    2012-05-18T00:00:00-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     856: You’ve Come to the Right Person
    </title>
    <link>
     https://www.thisamericanlife.org/856/youve-come-to-the-right-person
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR6910863221.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6910863221.mp3"/>
    <description>
     Sometimes, life’s biggest mysteries require one very specific person to answer them.
    </description>
@@ -99,7 +99,7 @@
    <link>
     https://www.thisamericanlife.org/855/thats-a-weird-thing-to-lie-about
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR4492330255.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4492330255.mp3"/>
    <description>
     Unnecessary and outrageous lies that make you wonder — why lie about that in the first place?
    </description>
@@ -114,7 +114,7 @@
    <link>
     https://www.thisamericanlife.org/854/ten-things-i-dont-want-to-hate-about-you
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR4214593193.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4214593193.mp3"/>
    <description>
     Zach Mack and his dad try to mend a rift between them in a very unusual way.
    </description>
@@ -129,7 +129,7 @@
    <link>
     https://www.thisamericanlife.org/853/groundhog-day
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR4398997362.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4398997362.mp3"/>
    <description>
     People stuck in a loop, trying to find their way out.
    </description>
@@ -144,7 +144,7 @@
    <link>
     https://www.thisamericanlife.org/852/pivot-point
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1499167325.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1499167325.mp3"/>
    <description>
     People living in that in-between moment before everything changes.
    </description>
@@ -159,7 +159,7 @@
    <link>
     https://www.thisamericanlife.org/851/try-a-little-tenderness
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR2941405405.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2941405405.mp3"/>
    <description>
     People try a radical approach to solving their problems.
    </description>
@@ -2904,7 +2904,7 @@
    <link>
     https://www.thisamericanlife.org/668/the-long-fuse
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203"/>
    <description>
     People tossing words out into the world impulsively to ignite and burn over decades.
    </description>
@@ -5964,7 +5964,7 @@
    <link>
     https://www.thisamericanlife.org/464/invisible-made-visible
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1467504464.mp3?updated=1742647648"/>
    <description>
     David Sedaris, Tig Notaro, Ryan Knighton, and the late David Rakoff in his final performance on the show.
    </description>
@@ -7939,14 +7939,14 @@
   </item>
   <item>
    <title>
-    332: The Ten Commandments
+    332: The Ten Commandments (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/332/the-ten-commandments
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/332/D6PgS0nBYX7hQT1eknku9E-VcOpVGJXDl3ik0ccExfk/332.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/332.mp3"/>
    <description>
-    Stories of people struggling to follow the Ten Commandments from the book of Exodus.
+    People struggling to follow the Ten Commandments from the book of Exodus.
    </description>
    <pubDate>
     2007-05-04T00:00:00-04:00
