@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    638: Rom-Com (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/638/rom-com
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/638.mp3"/>
+   <description>
+    Stories about surviving the mishaps of love.
+   </description>
+   <pubDate>
+    2018-02-02T14:42:10-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     859: Chaos Graph
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2025-04-04T11:18:49-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    668: The Long Fuse
-   </title>
-   <link>
-    https://www.thisamericanlife.org/668/the-long-fuse
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7195891963.mp3?updated=1743854203"/>
-   <description>
-    People tossing words out into the world impulsively to ignite and burn over decades.
-   </description>
-   <pubDate>
-    2019-02-08T18:40:45-05:00
    </pubDate>
   </item>
   <item>
@@ -3364,12 +3364,12 @@
   </item>
   <item>
    <title>
-    638: Rom-Com
+    638: Rom-Com (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/638/rom-com
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/638/KvmZxsKWav_rLrLsdL6mZ7X7eSrwdkfbiyeJeQT9kSw/638.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/638.mp3"/>
    <description>
     Stories about surviving the mishaps of love.
    </description>
