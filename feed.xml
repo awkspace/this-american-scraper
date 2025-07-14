@@ -19,12 +19,27 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    594: My Summer Self (Promo)
+    577: Something Only I Can See
+   </title>
+   <link>
+    https://www.thisamericanlife.org/577/something-only-i-can-see
+   </link>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3"/>
+   <description>
+    A woman with muscular dystrophy tries to convince doctors that she has the same gene mutation as an Olympic athlete.
+   </description>
+   <pubDate>
+    2016-01-15T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    594: My Summer Self
    </title>
    <link>
     https://www.thisamericanlife.org/594/my-summer-self
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/594.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3"/>
    <description>
     Summer is a time when change seems more possible than ever. But is that really how it happens?
    </description>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2025-06-06T09:29:47-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    289: Go Ask Your Father
-   </title>
-   <link>
-    https://www.thisamericanlife.org/289/go-ask-your-father
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3"/>
-   <description>
-    Sons and daughters get to find out the one thing they've always wanted to know about their father.
-   </description>
-   <pubDate>
-    2005-05-13T00:00:00-04:00
    </pubDate>
   </item>
   <item>
@@ -4084,12 +4084,12 @@
   </item>
   <item>
    <title>
-    594: My Summer Self (Promo)
+    594: My Summer Self
    </title>
    <link>
     https://www.thisamericanlife.org/594/my-summer-self
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/594.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6987045309.mp3"/>
    <description>
     Summer is a time when change seems more possible than ever. But is that really how it happens?
    </description>
@@ -4344,7 +4344,7 @@
    <link>
     https://www.thisamericanlife.org/577/something-only-i-can-see
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/577/ue5LYtgCZfKBFH38CzVX11l1gL2Kjg49iufSNJyeoRo/577.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9402709209.mp3"/>
    <description>
     A woman with muscular dystrophy tries to convince doctors that she has the same gene mutation as an Olympic athlete.
    </description>
@@ -5739,7 +5739,7 @@
    <link>
     https://www.thisamericanlife.org/484/doppelgangers
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1378612687.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/484/07s5wnAaOSJ79joSx-pWwAn-3lz-HuQRmqXsSRi0Crk/484.mp3"/>
    <description>
     We got a tip about a meat plant selling pig intestines as fake calamari and decided to investigate.
    </description>
@@ -8664,7 +8664,7 @@
    <link>
     https://www.thisamericanlife.org/289/go-ask-your-father
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6627047517.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/289/4nQ4K1aNf5dQjsBZKDXXuavVzkfvhgSiefCMfZ6kpOE/289.mp3"/>
    <description>
     Sons and daughters get to find out the one thing they've always wanted to know about their father.
    </description>
