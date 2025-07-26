@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    245: Allure of the Mean Friend (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/245/allure-of-the-mean-friend
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/245.mp3"/>
+   <description>
+    They treat us badly, they don't call us back, they cancel plans at the last minute, and yet we come back for more.
+   </description>
+   <pubDate>
+    2003-09-05T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     864: Chicago Hope
    </title>
    <link>
@@ -9334,12 +9349,12 @@
   </item>
   <item>
    <title>
-    245: Allure of the Mean Friend
+    245: Allure of the Mean Friend (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/245/allure-of-the-mean-friend
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/245/llb-6HCDKNY_9CUoMld3wNLEvINIEJu1Mpk0HuPtESA/245.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/245.mp3"/>
    <description>
     They treat us badly, they don't call us back, they cancel plans at the last minute, and yet we come back for more.
    </description>
