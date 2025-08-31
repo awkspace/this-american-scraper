@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    233: Starting From Scratch (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/233/starting-from-scratch
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/233.mp3"/>
+   <description>
+    A man in retirement tries to start over in a new life with a new venture: a cable channel, with lots of puppies.
+   </description>
+   <pubDate>
+    2003-03-07T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     865: The Other Territory
    </title>
    <link>
@@ -60,21 +75,6 @@
    </description>
    <pubDate>
     2024-08-08T17:41:57-04:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    839: Meet Me at the Fair
-   </title>
-   <link>
-    https://www.thisamericanlife.org/839/meet-me-at-the-fair
-   </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR1131337518.mp3"/>
-   <description>
-    We spend a few days at the Iowa State Fair.
-   </description>
-   <pubDate>
-    2024-08-22T15:23:09-04:00
    </pubDate>
   </item>
   <item>
@@ -9544,12 +9544,12 @@
   </item>
   <item>
    <title>
-    233: Starting From Scratch
+    233: Starting From Scratch (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/233/starting-from-scratch
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/233/Y94VevnGelkkhZk7c4goSa7Jd30CCMXf8PZ1EC8uPpY/233.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/233.mp3"/>
    <description>
     A man in retirement tries to start over in a new life with a new venture: a cable channel, with lots of puppies.
    </description>
