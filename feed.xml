@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    286: Mind Games (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/286/mind-games
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/286.mp3"/>
+   <description>
+    Stories of people who try simple mind games on others, and then find themselves way in over their heads.
+   </description>
+   <pubDate>
+    2005-04-08T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     868: The Hand That Rocks The Gavel
    </title>
    <link>
@@ -64,17 +79,47 @@
   </item>
   <item>
    <title>
-    233: Starting From Scratch
+    868: The Hand That Rocks The Gavel
    </title>
    <link>
-    https://www.thisamericanlife.org/233/starting-from-scratch
+    https://www.thisamericanlife.org/868/the-hand-that-rocks-the-gavel
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4591929511.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3"/>
    <description>
-    A man in retirement tries to start over in a new life with a new venture: a cable channel, with lots of puppies.
+    A group of immigration judges, who almost never speak to the press, describes the dismantling of our immigration court system from the inside.
    </description>
    <pubDate>
-    2003-03-07T00:00:00-05:00
+    2025-09-12T11:27:18-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    867: College Disorientation
+   </title>
+   <link>
+    https://www.thisamericanlife.org/867/college-disorientation
+   </link>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2581159385.mp3"/>
+   <description>
+    Things are different on college campuses this year. We see inside the drama, with students and staff.
+   </description>
+   <pubDate>
+    2025-09-05T10:42:54-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    866: Watch Out for That Tree
+   </title>
+   <link>
+    https://www.thisamericanlife.org/866/watch-out-for-that-tree
+   </link>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5310093493.mp3"/>
+   <description>
+    Small human plans that run into much larger obstacles.
+   </description>
+   <pubDate>
+    2025-08-22T09:00:55-04:00
    </pubDate>
   </item>
   <item>
@@ -6244,21 +6289,6 @@
   </item>
   <item>
    <title>
-    454: Mr. Daisey and the Apple Factory (Promo)
-   </title>
-   <link>
-    https://www.thisamericanlife.org/454/mr-daisey-and-the-apple-factory
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/454.mp3"/>
-   <description>
-    This American Life has retracted this story.
-   </description>
-   <pubDate>
-    2012-01-06T00:00:00-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
     453: Nemeses
    </title>
    <link>
@@ -8764,12 +8794,12 @@
   </item>
   <item>
    <title>
-    286: Mind Games
+    286: Mind Games (Promo)
    </title>
    <link>
     https://www.thisamericanlife.org/286/mind-games
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/286/xJ82kLiPsfGHaZ75IAld4LcWGplx9EGSPuEOusabfEA/286.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/286.mp3"/>
    <description>
     Stories of people who try simple mind games on others, and then find themselves way in over their heads.
    </description>
