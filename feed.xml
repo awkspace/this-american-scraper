@@ -19,12 +19,12 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
-    286: Mind Games (Promo)
+    286: Mind Games
    </title>
    <link>
     https://www.thisamericanlife.org/286/mind-games
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/286.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3"/>
    <description>
     Stories of people who try simple mind games on others, and then find themselves way in over their heads.
    </description>
@@ -75,6 +75,21 @@
    </description>
    <pubDate>
     2025-08-22T09:00:55-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    869: Harold (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/869/harold
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/869.mp3"/>
+   <description>
+    The story of Harold Washington and the white backlash that ensued when he became Chicago's first Black mayor.
+   </description>
+   <pubDate>
+    2025-10-03T19:14:52-04:00
    </pubDate>
   </item>
   <item>
@@ -8794,12 +8809,12 @@
   </item>
   <item>
    <title>
-    286: Mind Games (Promo)
+    286: Mind Games
    </title>
    <link>
     https://www.thisamericanlife.org/286/mind-games
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/286.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6741917582.mp3"/>
    <description>
     Stories of people who try simple mind games on others, and then find themselves way in over their heads.
    </description>
@@ -9594,7 +9609,7 @@
    <link>
     https://www.thisamericanlife.org/233/starting-from-scratch
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4591929511.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/schedule/extended/233-extended-1758783668.mp3"/>
    <description>
     A man in retirement tries to start over in a new life with a new venture: a cable channel, with lots of puppies.
    </description>
@@ -11824,14 +11839,14 @@
   </item>
   <item>
    <title>
-    84: Harold
+    84: Harold (1997)
    </title>
    <link>
-    https://www.thisamericanlife.org/84/harold
+    https://www.thisamericanlife.org/84/harold-1997
    </link>
    <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/84/34IqYKwmTddi_rMn78cUq23pSG97YDFQ0oe03qyUTFg/84.mp3"/>
    <description>
-    The story of Harold Washington and the white backlash that was set off when he became Chicago's first black mayor.
+    The story of Harold Washington and the white backlash that was set off when he became Chicago's first Black mayor.
    </description>
    <pubDate>
     1997-11-21T00:00:00-05:00
