@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    255: Our Holiday Gift-Giving Guide
+   </title>
+   <link>
+    https://www.thisamericanlife.org/255/our-holiday-gift-giving-guide
+   </link>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3"/>
+   <description>
+    The vexing difficulty of finding the perfect gift.
+   </description>
+   <pubDate>
+    2003-12-19T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     876: Bigger Than Me
    </title>
    <link>
@@ -60,6 +75,21 @@
    </description>
    <pubDate>
     2025-11-18T10:13:49-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    877: The Making Of  (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/877/the-making-of
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/877.mp3"/>
+   <description>
+    How one block in Portland became a movie-set war zone that lots of people think is a real war zone.
+   </description>
+   <pubDate>
+    2025-12-12T13:14:10-05:00
    </pubDate>
   </item>
   <item>
@@ -159,7 +189,7 @@
    <link>
     https://www.thisamericanlife.org/868/the-hand-that-rocks-the-gavel
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4129523400.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/868/r7-nqc3mwQ0XwSliBg3Stva-TohnchzPRvapsbGaRfM/868.mp3"/>
    <description>
     Judges describe the dismantling of our immigration court system from the inside.
    </description>
@@ -9349,12 +9379,12 @@
   </item>
   <item>
    <title>
-    255: Our Holiday Gift-Giving Guide (Promo)
+    255: Our Holiday Gift-Giving Guide
    </title>
    <link>
     https://www.thisamericanlife.org/255/our-holiday-gift-giving-guide
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/255.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3"/>
    <description>
     The vexing difficulty of finding the perfect gift.
    </description>
