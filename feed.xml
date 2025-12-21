@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    877: The Making Of  (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/877/the-making-of
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/877.mp3"/>
+   <description>
+    How one block in Portland, Oregon became a movie-set war zone that lots of people think is a real war zone.
+   </description>
+   <pubDate>
+    2025-12-12T13:14:10-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     255: Our Holiday Gift-Giving Guide
    </title>
    <link>
@@ -75,21 +90,6 @@
    </description>
    <pubDate>
     2025-11-18T10:13:49-05:00
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    877: The Making Of  (Promo)
-   </title>
-   <link>
-    https://www.thisamericanlife.org/877/the-making-of
-   </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/877.mp3"/>
-   <description>
-    How one block in Portland became a movie-set war zone that lots of people think is a real war zone.
-   </description>
-   <pubDate>
-    2025-12-12T13:14:10-05:00
    </pubDate>
   </item>
   <item>
