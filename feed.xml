@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    75: Kindness of Strangers (Promo)
+   </title>
+   <link>
+    https://www.thisamericanlife.org/kindness-of-strangers
+   </link>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/75.mp3"/>
+   <description>
+    What happens when strangers are kind — and when they're not.
+   </description>
+   <pubDate>
+    1997-09-12T00:00:00-04:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     880: What Is Your Emergency?
    </title>
    <link>
@@ -12112,11 +12127,11 @@
     75: Kindness of Strangers (Promo)
    </title>
    <link>
-    https://www.thisamericanlife.org/75/kindness-of-strangers
+    https://www.thisamericanlife.org/kindness-of-strangers
    </link>
    <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/75.mp3"/>
    <description>
-    A locksmith tells the story of an act of kindness he committed, hoping for a small reward. That, and other stories of kindness in New York City.
+    What happens when strangers are kind — and when they're not.
    </description>
    <pubDate>
     1997-09-12T00:00:00-04:00
