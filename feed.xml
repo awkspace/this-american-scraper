@@ -19,6 +19,21 @@
   <itunes:image href="https://i.imgur.com/GDVwvnR.png"/>
   <item>
    <title>
+    605: Kid Logic
+   </title>
+   <link>
+    https://www.thisamericanlife.org/kid-logic
+   </link>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3"/>
+   <description>
+    Kids using perfectly logical arguments and arriving at perfectly wrong conclusions.
+   </description>
+   <pubDate>
+    2016-12-16T00:00:00-05:00
+   </pubDate>
+  </item>
+  <item>
+   <title>
     75: Kindness of Strangers
    </title>
    <link>
@@ -159,7 +174,7 @@
    <link>
     https://www.thisamericanlife.org/873/got-you-pegged
    </link>
-   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6792693909.mp3"/>
+   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/873/qM5tZ9ccHTHZlMV0Ln0FBdnaih5OOprPvJbClJCxJLA/873.mp3"/>
    <description>
     The pitfalls of making snap judgments about others.
    </description>
@@ -4174,12 +4189,12 @@
   </item>
   <item>
    <title>
-    605: Kid Logic (Promo)
+    605: Kid Logic
    </title>
    <link>
     https://www.thisamericanlife.org/kid-logic
    </link>
-   <enclosure type="audio/mpeg" url="https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/605.mp3"/>
+   <enclosure type="audio/mpeg" url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3"/>
    <description>
     Kids using perfectly logical arguments and arriving at perfectly wrong conclusions.
    </description>
